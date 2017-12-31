@@ -1,5 +1,5 @@
 
-set(CN_PROJECT_NAME "karbowanec")
-set(CN_CURRENCY_DISPLAY_NAME "Karbo")
-set(CN_CURRENCY_TICKER "KRB")
+set(CN_PROJECT_NAME "balkancoin")
+set(CN_CURRENCY_DISPLAY_NAME "Balkancoin")
+set(CN_CURRENCY_TICKER "BKC")
 set(CN_VERSION 1.2.0)
