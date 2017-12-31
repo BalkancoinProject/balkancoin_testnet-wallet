@@ -7,7 +7,7 @@ git clone https://github.com/seredat/karbowanecwallet.git
 **2. Set symbolic link to coin sources at the same level as `src`. For example:**
 
 ```
-ln -s ../karbowanec cryptonote
+ln -s ../balkancoin cryptonote
 ```
 
 Alternative way is to create git submodule:
