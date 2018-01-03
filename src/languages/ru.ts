@@ -1527,8 +1527,8 @@ Are you sure?</source>
         <translation type="vanished">Карбованец в. %2 (%1)</translation>
     </message>
     <message>
-        <source>More info can be found at www.karbowanec.com in Documentation section</source>
-        <translation>Больше информации на сайте www.karbowanec.com в разделе Документация.</translation>
+        <source>More info can be found at www.balkancoin.org in Documentation section</source>
+        <translation>Больше информации на сайте www.balkancoin.org в разделе Документация.</translation>
     </message>
     <message>
         <source>Connection settings changed</source>

@@ -1538,8 +1538,8 @@ Jesteś pewien?</translation>
         <translation type="vanished">%1waniec v. %2</translation>
     </message>
     <message>
-        <source>More info can be found at www.karbowanec.com in Documentation section</source>
-        <translation>Więcej informacji można znaleźć na stronie www.karbowanec.com w sekcji Dokumentacja</translation>
+        <source>More info can be found at www.balkancoin.org in Documentation section</source>
+        <translation>Więcej informacji można znaleźć na stronie www.balkancoin.org w sekcji Dokumentacja</translation>
     </message>
     <message>
         <source>Connection settings changed</source>

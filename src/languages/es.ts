@@ -1543,8 +1543,8 @@ Are you sure?</source>
         <translation type="vanished">%1 Monedero %2</translation>
     </message>
     <message>
-        <source>More info can be found at www.karbowanec.com in Documentation section</source>
-        <translation>Se puede encontrar más información en www.karbowanec.com en la sección Documentación</translation>
+        <source>More info can be found at www.balkancoin.org in Documentation section</source>
+        <translation>Se puede encontrar más información en www.balkancoin.org en la sección Documentación</translation>
     </message>
     <message>
         <source>Connection settings changed</source>

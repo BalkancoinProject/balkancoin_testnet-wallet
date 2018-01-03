@@ -11,7 +11,7 @@
 #include <QNetworkReply>
 #include <QUrl>
 
-const static QString BKCCOIN_UPDATE_URL = "http://karbowanec.com/download/update.txt";
+const static QString BKCCOIN_UPDATE_URL = "http://download.balkancoin.org/update.txt";
 
 class Updater : public QObject
 {

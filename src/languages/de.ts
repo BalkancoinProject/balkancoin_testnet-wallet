@@ -1507,8 +1507,8 @@ Bist du sicher?</translation>
         <translation>%1 Brieftasche %2</translation>
     </message>
     <message>
-        <source>More info can be found at www.karbowanec.com in Documentation section</source>
-        <translation>Weitere Informationen finden Sie unter www.karbowanec.com im Abschnitt Dokumentation</translation>
+        <source>More info can be found at www.balkancoin.org in Documentation section</source>
+        <translation>Weitere Informationen finden Sie unter www.balkancoin.org im Abschnitt Dokumentation</translation>
     </message>
     <message>
         <source>Connection settings changed</source>
