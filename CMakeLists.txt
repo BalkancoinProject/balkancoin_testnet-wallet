@@ -288,7 +288,7 @@ elseif (UNIX)
         set(CPACK_DEBIAN_PACKAGE_SECTION Office)
         set(CPACK_DEBIAN_PACKAGE_SHLIBDEPS ON)
         set(CPACK_DEBIAN_PACKAGE_DESCRIPTION "Balkancoin BKC wallet
- Balkancoin is Ukrainian decentralized, privacy oriented peer-to-peer
+ Balkancoin is decentralized, privacy oriented peer-to-peer
  cryptocurrency. It is open-source, nobody owns or controls Balkancoin
  and everyone can take part.")
 set(CPACK_PACKAGE_FILE_NAME "${CPACK_DEBIAN_PACKAGE_NAME}-${CPACK_PACKAGE_VERSION}-${VERSION_RELEASE}${CPACK_SYSTEM_NAME}")
@@ -301,7 +301,7 @@ set(CPACK_PACKAGE_FILE_NAME "${CPACK_DEBIAN_PACKAGE_NAME}-${CPACK_PACKAGE_VERSIO
         set(CPACK_RPM_PACKAGE_REQUIRES "qt5-qtbase >= 5.3.2, qt5-qtbase-gui >= 5.3.2")
         set(CPACK_RPM_PACKAGE_SUMMARY "Balkancoin BKC wallet")
         set(CPACK_RPM_PACKAGE_DESCRIPTION "Balkancoin BKC wallet
- Balkancoin is Ukrainian decentrilized, privacy oriented peer-to-peer
+ Balkancoin is decentrilized, privacy oriented peer-to-peer
  cryptocurrency. It is open-source, nobody owns or controls Balkancoin
  and everyone can take part.")
 set(CPACK_PACKAGE_FILE_NAME "${CPACK_PACKAGE_NAME}-${CPACK_PACKAGE_VERSION}-${VERSION_RELEASE}${CPACK_SYSTEM_NAME}")
