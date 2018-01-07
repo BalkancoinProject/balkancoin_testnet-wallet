@@ -286,7 +286,7 @@
           </size>
          </property>
          <property name="text">
-          <string> bkc</string>
+          <string> BKC</string>
          </property>
          <property name="alignment">
           <set>Qt::AlignBottom|Qt::AlignLeading|Qt::AlignLeft</set>
