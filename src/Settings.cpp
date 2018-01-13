@@ -90,7 +90,7 @@ void Settings::load() {
   }
 
   QStringList defaultPoolList;
-  defaultPoolList << "us2.mininggood.com:3363";
+  defaultPoolList << "miner.balkancoin.org:3363" << "us2.mininggood.com:3363";
   if (!m_settings.contains(OPTION_MINING_POOLS)) {
     setMiningPoolList(QStringList() << defaultPoolList);
   } else {
@@ -104,7 +104,7 @@ void Settings::load() {
   }
 
   QStringList defaultNodesList;
-  defaultNodesList << "192.169.140.225:37777" << "192.169.142.165:37777"; // "pool2.democats.org:7671"
+  defaultNodesList << "192.169.140.225:37777" << "192.169.142.165:37777";
   if (!m_settings.contains(OPTION_RPCNODES)) {
     setRpcNodesList(QStringList() << defaultNodesList);
   } else {

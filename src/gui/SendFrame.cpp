@@ -259,7 +259,7 @@ void SendFrame::sendClicked() {
       // Dev donation
       if (m_ui->donateCheckBox->isChecked()) {
           CryptoNote::WalletLegacyTransfer walletTransfer;
-          walletTransfer.address = "bkc1eAFmHPk7ZecgfCAmRxEXCkKagsuxdRvt6mYZ2W9SAXDgqmUw1n7FZQnUnYQ2UihYraDzyYmbDgB7N4RDXbiY4CzTidkAVu";
+          walletTransfer.address = "bkc1QVuKuyYWQQRgWaYaLhVriGoS5vJjDioKzAirzEaTA1kSvRB9DuK5TUMpCf5AkJCYsZa6r3BVqE32L3GscdYo8HwnpqHQHD";
           walletTransfer.amount = CurrencyAdapter::instance().parseAmount(m_ui->m_donateSpin->cleanText());
           walletTransfers.push_back(walletTransfer);
       }
