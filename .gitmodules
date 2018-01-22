@@ -2,6 +2,3 @@
 	path = libqrencode
 	url = https://github.com/fukuchi/libqrencode.git
 	branch = 3.4
-[submodule "cryptonote"]
-	path = cryptonote
-	url = https://github.com/zlatkomajstor/balkancoin.git
