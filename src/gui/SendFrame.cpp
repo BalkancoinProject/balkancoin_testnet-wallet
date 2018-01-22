@@ -125,8 +125,8 @@ void SendFrame::amountValueChange() {
         if (remote_node_fee < CurrencyAdapter::instance().getMinimumFee()) {
             remote_node_fee = CurrencyAdapter::instance().getMinimumFee();
         }
-        if (remote_node_fee > 10000000000000) {
-            remote_node_fee = 10000000000000;
+        if (remote_node_fee > 1000000000) {
+            remote_node_fee = 1000000000;
         }
     }
 
