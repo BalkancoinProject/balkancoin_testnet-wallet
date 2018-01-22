@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="be_BY" sourcelanguage="en">
+<TS version="2.1" language="fr_FR">
 <context>
     <name>AboutDialog</name>
     <message>
         <source>About %1</source>
-        <translation>Аб %1</translation>
+        <translation>À propos %1</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>Зачыніць</translation>
+        <translation>Fermer</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Balkancoin v. %1&lt;/p&gt;&lt;p&gt;This is the next generation anonymous cryptocurrency based on CryptoNote.&lt;/p&gt;&lt;p&gt;Copyright (c) 2012-2015. CryptoNote Developers&lt;/p&gt;&lt;p&gt;Copyright (c) 2015-2016. DigitalNote Developers&lt;/p&gt;&lt;p&gt;Copyright (c) 2016-2017. Karbowanec Developers&lt;/p&gt;&lt;p&gt;Copyright (c) 2017-2018. Balkancoin Developers&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://opensource.org/licenses/MIT&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#c69c6c;&quot;&gt;http://opensource.org/licenses/MIT&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://cryptonote.org/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#c69c6c;&quot;&gt;https://cryptonote.org/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://karbowanec.com/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#c69c6c;&quot;&gt;http://karbowanec.com/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.balkancoin.org/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#c69c6c;&quot;&gt;https://www.balkancoin.org/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Balkancoin v. %1&lt;/p&gt;&lt;p&gt;Гэта криптовалюта новага пакалення на аснове CryptoNote.&lt;/p&gt;&lt;p&gt;Copyright (c) 2012-2015. CryptoNote Developers&lt;/p&gt;&lt;p&gt;Copyright (c) 2015-2016. DigitalNote Developers&lt;/p&gt;&lt;p&gt;Copyright (c) 2016-2017. Karbowanec Developers&lt;/p&gt;&lt;p&gt;Copyright (c) 2017-2018. Balkancoin Developers&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://opensource.org/licenses/MIT&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#c69c6c;&quot;&gt;http://opensource.org/licenses/MIT&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://cryptonote.org/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#c69c6c;&quot;&gt;https://cryptonote.org/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://karbowanec.com/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#c69c6c;&quot;&gt;http://karbowanec.com/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.balkancoin.org/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#c69c6c;&quot;&gt;https://www.balkancoin.org/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Balkancoin v. %1&lt;/p&gt;&lt;p&gt;Ceci est la crypto-monnaie anonyme de la prochaine génération basée sur CryptoNote.&lt;/p&gt;&lt;p&gt;Copyright (c) 2012-2015. CryptoNote Developers&lt;/p&gt;&lt;p&gt;Copyright (c) 2015-2016. DigitalNote Developers&lt;/p&gt;&lt;p&gt;Copyright (c) 2016-2017. Karbowanec Developers&lt;/p&gt;&lt;p&gt;Copyright (c) 2017-2018. Balkancoin Developers&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://opensource.org/licenses/MIT&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#c69c6c;&quot;&gt;http://opensource.org/licenses/MIT&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://cryptonote.org/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#c69c6c;&quot;&gt;https://cryptonote.org/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://karbowanec.com/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#c69c6c;&quot;&gt;http://karbowanec.com/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.balkancoin.org/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#c69c6c;&quot;&gt;https://www.balkancoin.org/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Balkancoin v. %1&lt;/p&gt;&lt;p&gt;This is the next generation anonymous cryptocurrency based on CryptoNote.&lt;/p&gt;&lt;p&gt;Copyright (c) 2012-2015. CryptoNote Developers&lt;/p&gt;&lt;p&gt;Copyright (c) 2012-2016. Bytecoin Developers&lt;/p&gt;&lt;p&gt;Copyright (c) 2015-2016. DigitalNote Developers&lt;/p&gt;&lt;p&gt;Copyright (c) 2016-2018. Karbo (Karbowanec) Developers&lt;/p&gt;&lt;p&gt;Copyright (c) 2017-2018. Balkancoin Developers&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://opensource.org/licenses/MIT&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#c69c6c;&quot;&gt;http://opensource.org/licenses/MIT&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://cryptonote.org/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#c69c6c;&quot;&gt;https://cryptonote.org/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://karbo.io/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#c69c6c;&quot;&gt;http://karbo.io/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.balkancoin.org/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#c69c6c;&quot;&gt;https://www.balkancoin.org/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;THE SOFTWARE IS PROVIDED &amp;quot;AS IS&amp;quot;, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Balkancoin v. %1&lt;/p&gt;&lt;p&gt;Гэта криптовалюта новага пакалення на аснове CryptoNote.&lt;/p&gt;&lt;p&gt;Copyright (c) 2012-2015. CryptoNote Developers&lt;/p&gt;&lt;p&gt;Copyright (c) 2012-2016. Bytecoin Developers&lt;/p&gt;&lt;p&gt;Copyright (c) 2015-2016. DigitalNote Developers&lt;/p&gt;&lt;p&gt;Copyright (c) 2016-2018. Karbo (Karbowanec) Developers&lt;/p&gt;&lt;p&gt;Copyright (c) 2017-2018. Balkancoin Developers&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://opensource.org/licenses/MIT&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#c69c6c;&quot;&gt;http://opensource.org/licenses/MIT&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://cryptonote.org/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#c69c6c;&quot;&gt;https://cryptonote.org/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://karbo.io/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#c69c6c;&quot;&gt;http://karbo.io/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.balkancoin.org/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#c69c6c;&quot;&gt;https://www.balkancoin.org/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;THE SOFTWARE IS PROVIDED &amp;quot;AS IS&amp;quot;, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Balkancoin v. %1&lt;/p&gt;&lt;p&gt;Ceci est la crypto-monnaie anonyme de la prochaine génération basée sur CryptoNote.&lt;/p&gt;&lt;p&gt;Copyright (c) 2012-2015. CryptoNote Developers&lt;/p&gt;&lt;p&gt;Copyright (c) 2012-2016. Bytecoin Developers&lt;/p&gt;&lt;p&gt;Copyright (c) 2015-2016. DigitalNote Developers&lt;/p&gt;&lt;p&gt;Copyright (c) 2016-2018. Karbo (Karbowanec) Developers&lt;/p&gt;&lt;p&gt;Copyright (c) 2017-2018. Balkancoin Developers&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://opensource.org/licenses/MIT&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#c69c6c;&quot;&gt;http://opensource.org/licenses/MIT&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://cryptonote.org/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#c69c6c;&quot;&gt;https://cryptonote.org/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://karbo.io/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#c69c6c;&quot;&gt;http://karbo.io/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.balkancoin.org/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#c69c6c;&quot;&gt;https://www.balkancoin.org/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;LA SOFTWARE EST FOURNIE &amp;quot;TELLE QUELLE&amp;quot;, SANS GARANTIE D'AUCUNE SORTE, EXPLICITE OU IMPLICITE, NOTAMMENT SANS GARANTIE DE QUALITÉ MARCHANDE, D’ADÉQUATION À UN USAGE PARTICULIER ET D'ABSENCE DE CONTREFAÇON. EN AUCUN CAS, LES AUTEURS OU TITULAIRES DU DROIT D'AUTEUR NE SERONT RESPONSABLES DE TOUT DOMMAGE, RÉCLAMATION OU AUTRE RESPONSABILITÉ, QUE CE SOIT DANS LE CADRE D'UN CONTRAT, D'UN DÉLIT OU AUTRE, EN PROVENANCE DE, CONSÉCUTIF À OU EN RELATION AVEC LA SOFTWARE OU SON UTILISATION, OU AVEC D'AUTRES ÉLÉMENTS DE LA SOFTWARE.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
     <name>AccountFrame</name>
     <message>
         <source>Address:</source>
-        <translation type="vanished">Адрас:</translation>
+        <translation type="vanished">Adresse:</translation>
     </message>
     <message>
         <source>...</source>
@@ -32,112 +32,128 @@
     </message>
     <message>
         <source>Show private key</source>
-        <translation type="vanished">Паказаць прыватны ключ</translation>
+        <translation type="vanished">Afficher la clé privée</translation>
     </message>
     <message>
         <source>Your account:</source>
-        <translation>Ваш рахунак:</translation>
+        <translation>Votre compte:</translation>
     </message>
     <message>
         <source>Your receiving address</source>
-        <translation>Гэта ваш адрас для атрымання карбованцаў</translation>
+        <translation>Votre compte de réception</translation>
     </message>
     <message>
         <source>This is your account address</source>
-        <translation>Гэта адрас вашага рахунку</translation>
+        <translation>Ceci est l&apos;adresse de votre compte</translation>
     </message>
     <message>
         <source>Copy address</source>
-        <translation>Скапіяваць адрас</translation>
+        <translation>Copier l&apos;adresse</translation>
     </message>
     <message>
         <source>Total balance</source>
-        <translation>Баланс рахунку</translation>
+        <translation>Solde total</translation>
     </message>
     <message>
         <source> bkc</source>
-        <translation> крб.</translation>
+        <translation> bkc</translation>
     </message>
     <message>
         <source>Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Cadre</translation>
     </message>
     <message>
         <source>Show QR code</source>
-        <translation>Паказаць QR-код</translation>
+        <translation>Afficher le code QR</translation>
     </message>
     <message>
         <source>0.00</source>
-        <translation type="unfinished"></translation>
+        <translation>0.00</translation>
     </message>
 </context>
 <context>
     <name>AddressBookDialog</name>
     <message>
         <source>Select address</source>
-        <translation>Выбраць адрас</translation>
+        <translation>Sélectionnez l&apos;adresse</translation>
     </message>
     <message>
         <source>Choose</source>
-        <translation>Выбраць</translation>
+        <translation>Choisir</translation>
     </message>
 </context>
 <context>
     <name>AddressBookFrame</name>
     <message>
         <source>Frame</source>
-        <translation></translation>
+        <translation>Cadre</translation>
     </message>
     <message>
         <source>New address</source>
-        <translation type="vanished">Дадаць адрас</translation>
+        <translation type="vanished">Nouvelle adresse</translation>
     </message>
     <message>
         <source>Delete address</source>
-        <translation type="vanished">Выдаліць адрас</translation>
+        <translation type="vanished">Supprimer l&apos;adresse</translation>
     </message>
     <message>
         <source>Copy address</source>
-        <translation>Скапіяваць адрас</translation>
+        <translation>Copier l&apos;adresse</translation>
     </message>
     <message>
         <source>New contact</source>
-        <translation>Дадаць кантакт</translation>
+        <translation>Nouveau contact</translation>
     </message>
     <message>
         <source>Edit contact</source>
-        <translation>Рэдагаваць кантакт</translation>
+        <translation>Modifier le contact</translation>
     </message>
     <message>
         <source>Delete contact</source>
-        <translation>Выдаліць кантакт</translation>
+        <translation>Supprimer le contact</translation>
     </message>
     <message>
         <source>Copy Payment ID</source>
-        <translation>Скапіяваць ідэнтыфікатар плацяжу</translation>
+        <translation>Copier l&apos;identifiant de paiement</translation>
     </message>
 </context>
 <context>
     <name>ChangeLanguageDialog</name>
     <message>
         <source>Change language</source>
-        <translation>Змяніць мову</translation>
+        <translation>Changer de langue</translation>
     </message>
     <message>
         <source>Select language:</source>
-        <translation>Абярыце мову:</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation>Адмяніць</translation>
-    </message>
-    <message>
-        <source>OK</source>
-        <translation>Добра</translation>
+        <translation>Choisir la langue:</translation>
     </message>
     <message>
         <source>English</source>
-        <translation type="unfinished"></translation>
+        <translation>Anglais</translation>
+    </message>
+    <message>
+        <source>Ukrainian</source>
+        <translation type="vanished">Ukrainien</translation>
+    </message>
+    <message>
+        <source>Russian</source>
+        <translation type="vanished">Russe</translation>
+    </message>
+    <message>
+        <source>Polish</source>
+        <translation type="vanished">Polonais</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Annuler</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation>OK</translation>
+    </message>
+    <message>
+        <source>Belarusian</source>
+        <translation type="vanished">Biélorusse</translation>
     </message>
     <message>
         <source>Українська</source>
@@ -172,160 +188,164 @@
     <name>ChangePasswordDialog</name>
     <message>
         <source>Change password</source>
-        <translation>Змена пароля</translation>
+        <translation>Changer le mot de passe</translation>
     </message>
     <message>
         <source>Ok</source>
-        <translation>Добра</translation>
+        <translation>Ok</translation>
     </message>
     <message>
         <source>Old password:</source>
-        <translation>Стары пароль:</translation>
+        <translation>Ancien mot de passe:</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Адмяніць</translation>
+        <translation>Annuler</translation>
     </message>
     <message>
         <source>New password:</source>
-        <translation>Новы пароль:</translation>
+        <translation>Nouveau mot de passe:</translation>
     </message>
     <message>
         <source>Confirm:</source>
-        <translation>Пацвердзіць:</translation>
+        <translation>Confirmer:</translation>
     </message>
     <message>
         <source>Password not confirmed</source>
-        <translation>Пароль не пацверджаны</translation>
+        <translation>Mot de passe non confirmé</translation>
     </message>
 </context>
 <context>
     <name>ConfirmSendDialog</name>
     <message>
-        <source>Confirm sending %1 BKC</source>
-        <translation>Пацверджанне адпраўкі %1 крб.</translation>
+        <source>Comfirm sending %1 BKC</source>
+        <translation type="vanished">Confirmer l&apos;envoi de %1 BKC</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Are you sure you want to send &lt;strong&gt;%1 BKC&lt;/strong&gt;?&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Жадаеце выслаць &lt;strong&gt;%1 крб.&lt;/strong&gt;?&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Êtes-vous sûr de vouloir envoyer &lt;strong&gt;%1 BKC&lt;/strong&gt;?&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Yes</source>
-        <translation>Ды</translation>
+        <translation>Oui</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Адмяніць</translation>
+        <translation>Annuler</translation>
+    </message>
+    <message>
+        <source>Confirm sending %1 BKC</source>
+        <translation type="unfinished">Confirmer l&apos;envoi de %1 BKC</translation>
     </message>
 </context>
 <context>
     <name>ConnectionSettingsDialog</name>
     <message>
         <source>Connection settings</source>
-        <translation>Параметры падлучэння</translation>
+        <translation>Paramètres de connexion</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Адмяніць</translation>
+        <translation>Annuler</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation>Захаваць</translation>
+        <translation>Sauvegarder</translation>
     </message>
     <message>
         <source>Auto selection</source>
-        <translation>Аўтаматычны выбар</translation>
+        <translation>Sélection automatique</translation>
     </message>
     <message>
         <source>Wallet will connect to local daemon on default port. In case of no local daemon running it will launch built-in node.</source>
-        <translation>Гаманец будзе падлучацца да лакальнага дэману праз порт па-змаўчанні. Калі дэман ня запушчаны, ён запусціць убудаваны вузел.</translation>
+        <translation>Le portefeuille se connectera au daemon local sur le port par défaut. En l&apos;absence de daemon local, il lancera le noeud intégré.</translation>
     </message>
     <message>
         <source>Embedded</source>
-        <translation>Убудаваны вузел</translation>
+        <translation>Intégré</translation>
     </message>
     <message>
         <source>Built-in embedded node will be used.</source>
-        <translation>Будзе запускацца ўбудаваны вузел.</translation>
+        <translation>Un built-in nœud intégré sera utilisé.</translation>
     </message>
     <message>
         <source>Local daemon</source>
-        <translation>Лакальны дэман</translation>
+        <translation>Daemon local</translation>
     </message>
     <message>
         <source>Port: </source>
-        <translation>Порт: </translation>
+        <translation>Port: </translation>
     </message>
     <message>
         <source>Wallet will connect to local daemon on specified port.</source>
-        <translation>Гаманец будзе падлучацца да лакальнага дэману праз паказаны порт.</translation>
+        <translation>Le portefeuille se connectera au daemon local sur le port spécifié.</translation>
     </message>
     <message>
         <source>Remote daemon</source>
-        <translation>Аддалены дэман</translation>
+        <translation>Daemon disant</translation>
     </message>
     <message>
         <source>Add node</source>
-        <translation>Дадаць вузел</translation>
+        <translation>Ajouter un noeud</translation>
     </message>
     <message>
         <source>Wallet will connect to remote node running in local or global network. Please select node or specify IP address or domain name and port. In this mode wallet sends 0.25% fee from each transaction to the node, but no more than 10 BKC.</source>
-        <translation>Гаманец будзе падлучацца да вузла ў лакальнай або глабальнай сеткі. Выберыце вузел або пакажыце IP адрас або дамен і порт каб дадаць новы. У гэтым рэжыме гаманец плаціць камісію вузлу ў памеры 0,25% ад сумы транзакцыі, але не больш за 10 крб.</translation>
+        <translation>Le portefeuille se connecte au noeud distant en cours d&apos;exécution sur un réseau local ou global. Veuillez sélectionner un noeud ou spécifier une adresse IP ou un nom de domaine et un port. Dans ce mode, le portefeuille envoie des frais de 0,25% de chaque transaction au nœud, mais pas plus de 10 BKC.</translation>
     </message>
     <message>
         <source>Remove node</source>
-        <translation>Выдаліць вузел</translation>
+        <translation>Supprimer le noeud</translation>
     </message>
 </context>
 <context>
     <name>ExitWidget</name>
     <message>
         <source>Saving data</source>
-        <translation>Запісваюцца дадзеныя</translation>
+        <translation>La sauvegarde des données</translation>
     </message>
     <message>
         <source>%1 wallet is saving data.
 Please wait...</source>
-        <translation>%1 запісвае дадзеныя.
-Пачакайце калі ласка...</translation>
+        <translation>%1 portefeuille sauvegarde les données.
+S&apos;il vous plaît, patientez...</translation>
     </message>
 </context>
 <context>
     <name>ExportTrackingKeyDialog</name>
     <message>
         <source>Export tracking key</source>
-        <translation>Экспартаваць ключ адсочвання</translation>
+        <translation>Exporter la clé de suivi</translation>
     </message>
     <message>
         <source>Tracking key allows to see all incoming transactions of this wallet. It does not allow to spend funds.</source>
-        <translation>Ключ адсочвання дазваляе ўбачыць усе ўваходныя транзакцыі гэтага гаманца. Гэта не дазваляе выдаткоўваць сродкі.</translation>
+        <translation>La clé de suivi permet de voir toutes les transactions entrantes dans ce portefeuille. Cela ne permet pas de dépenser des fonds.</translation>
     </message>
     <message>
         <source>Save to file</source>
-        <translation>Захаваць у файл</translation>
+        <translation>Enregistrer dans le fichier</translation>
     </message>
     <message>
         <source>Copy key</source>
-        <translation>Скапіяваць ключ</translation>
+        <translation>Copier la clé</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>Зачыніць</translation>
+        <translation>Fermer</translation>
     </message>
 </context>
 <context>
     <name>ImportKeyDialog</name>
     <message>
         <source>Import private key</source>
-        <translation>Імпартаваць прыватны ключ</translation>
+        <translation>Importer la clé privée</translation>
     </message>
     <message>
         <source>Key:</source>
-        <translation>Ключ:</translation>
+        <translation>Clé:</translation>
     </message>
     <message>
         <source>Wallet path:</source>
-        <translation>Шлях да гаманца:</translation>
+        <translation>Chemin du portefeuille:</translation>
     </message>
     <message>
         <source>...</source>
@@ -333,136 +353,136 @@ Please wait...</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Адмяніць</translation>
+        <translation>Annuler</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation>Добра</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
     <name>ImportTrackingKeyDialog</name>
     <message>
         <source>Import tracking key</source>
-        <translation>Імпартаваць ключ адсочвання</translation>
+        <translation>Importer la clé de suivi</translation>
     </message>
     <message>
         <source>...</source>
-        <translation type="unfinished">...</translation>
+        <translation>...</translation>
     </message>
     <message>
         <source>Key:</source>
-        <translation>Ключ:</translation>
+        <translation>Clé:</translation>
     </message>
     <message>
         <source>Wallet path:</source>
-        <translation>Шлях да гаманца:</translation>
+        <translation>Chemin du portefeuille:</translation>
     </message>
     <message>
         <source>Import a tracking key of a wallet to see all its incoming transactions. It doesn&apos;t allow spending funds.</source>
-        <translation>Імпарт ключа адсочвання гаманца, каб убачыць усе ўваходныя транзакцыі. Гэта не дазваляе выдаткоўваць сродкі.</translation>
+        <translation>Importez une clé de suivi d&apos;un portefeuille pour voir toutes ses transactions entrantes. Ça ne permet pas de dépenser des fonds.</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Адмяніць</translation>
+        <translation>Annuler</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation>Добра</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
     <name>InfoDialog</name>
     <message>
         <source>Information</source>
-        <translation>Інфармацыя</translation>
+        <translation>Information</translation>
     </message>
     <message>
         <source>Network</source>
-        <translation>Сетка</translation>
+        <translation>Réseau</translation>
     </message>
     <message>
         <source>Connections</source>
-        <translation>Падлучэння</translation>
+        <translation>Les connections</translation>
     </message>
     <message>
         <source>Peer list</source>
-        <translation>Спіс піров</translation>
+        <translation>La liste de peer</translation>
     </message>
     <message>
         <source>Blockchain</source>
-        <translation>Блокчэйн</translation>
+        <translation>Blockchain</translation>
     </message>
     <message>
         <source>Height</source>
-        <translation>Вышыня</translation>
+        <translation>La taille</translation>
     </message>
     <message>
         <source>Difficulty</source>
-        <translation>Цяжкасць</translation>
+        <translation>La Difficulté</translation>
     </message>
     <message>
         <source>Transactions</source>
-        <translation>Транзакцыі</translation>
+        <translation>Les transactions</translation>
     </message>
     <message>
         <source>Unconfirmed transactions</source>
-        <translation>Непацверджаны транзакцыі</translation>
+        <translation>Transactions non confirmées</translation>
     </message>
     <message>
         <source>Alternative blocks</source>
-        <translation>Альтэрнатыўныя блокі</translation>
+        <translation>Blocs alternatifs</translation>
     </message>
     <message>
         <source>Last block date and time</source>
-        <translation>Дата і час апошняга блока</translation>
+        <translation>Date et heure du dernier bloc</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>Зачыніць</translation>
+        <translation>Fermer</translation>
     </message>
 </context>
 <context>
     <name>MainWindow</name>
     <message>
         <source>MainWindow</source>
-        <translation></translation>
+        <translation>FenêtrePrincipale</translation>
     </message>
     <message>
         <source>File</source>
-        <translation>Файл</translation>
+        <translation>Fichier</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation>Налады</translation>
+        <translation>Paramètres</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation>Дапамога</translation>
+        <translation>Aide</translation>
     </message>
     <message>
         <source>toolBar</source>
-        <translation>Панэль інструментаў</translation>
+        <translation>BarreD&apos;outils</translation>
     </message>
     <message>
         <source>Overview</source>
-        <translation>Агляд</translation>
+        <translation>Aperçu</translation>
     </message>
     <message>
         <source>Send</source>
-        <translation>Выслаць</translation>
+        <translation>Envoyer</translation>
     </message>
     <message>
         <source>Receive</source>
-        <translation>Атрымаць</translation>
+        <translation>Recevoir</translation>
     </message>
     <message>
         <source>Transactions</source>
-        <translation>Транзакцыі</translation>
+        <translation>Transactions</translation>
     </message>
     <message>
         <source>Exit</source>
-        <translation>Выхад</translation>
+        <translation>Sortie</translation>
     </message>
     <message>
         <source>Ctrl+Q</source>
@@ -470,75 +490,75 @@ Please wait...</source>
     </message>
     <message>
         <source>Address Book</source>
-        <translation type="vanished">Адрасная кніга</translation>
+        <translation type="vanished">Carnet d&apos;adresses</translation>
     </message>
     <message>
         <source>Create wallet</source>
-        <translation>Стварыць гаманец</translation>
+        <translation>Créer un portefeuille</translation>
     </message>
     <message>
         <source>Open wallet</source>
-        <translation>Адкрыць гаманец</translation>
+        <translation>Ouvrir un portefeuille</translation>
     </message>
     <message>
         <source>Encrypt wallet</source>
-        <translation>Зашыфраваць гаманец</translation>
+        <translation>Chiffrer le portefeuille</translation>
     </message>
     <message>
         <source>Change password</source>
-        <translation>Змяніць пароль</translation>
+        <translation>Changer le mot de passe</translation>
     </message>
     <message>
         <source>About</source>
-        <translation>Аб праграме</translation>
+        <translation>À propos</translation>
     </message>
     <message>
         <source>About Qt</source>
-        <translation>Аб Qt</translation>
+        <translation>À propos de Qt</translation>
     </message>
     <message>
         <source>Backup wallet</source>
-        <translation>Рэзервовае капіраванне кашалька</translation>
+        <translation>Backup le portefeuille</translation>
     </message>
     <message>
         <source>Start on system login</source>
-        <translation>Запускаць пры ўваходзе ў сістэму</translation>
+        <translation>Démarrer sur la connexion système</translation>
     </message>
     <message>
         <source>Minimize to tray</source>
-        <translation>Згортваць у трэй</translation>
+        <translation>Minimizer au barre des tâches</translation>
     </message>
     <message>
         <source>Close to tray</source>
-        <translation>Не зачыняць, а згортваць у трэй</translation>
+        <translation>Fermer au barre des tâches</translation>
     </message>
     <message>
         <source>Import private key</source>
-        <translation>Імпартаваць прыватны ключ</translation>
+        <translation>Importer une clé privée</translation>
     </message>
     <message>
         <source>Mining</source>
-        <translation>Чаканка</translation>
+        <translation>Mining</translation>
     </message>
     <message>
         <source>Reset wallet</source>
-        <translation>Скідванне кашалька</translation>
+        <translation>Réinitialiser le portefeuille</translation>
     </message>
     <message>
         <source>Contacts</source>
-        <translation>Кантакты</translation>
+        <translation>Contacts</translation>
     </message>
     <message>
         <source>Language</source>
-        <translation>Мова</translation>
+        <translation>La langue</translation>
     </message>
     <message>
         <source>Change language</source>
-        <translation>Змяніць мову</translation>
+        <translation>Changer la langue</translation>
     </message>
     <message>
         <source>Show private key</source>
-        <translation type="vanished">Паказаць прыватны ключ</translation>
+        <translation type="vanished">Afficher la clé privée</translation>
     </message>
     <message>
         <source>F1</source>
@@ -546,605 +566,613 @@ Please wait...</source>
     </message>
     <message>
         <source>Connection</source>
-        <translation>Падключэнне</translation>
+        <translation>Connexion</translation>
     </message>
     <message>
         <source>Open payment request</source>
-        <translation>Адкрыць запыт плацяжу</translation>
+        <translation>Ouvrir la demande de paiement</translation>
     </message>
     <message>
         <source>Export tracking key</source>
-        <translation>Экспартаваць ключ адсочвання</translation>
+        <translation>Exporter la clé de suivi</translation>
     </message>
     <message>
         <source>Import tracking key</source>
-        <translation>Імпартаваць ключ адсочвання</translation>
+        <translation>Importer la clé de suivi</translation>
     </message>
     <message>
         <source>Export private key</source>
-        <translation>Экспартаваць прыватны ключ</translation>
+        <translation>Exporter la clé privée</translation>
     </message>
     <message>
         <source>Account toolbar</source>
-        <translation>Рахунак</translation>
+        <translation>Barre d&apos;outils du compte</translation>
     </message>
     <message>
         <source>Close wallet</source>
-        <translation>Зачыніць гаманец</translation>
+        <translation>Fermer le portefeuille</translation>
     </message>
     <message>
         <source>Recent wallets</source>
-        <translation>Апошнія гаманцы</translation>
+        <translation>Portefeuilles récents</translation>
     </message>
     <message>
         <source>Information</source>
-        <translation>Інфармацыя</translation>
+        <translation>Information</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation type="vanished">Стан</translation>
+        <translation type="vanished">Statut</translation>
     </message>
     <message>
         <source>Tools</source>
-        <translation type="vanished">Інструменты</translation>
+        <translation type="vanished">Outils</translation>
     </message>
     <message>
         <source>Open log file</source>
-        <translation>Адкрыць файл часопіса</translation>
+        <translation>Ouvrir le fichier journal</translation>
     </message>
     <message>
         <source>Show mnemonic seed</source>
-        <translation>Паказаць мнеманічную фразу</translation>
+        <translation>Afficher les graines mnémotechniques</translation>
     </message>
     <message>
         <source>Restore from mnemonic seed</source>
-        <translation>Аднаўленне з мнеманічнай фразы</translation>
+        <translation>Restaurer à partir de graines mnémotechniques</translation>
     </message>
     <message>
         <source>Create nondeterministic wallet</source>
-        <translation>Стварыць недетерминированный гаманец</translation>
+        <translation>Créer un portefeuille non déterministe</translation>
     </message>
     <message>
         <source>Start pool mining automatically</source>
-        <translation>Запускаць чаканку пры старце</translation>
+        <translation>Démarrer l&apos;exploration de la piscine automatiquement</translation>
     </message>
 </context>
 <context>
     <name>MiningFrame</name>
     <message>
         <source>Frame</source>
-        <translation></translation>
+        <translation>Cadre</translation>
     </message>
     <message>
         <source>Mining status</source>
-        <translation type="vanished">Стан чаканкі</translation>
+        <translation type="vanished">Statut minier</translation>
     </message>
     <message>
         <source>CPU cores</source>
-        <translation>Ядра працэсара</translation>
+        <translation>Cœurs de processeurs</translation>
     </message>
     <message>
         <source>Select pool</source>
-        <translation>Выберыце пул</translation>
+        <translation>Sélectionnez le groupement</translation>
     </message>
     <message>
         <source>Stopped</source>
-        <translation>Спынена</translation>
+        <translation>Arrêté</translation>
     </message>
     <message>
         <source>Add pool</source>
-        <translation>Дадаць пул</translation>
+        <translation>Ajouter le groupment</translation>
     </message>
     <message>
         <source>Start mining</source>
-        <translation>Пачаць чаканку</translation>
+        <translation>Démarrer l&apos;exploitation</translation>
     </message>
     <message>
         <source>Pause mining</source>
-        <translation type="vanished">Прыпыніць чаканку</translation>
+        <translation type="vanished">Pauser l&apos;exploitation</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation>Налады</translation>
+        <translation>Paramètres</translation>
     </message>
     <message>
         <source>Pool mining</source>
-        <translation>Чаканка ў пуле</translation>
+        <translation>L&apos;exploitation de groupment</translation>
     </message>
     <message>
         <source>Stop mining</source>
-        <translation>Прыпыніць чаканку</translation>
+        <translation>Arrêter l&apos;exploitation</translation>
     </message>
     <message>
         <source>Solo mining</source>
-        <translation>Чаканка соло</translation>
+        <translation>Exploitation solo</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation type="vanished">Стан</translation>
+        <translation type="vanished">Statut</translation>
     </message>
     <message>
         <source>Remove pool</source>
-        <translation>Выдаліць пул</translation>
+        <translation>Supprimer le groupment</translation>
     </message>
     <message>
         <source>Mining status:</source>
-        <translation>Стан чаканкі:</translation>
+        <translation>Statut de l&apos;exploitation:</translation>
     </message>
 </context>
 <context>
     <name>MnemonicSeedDialog</name>
     <message>
         <source>Mnemonic seed</source>
-        <translation>Мнеманічна фраза</translation>
+        <translation>Graine mnémonique</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>Зачыніць</translation>
+        <translation>Fermer</translation>
     </message>
     <message>
         <source>Select language</source>
-        <translation>Абярыце мову</translation>
+        <translation>Choisir la langue</translation>
     </message>
 </context>
 <context>
     <name>NewAddressDialog</name>
     <message>
         <source>New address</source>
-        <translation>Дадаць адрас</translation>
+        <translation>Nouvelle adresse</translation>
     </message>
     <message>
         <source>Label:</source>
-        <translation>Пазнака:</translation>
+        <translation>Le label:</translation>
     </message>
     <message>
         <source>Address:</source>
-        <translation>Адрас:</translation>
+        <translation>Adresse:</translation>
     </message>
     <message>
         <source>Ok</source>
-        <translation>Добра</translation>
+        <translation>Ok</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Адмяніць</translation>
+        <translation>Annuler</translation>
     </message>
     <message>
         <source>PaymentID:</source>
-        <translation>Ідэнтыфікатар плацяжу:</translation>
+        <translation>ID de paiement:</translation>
     </message>
 </context>
 <context>
     <name>NewNodeDialog</name>
     <message>
         <source>New remote node</source>
-        <translation>Новы аддалены вузел</translation>
+        <translation>Nouveau noeud distant</translation>
     </message>
     <message>
         <source>Host:</source>
-        <translation>Адрас:</translation>
+        <translation>Host:</translation>
     </message>
     <message>
         <source>Port:</source>
-        <translation>Порт:</translation>
+        <translation>Port:</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Адмяніць</translation>
+        <translation>Annuler</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation>Добра</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
     <name>NewPasswordDialog</name>
     <message>
         <source>Enter password</source>
-        <translation>Увядзіце пароль</translation>
+        <translation>Entrez le mot de passe</translation>
     </message>
     <message>
         <source>Ok</source>
-        <translation>Добра</translation>
+        <translation>Ok</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Адмяніць</translation>
+        <translation>Annuler</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation>Пароль:</translation>
+        <translation>Mot de passe:</translation>
     </message>
     <message>
         <source>Confirm:</source>
-        <translation>Пацвердзіць:</translation>
+        <translation>Confirmez:</translation>
     </message>
     <message>
         <source>Password not confirmed</source>
-        <translation>Пароль не пацверджаны</translation>
+        <translation>Mot de passe non confirmé</translation>
     </message>
 </context>
 <context>
     <name>NewPoolDialog</name>
     <message>
         <source>New pool</source>
-        <translation>Новы пул</translation>
+        <translation>Nouveau groupment</translation>
     </message>
     <message>
         <source>Host:</source>
-        <translation>Адрас:</translation>
+        <translation>Host:</translation>
     </message>
     <message>
         <source>Port:</source>
-        <translation>Порт:</translation>
+        <translation>Port:</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Адмяніць</translation>
+        <translation>Annuler</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation>Добра</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
     <name>OpenUriDialog</name>
     <message>
         <source>Open payment request</source>
-        <translation>Адкрыць запыт плацяжу</translation>
+        <translation>Ouvrir la demande de paiement</translation>
     </message>
     <message>
         <source>URI:</source>
-        <translation type="unfinished"></translation>
+        <translation>URI:</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Адмяніць</translation>
+        <translation>Annuler</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation>Добра</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
     <name>OverviewFrame</name>
     <message>
         <source>Frame</source>
-        <translation></translation>
+        <translation>Cadre</translation>
     </message>
     <message>
         <source>Total:</source>
-        <translation>Усяго:</translation>
+        <translation>Total:</translation>
     </message>
     <message>
         <source>Wallet</source>
-        <translation type="vanished">гаманец</translation>
+        <translation type="vanished">Portefeuille</translation>
     </message>
     <message>
         <source>Unconfirmed:</source>
-        <translation>Непацверджаны:</translation>
+        <translation>Non confirmé:</translation>
     </message>
     <message>
         <source>Balance:</source>
-        <translation type="vanished">Баланс:</translation>
+        <translation type="vanished">Balance:</translation>
     </message>
     <message>
         <source>Recent transactions</source>
-        <translation>Апошнія здзелкі</translation>
+        <translation>Transactions récentes</translation>
     </message>
     <message>
         <source>Balance</source>
-        <translation>Баланс</translation>
+        <translation>Balance</translation>
     </message>
     <message>
         <source>Available balance:</source>
-        <translation>Даступны баланс:</translation>
+        <translation>Balance disponible:</translation>
     </message>
 </context>
 <context>
     <name>PasswordDialog</name>
     <message>
         <source>Enter password</source>
-        <translation>Введіть пароль</translation>
+        <translation>Entrer le mot de passe</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Адмяніць</translation>
+        <translation>Annuler</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation>Пароль:</translation>
+        <translation>Mot de passe:</translation>
     </message>
     <message>
         <source>Ok</source>
-        <translation>Добра</translation>
+        <translation>Ok</translation>
     </message>
     <message>
         <source>Wrong password</source>
-        <translation>Няправільны пароль</translation>
+        <translation>Mauvais mot de passe</translation>
     </message>
 </context>
 <context>
     <name>PaymentServer</name>
     <message>
         <source>Cannot start balkancoin: click-to-pay handler</source>
-        <translation>Немагчыма запусціць click-to-pay апрацоўшчык balkancoin:</translation>
+        <translation>Ne peux pas demarer balkancoin: gestionnaire click-to-pay</translation>
     </message>
 </context>
 <context>
     <name>PrivateKeysDialog</name>
     <message>
         <source>Private Key</source>
-        <translation>Прыватны ключ</translation>
+        <translation>Clé privée</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>Зачыніць</translation>
+        <translation>Fermer</translation>
     </message>
     <message>
         <source>...</source>
-        <translation type="obsolete">...</translation>
+        <translation type="vanished">...</translation>
     </message>
     <message>
         <source>Copy key</source>
-        <translation>Скапіяваць ключ</translation>
+        <translation>Copier la clé</translation>
     </message>
 </context>
 <context>
     <name>QObject</name>
     <message>
         <source>Error</source>
-        <translation>Памылка</translation>
+        <translation>Erreur</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation>Дапамога</translation>
+        <translation>Aide</translation>
     </message>
     <message>
         <source>Fail</source>
-        <translation>Няўдача</translation>
+        <translation>Échouer</translation>
     </message>
     <message>
         <source>Loading blockchain...</source>
-        <translation>Загружаецца ланцужок блокаў...</translation>
+        <translation>Chargement de blockchain ...</translation>
     </message>
     <message>
         <source>%1 wallet already running</source>
-        <translation>%1 ужо адкрыты</translation>
+        <translation>%1 portefeuille en cours d&apos;exécution</translation>
     </message>
     <message>
         <source>New version available</source>
-        <translation>Даступна абнаўленне гаманца</translation>
+        <translation>Nouvelle version disponible</translation>
     </message>
     <message>
         <source>There is update available.
 Do you want to go to download page?</source>
-        <translation>Ёсць новая версія гаманца.
-Хочаце адкрыць старонку загрузкі?</translation>
+        <translation>Il y a une mise à jour disponible.
+Voulez-vous aller à la page de téléchargement?</translation>
     </message>
 </context>
 <context>
     <name>ReceiveFrame</name>
     <message>
         <source>Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Cadre</translation>
     </message>
     <message>
         <source>Copy address</source>
-        <translation>Скапіяваць адрас</translation>
+        <translation>Copier l&apos;adresse</translation>
     </message>
     <message>
         <source>Save QR to file</source>
-        <translation>Захаваць QR код у файл</translation>
+        <translation>Enregistrer QR dans le fichier</translation>
     </message>
     <message>
         <source>Request payment</source>
-        <translation>Плацёжнае патрабаванне</translation>
+        <translation>Demande de paiement</translation>
     </message>
     <message>
         <source>Use this form to request payment.</source>
-        <translation>Выкарыстоўвайце гэтую форму, каб запытаць аплату.</translation>
+        <translation>Utilisez ce formulaire pour demander le paiement.</translation>
     </message>
     <message>
         <source>Label:</source>
-        <translation>Пазнака:</translation>
+        <translation>Le label:</translation>
+    </message>
+    <message>
+        <source>Enter a label for this payer</source>
+        <translation type="vanished">Entrez un label pour ce payeur</translation>
     </message>
     <message>
         <source>Amount:</source>
-        <translation>Сума:</translation>
+        <translation>Montant:</translation>
     </message>
     <message>
         <source>PaymentID:</source>
-        <translation>Ідэнтыфікатар плацяжу:</translation>
+        <translation>ID de paiement:</translation>
     </message>
     <message>
         <source>Generate Payment ID</source>
-        <translation>Згенераваць ідэнтыфікатар</translation>
+        <translation>Générer un identifiant de paiement</translation>
     </message>
     <message>
         <source>Create payment request</source>
-        <translation>Стварыць плацёжнае патрабаванне</translation>
+        <translation>Créer une demande de paiement</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>Зачыніць</translation>
+        <translation>Fermer</translation>
     </message>
     <message>
         <source>Enter desired label for payer&apos;s address book</source>
-        <translation>Як вас запісаць у кантакты плацельшчыка</translation>
+        <translation>Entrez le label souhaité pour le carnet d&apos;adresses du payeur</translation>
     </message>
     <message>
         <source>Payment identifier which payer should attach to transaction</source>
-        <translation>Ідэнтыфікатар плацяжу які плацельшчык павінен уключыць у транзакцыю</translation>
+        <translation>Identifiant de paiement que le payeur doit joindre à la transaction</translation>
     </message>
 </context>
 <context>
     <name>RestoreFromMnemonicSeedDialog</name>
     <message>
         <source>Restore from mnemonic phrase</source>
-        <translation>Аднаўленне з мнеманічнай фразы</translation>
+        <translation>Restaurer à partir de la phrase mnémotechnique</translation>
     </message>
     <message>
         <source>Mnemonic:</source>
-        <translation>Мнеманіка:</translation>
+        <translation>Mnémonique:</translation>
     </message>
     <message>
         <source>...</source>
-        <translation type="unfinished">...</translation>
+        <translation>...</translation>
     </message>
     <message>
         <source>Wallet path:</source>
-        <translation>Шлях да гаманца:</translation>
+        <translation>Chemin du portefeuille:</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Адмяніць</translation>
+        <translation>Annuler</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation>Добра</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
     <name>SendFrame</name>
     <message>
         <source>Frame</source>
-        <translation></translation>
+        <translation>Cadre</translation>
     </message>
     <message>
-        <source>Anonymity level:</source>
-        <translation>Узровень прыватнасці:</translation>
+        <source>Anonimity level:</source>
+        <translation type="vanished">Niveau d&apos;anonymat:</translation>
     </message>
     <message>
         <source>PaymentID:</source>
-        <translation>Ідэнтыфікатар плацяжу:</translation>
+        <translation>ID de paiement:</translation>
     </message>
     <message>
         <source>Send</source>
-        <translation>Выслаць</translation>
+        <translation>Envoyer</translation>
     </message>
     <message>
         <source>Clear All</source>
-        <translation>Ачысціць усе</translation>
+        <translation>Tout effacer</translation>
     </message>
     <message>
         <source>Add Recipient</source>
-        <translation>Дадаць атрымальніка</translation>
+        <translation>Ajouter un destinataire</translation>
     </message>
     <message>
         <source>Balance:</source>
-        <translation type="vanished">Баланс:</translation>
+        <translation type="vanished">Balance:</translation>
     </message>
     <message>
         <source>Fee:</source>
-        <translation>Поплатак:</translation>
+        <translation>Frais:</translation>
     </message>
     <message>
         <source>Payment identifier issued by payee (exchange, shop or other entity)</source>
-        <translation>Ідэнтыфікатар плацяжу выдадзены атрымальнікам (біржай, крамай ці іншы)</translation>
+        <translation>Identifiant de paiement émis par le bénéficiaire (échange, magasin ou autre entité)</translation>
     </message>
     <message>
         <source>Donate 0.1% to development fund:</source>
-        <translation>Ахвяруйце 0,1% у фонд развіцця:</translation>
+        <translation>Faire un don de 0,1% au fonds de développement:</translation>
     </message>
     <message>
         <source>Generate Payment ID</source>
-        <translation>Згенераваць ідэнтыфікатар</translation>
+        <translation>Générer un identifiant de paiement</translation>
     </message>
     <message>
         <source>Wallet is connected through remote node. Additional 0.25% fee will be applied.</source>
-        <translation>Гаманец падлучаны праз аддалены вузел. Будзе прымяняцца дадатковая плата 0,25%.</translation>
+        <translation>Le portefeuille est connecté via un noeud distant. Des frais supplémentaires de 0,25% seront appliqués.</translation>
     </message>
     <message>
         <source>Remote node mode</source>
-        <translation>Рэжым аддаленага вузла</translation>
+        <translation>Mode noeud distant</translation>
     </message>
     <message>
         <source>Available balance:</source>
-        <translation>Даступны баланс:</translation>
+        <translation>Balance disponible:</translation>
+    </message>
+    <message>
+        <source>Anonymity level:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>ShowPaymentRequestDialog</name>
     <message>
         <source>Payment request</source>
-        <translation>Запыт на атрыманне плацяжу</translation>
+        <translation>Demande de paiement</translation>
     </message>
     <message>
         <source>Payment information</source>
-        <translation>Інфармацыя пра плацёж</translation>
+        <translation>Informations de paiement</translation>
     </message>
     <message>
         <source>Copy URI</source>
-        <translation>Скапіяваць URI</translation>
+        <translation>Copier l&apos;URI</translation>
     </message>
     <message>
         <source>Save URI</source>
-        <translation>Захаваць URI</translation>
+        <translation>Enregistrer l&apos;URI</translation>
     </message>
     <message>
         <source>Save image</source>
-        <translation>Захаваць малюнак</translation>
+        <translation>Enregistrer l&apos;image</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>Зачыніць</translation>
+        <translation>Fermer</translation>
     </message>
 </context>
 <context>
     <name>TransactionDetailsDialog</name>
     <message>
         <source>Transaction details</source>
-        <translation>Падрабязнасці ўгоды</translation>
+        <translation>Détails de la transaction</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>Зачыніць</translation>
+        <translation>Fermer</translation>
     </message>
 </context>
 <context>
     <name>TransactionFrame</name>
     <message>
         <source>Frame</source>
-        <translation></translation>
+        <translation>Cadre</translation>
     </message>
     <message>
         <source>TextLabel</source>
-        <translation></translation>
+        <translation>TextLabel</translation>
     </message>
 </context>
 <context>
     <name>TransactionsFrame</name>
     <message>
         <source>Frame</source>
-        <translation></translation>
+        <translation>Cadre</translation>
     </message>
     <message>
         <source>Export</source>
-        <translation>Экспартаваць</translation>
+        <translation>Export</translation>
     </message>
     <message>
         <source>Selected amount: </source>
-        <translation>Усяго ў абраным:</translation>
+        <translation>Montant sélectionné: </translation>
     </message>
     <message>
         <source>Search for address, amount, transaction hash or Payment ID</source>
-        <translation>Пошук адрасы, сумы, транзакцыі або ідэнтыфікатара плацяжу</translation>
+        <translation>Rechercher une adresse, un montant, un hachage de transaction ou un ID de paiement</translation>
     </message>
     <message>
         <source>Reset filter</source>
-        <translation>Скінуць фільтр</translation>
+        <translation>Réinitialiser le filtre</translation>
     </message>
 </context>
 <context>
     <name>TransferFrame</name>
     <message>
         <source>Frame</source>
-        <translation></translation>
+        <translation>Cadre</translation>
     </message>
     <message>
         <source>Pay To:</source>
-        <translation>Атрымальнік:</translation>
+        <translation>Payer à:</translation>
     </message>
     <message>
         <source>...</source>
@@ -1152,186 +1180,175 @@ Do you want to go to download page?</source>
     </message>
     <message>
         <source>Enter a label for this address to add it to your address book</source>
-        <translation>Калі ласка, увядзіце пазнаку для гэтага адрасу каб здаць яе ў адрасную кнігу</translation>
+        <translation>Entrez un label pour cette adresse pour l&apos;ajouter à votre carnet d&apos;adresses</translation>
     </message>
     <message>
         <source>Amount:</source>
-        <translation>Сума:</translation>
+        <translation>Montant:</translation>
     </message>
     <message>
         <source>Label:</source>
-        <translation type="vanished">Пазнака:</translation>
+        <translation type="vanished">Label:</translation>
     </message>
     <message>
         <source>Add to Contacts:</source>
-        <translation type="vanished">Дадаць у спіс кантактаў:</translation>
+        <translation type="vanished">Ajouter aux contacts:</translation>
     </message>
     <message>
         <source>Select recipient from Address Book</source>
-        <translation>Выберыце атрымальніка з адраснай кнігі</translation>
+        <translation>Sélectionnez un destinataire dans le carnet d&apos;adresses</translation>
     </message>
     <message>
         <source>Paste from clipboard</source>
-        <translation>Уставіць з буфера абмену</translation>
+        <translation>Coller du presse-papiers</translation>
     </message>
     <message>
         <source>Save to Contacts:</source>
-        <translation type="vanished">Захаваць у спіс кантактаў:</translation>
+        <translation type="vanished">Enregistrer dans les contacts:</translation>
     </message>
     <message>
         <source>Save to Contacts as:</source>
-        <translation>Захаваць у спіс кантактаў як:</translation>
+        <translation>Enregistrer dans les contacts comme:</translation>
     </message>
     <message>
         <source>Remove recepient</source>
-        <translation>Выдаліць атрымальніка</translation>
+        <translation>Supprimer le destinataire</translation>
     </message>
 </context>
 <context>
     <name>Updater</name>
     <message>
         <source>Unable to check for update</source>
-        <translation>Не ў стане праверыць наяўнасць абнаўленняў</translation>
+        <translation>Impossible de vérifier la mise à jour</translation>
     </message>
     <message>
         <source>Error: %1</source>
-        <translation>Памылка: %1</translation>
+        <translation>Erreur: %1</translation>
     </message>
 </context>
 <context>
     <name>VerifyMnemonicSeedDialog</name>
     <message>
         <source>New deterministic wallet created</source>
-        <translation>Створаны новы дэтэрмінаваны гаманец</translation>
+        <translation>Nouveau portefeuille déterministe créé</translation>
     </message>
     <message>
         <source>This is mnemonic seed of your wallet. Write it down carefully. It allows to restore your wallet.</source>
-        <translation>Гэта мнеманічная фраза гаманца. Старанна запішыце яе. З яе можна аднавіць гаманец.</translation>
+        <translation>C&apos;est la graine mnémotechnique de votre portefeuille. Ecrivez-le soigneusement. Cela permet de restaurer votre portefeuille.</translation>
     </message>
     <message>
         <source>Mnemonic:</source>
-        <translation>Мнеманіка:</translation>
+        <translation>Mnémonique:</translation>
     </message>
     <message>
         <source>Repeat:</source>
-        <translation>Паўтор:</translation>
+        <translation>Répéter:</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation>Добра</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Select language</source>
-        <translation>Абярыце мову</translation>
-    </message>
-</context>
-<context>
-    <name>WalletGui</name>
-    <message>
-        <source>Synchronization in progress</source>
-        <translation type="obsolete">Выконваецца сінхранізацыя</translation>
-    </message>
-    <message>
-        <source>Not synchronized</source>
-        <translation type="obsolete">Ня сінхранізаваны</translation>
-    </message>
-    <message>
-        <source>Synchronized</source>
-        <translation type="obsolete">Сінхранізаваны</translation>
+        <translation>Choisir la langue</translation>
     </message>
 </context>
 <context>
     <name>WalletGui::AboutDialog</name>
     <message>
         <source>About %1 Wallet</source>
-        <translation>Пра %1</translation>
+        <translation>À propos de %1 Portefeuille</translation>
     </message>
 </context>
 <context>
     <name>WalletGui::AccountFrame</name>
     <message>
         <source>Hide private keys</source>
-        <translation type="vanished">Схаваць прыватныя ключы</translation>
+        <translation type="vanished">Cacher les clés privées</translation>
     </message>
     <message>
         <source>Show private keys</source>
-        <translation type="vanished">Паказаць прыватныя ключы</translation>
+        <translation type="vanished">Afficher les clés privées</translation>
     </message>
     <message>
         <source>Copied to clipboard</source>
-        <translation>Скапіявана</translation>
+        <translation>Copié dans le presse-papier</translation>
     </message>
 </context>
 <context>
     <name>WalletGui::AddressBookFrame</name>
     <message>
         <source>Invalid address</source>
-        <translation>Няправільны адрас</translation>
+        <translation>Adresse invalide</translation>
     </message>
     <message>
         <source>Invalid payment ID</source>
-        <translation>Няправільны ідэнтыфікатар плацяжу</translation>
+        <translation>ID de paiement incorrect</translation>
     </message>
     <message>
         <source>Edit contact</source>
-        <translation>Рэдагаваць кантакт</translation>
+        <translation>Modifier le contact</translation>
+    </message>
+    <message>
+        <source>Contact with such label and address already exists.</source>
+        <translation type="vanished">Le contact avec cet label et adresse existe déjà.</translation>
     </message>
     <message>
         <source>Copy &amp;label</source>
-        <translation>Капіяваць &amp;назву</translation>
+        <translation>Copier &amp;label</translation>
     </message>
     <message>
         <source>Copy Payment &amp;ID</source>
-        <translation>Капіяваць &amp;Ідэнтыфікатар плацяжу</translation>
+        <translation>Copier le paiement et &amp;ID</translation>
     </message>
     <message>
         <source>Copy &amp;address</source>
-        <translation>Капіяваць &amp;адрас</translation>
+        <translation>Copier &amp;address</translation>
     </message>
     <message>
         <source>&amp;Edit</source>
-        <translation>&amp;Змяніць</translation>
+        <translation>&amp;Edit</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation>&amp;Выдаліць</translation>
+        <translation>&amp;Delete</translation>
     </message>
     <message>
         <source>Contact with such label already exists.</source>
-        <translation>Кантакт з такой назвай ужо ёсць.</translation>
+        <translation>Le contact avec cet label existe déjà.</translation>
     </message>
 </context>
 <context>
     <name>WalletGui::AddressBookModel</name>
     <message>
         <source>Label</source>
-        <translation>Пазнака</translation>
+        <translation>Label</translation>
     </message>
     <message>
         <source>Address</source>
-        <translation>Адрас</translation>
+        <translation>Adresse</translation>
     </message>
     <message>
         <source>PaymentID</source>
-        <translation>Ідэнтыфікатар плацяжу</translation>
+        <translation>PaymentID</translation>
     </message>
 </context>
 <context>
     <name>WalletGui::ChangePasswordDialog</name>
     <message>
         <source>Password not confirmed</source>
-        <translation>Пароль не пацверджаны</translation>
+        <translation>Mot de passe non confirmé</translation>
     </message>
 </context>
 <context>
     <name>WalletGui::CommandLineParser</name>
     <message>
         <source>Used to deploy test nets. Checkpoints and hardcoded seeds are ignored, network id is changed. Use it with –data-dir flag. The wallet must be launched with –testnet flag</source>
-        <translation>Для разгортвання тэставай сеткі. Чекпойнты і жорстка закадаваныя насенне ігнаруюцца, ідэнтыфікатар сеткі зменены.  Выкарыстоўвайце яго з сцягам –data-dir. гаманца павінен быць запушчаны з –testnet</translation>
+        <translation>Utilisé pour déployer des réseaux de test. Les points de contrôle et les seeds codées en dur sont ignorés, l&apos;identifiant réseau est modifié. Utilisez-le avec l&apos;indicateur -data-dir. Le portefeuille doit être lancé avec le flag -testnet</translation>
     </message>
     <message>
         <source>Interface for p2p network protocol</source>
-        <translation>Інтерфейс для мережевого p2p протоколу</translation>
+        <translation>Interface pour le protocole réseau p2p</translation>
     </message>
     <message>
         <source>ip</source>
@@ -1339,126 +1356,126 @@ Do you want to go to download page?</source>
     </message>
     <message>
         <source>Port for p2p network protocol</source>
-        <translation>Порт для пратаколу p2p сеткі</translation>
+        <translation>Port pour le protocole réseau p2p</translation>
     </message>
     <message>
         <source>port</source>
-        <translation>порт</translation>
+        <translation>port</translation>
     </message>
     <message>
         <source>Allow local ip add to peer list, mostly in debug purposes</source>
-        <translation>Дазволіць лакальнаму IP дадаць у спіс аднарангавыя вузлоў, галоўным чынам у мэтах адладкі</translation>
+        <translation>Autoriser l&apos;ajout d&apos;adresses IP locales à la liste des seeds, principalement à des fins de débogage</translation>
     </message>
     <message>
         <source>Manually add peer to local peerlist</source>
-        <translation>Уручную дадайце піра да лакальнага спісу піраў</translation>
+        <translation>Ajouter manuellement un pair à une lpeerlist locale</translation>
     </message>
     <message>
         <source>peer</source>
-        <translation>пір</translation>
+        <translation>peer</translation>
     </message>
     <message>
         <source>Specify list of peers to connect to and attempt to keep the connection open</source>
-        <translation>Пакажыце спіс піраў, каб падключыцца да любой спробе захаваць злучэнне адкрытым</translation>
+        <translation>Spécifiez la liste des peers à connecter et tentez de garder la connexion ouverte</translation>
     </message>
     <message>
         <source>node</source>
-        <translation>вузел</translation>
+        <translation>nœud</translation>
     </message>
     <message>
         <source>Specify list of peers to connect to only. If this option is given the options add-priority-node and seed-node are ignored</source>
-        <translation>Пакажыце спіс піраў для падлучэння толькі. Калі гэтая опцыя зададзена опцыі дадання прыярытэту вузла і насенняводства вузла ігнаруюцца</translation>
+        <translation>Spécifiez la liste des peers à connecter uniquement. Si cette option est donnée, les options add-priority-node et seed-node sont ignorées</translation>
     </message>
     <message>
         <source>Connect to a node to retrieve peer addresses, and disconnect</source>
-        <translation>Падключэнне да вузла для атрымання IP-адрасы, і адлучыць</translation>
+        <translation>Connecter à un nœud pour récupérer des adresses des peers et déconnecter</translation>
     </message>
     <message>
         <source>Do not announce yourself as peerlist candidate</source>
-        <translation>Ня апавяшчаць сябе як peerlist кандыдата</translation>
+        <translation>Ne vous annoncez pas comme candidat de liste des peers</translation>
     </message>
     <message>
         <source>Specify data directory</source>
-        <translation>Пакажыце каталог дадзеных</translation>
+        <translation>Spécifier le répertoire de données</translation>
     </message>
     <message>
         <source>directory</source>
-        <translation>каталог</translation>
+        <translation>directoire</translation>
     </message>
     <message>
         <source>Run application in minimized mode</source>
-        <translation>Запуск прыкладанняў у фонавым рэжыме</translation>
+        <translation>Exécuter l&apos;application en mode minimisé</translation>
     </message>
     <message>
         <source>Balkancoin wallet</source>
-        <translation>Гаманец карбованцаў</translation>
+        <translation>Balkancoin portefeuille</translation>
     </message>
     <message>
         <source>External port for p2p network protocol (if port forwarding used with NAT)</source>
-        <translation>Знешні порт для пратаколу p2p сеткі (калі выкарыстоўваецца перанакіраванне партоў з NAT)</translation>
+        <translation>Port externe pour le protocole réseau p2p (si le transfert de port est utilisé avec NAT)</translation>
     </message>
 </context>
 <context>
     <name>WalletGui::ConfirmSendDialog</name>
     <message>
         <source>Confirm sending %1 BKC</source>
-        <translation>Пацвердзіце адпраўку %1 крб.</translation>
+        <translation>Confirmer l&apos;envoi de %1 BKC</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Payment ID: %1&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Ідэнтыфікатар плацяжу: %1&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Payment ID: %1&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Are you sure you want to send &lt;strong&gt;without Payment ID&lt;/strong&gt;?&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Вы ўпэўненыя, што хочаце адправіць &lt;strong&gt;без ідэнтыфікатара плацяжу&lt;/strong&gt;?&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Êtes-vous sûr de vouloir envoyer &lt;strong&gt;sans  Payment ID&lt;/strong&gt;?&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
     <name>WalletGui::ExportTrackingKeyDialog</name>
     <message>
         <source>Save tracking key to...</source>
-        <translation>Захаваць ключ адсочвання...</translation>
+        <translation>Enregistrer la clé de suivi à ...</translation>
     </message>
     <message>
         <source>Tracking key (*.trackingkey)</source>
-        <translation>Ключ сачэння (*.trackingkey)</translation>
+        <translation>Clé de suivi (*.trackingkey)</translation>
     </message>
 </context>
 <context>
     <name>WalletGui::ImportKeyDialog</name>
     <message>
         <source>Wallet file</source>
-        <translation>Файл гаманца</translation>
+        <translation>Fichier de portefeuille</translation>
     </message>
     <message>
         <source>Wallets (*.wallet)</source>
-        <translation>Гаманцы (*.wallet)</translation>
+        <translation>Portefeuilles (*.wallet)</translation>
     </message>
 </context>
 <context>
     <name>WalletGui::ImportTrackingKeyDialog</name>
     <message>
         <source>Tracking wallet file</source>
-        <translation>Файл гаманца адсочвання</translation>
+        <translation>Suivi du fichier de portefeuille</translation>
     </message>
     <message>
         <source>Tracking wallets (*.trackingwallet)</source>
-        <translation>Гаманцы адсочвання (*.trackingwallet)</translation>
+        <translation>Suivi des portefeuilles (*.trackingwallet)</translation>
     </message>
 </context>
 <context>
     <name>WalletGui::InfoDialog</name>
     <message>
         <source>%1 (Outgoing: %2, Incoming: %3)</source>
-        <translation>%1 (Выходныя: %2, Уваходныя: %3)</translation>
+        <translation>%1 (Sortant: %2, Entrant: %3)</translation>
     </message>
     <message>
         <source>White: %1, Grey: %2</source>
-        <translation>Белы: %1, Шэры: %2</translation>
+        <translation>Blanc: %1, Gris: %2</translation>
     </message>
     <message>
         <source>Known: %1, Local: %2</source>
-        <translation>Вядома: %1, Загружаны: %2</translation>
+        <translation>Connu: %1, Local: %2</translation>
     </message>
     <message>
         <source>%1</source>
@@ -1469,313 +1486,304 @@ Do you want to go to download page?</source>
     <name>WalletGui::MainWindow</name>
     <message>
         <source>About %1 Wallet</source>
-        <translation>Пра гаманец</translation>
+        <translation>À propos de %1 Portefeuille</translation>
     </message>
     <message>
         <source>New wallet file</source>
-        <translation>Новы файл гаманца</translation>
+        <translation>Nouveau fichier de portefeuille</translation>
     </message>
     <message>
         <source>Wallets (*.wallet)</source>
-        <translation>Кашалькі (*.wallet)</translation>
+        <translation>Portefeuilles (*.wallet)</translation>
     </message>
     <message>
         <source>Open .wallet/.keys file</source>
-        <translation>Адкрыць файл .wallet/.keys</translation>
+        <translation>Ouvrir le fichier .wallet/.keys</translation>
     </message>
     <message>
         <source>Wallet (*.wallet *.keys)</source>
-        <translation>Гаманец (*.wallet *.keys)</translation>
+        <translation>Portefeuille (*.wallet *.keys)</translation>
     </message>
     <message>
         <source>Backup wallet to...</source>
-        <translation>Рэзервовае капіраванне гаманца ў...</translation>
+        <translation>Sauvegarde le portefeuille à...</translation>
     </message>
     <message>
         <source>Warning</source>
-        <translation>Папярэджанне</translation>
+        <translation>Attention</translation>
     </message>
     <message>
         <source>Your wallet will be reset and restored from blockchain.
 Are you sure?</source>
-        <translation>Ваш гаманец будзе скінута і адноўлена з блокчейн.
-Вы ўпэўненыя?</translation>
+        <translation>Votre portefeuille sera réinitialisé et restauré à partir de blockchain.
+Êtes-vous sûr?</translation>
     </message>
     <message>
         <source>Wallet error</source>
-        <translation>Памылка гаманца</translation>
+        <translation>Erreur de portefeuille</translation>
     </message>
     <message>
         <source>Wallet</source>
-        <translation>Гаманец</translation>
+        <translation>Portefeuille</translation>
     </message>
     <message>
         <source>Encrypted</source>
-        <translation>Зашыфраваны</translation>
+        <translation>Chiffré</translation>
     </message>
     <message>
         <source>Not encrypted</source>
-        <translation>Ня зашыфраваны</translation>
+        <translation>Non crypté</translation>
     </message>
     <message>
         <source>%1 peers</source>
-        <translation type="vanished">%1 піраў</translation>
+        <translation type="vanished">%1 peers</translation>
     </message>
     <message>
         <source>Synchronization in progress</source>
-        <translation>Выконваецца сінхранізацыя</translation>
+        <translation>Synchronisation en cours</translation>
     </message>
     <message>
         <source>Not synchronized</source>
-        <translation>Ня сінхранізаваны</translation>
+        <translation>Non synchronisé</translation>
     </message>
     <message>
         <source>Synchronized</source>
-        <translation>Сінхранізаваны</translation>
+        <translation>Synchronisé</translation>
     </message>
     <message>
         <source>The language will be changed after restarting the wallet.</source>
-        <translation>Мова будзе зменена пасля перазапуску гаманца.</translation>
+        <translation>La langue changera après le redémarrage du portefeuille.</translation>
     </message>
     <message>
         <source>Language was changed</source>
-        <translation>Мова зменена</translation>
+        <translation>La langue a été changée</translation>
     </message>
     <message>
         <source>%1 Wallet %2</source>
-        <translation type="vanished">Карбованець в. %2 (%1)</translation>
+        <translation type="vanished">%1 Portefeuille %2</translation>
     </message>
     <message>
         <source>More info can be found at www.balkancoin.org in Documentation section</source>
-        <translation>Больш інфармацыі на сайце www.balkancoin.org у раздзеле Дакументацыя.</translation>
+        <translation>Plus d&apos;informations peuvent être trouvées sur www.balkancoin.org dans la section Documentation</translation>
     </message>
     <message>
         <source>Connection settings changed</source>
-        <translation>Налады падлучэння захаваны</translation>
+        <translation>Paramètres de connexion modifiés</translation>
     </message>
     <message>
         <source>Connection mode will be changed after restarting the wallet.</source>
-        <translation>Рэжым падлучэння будзе зменены пасля перазапуску гаманца</translation>
+        <translation>Le mode de connexion sera changé après le redémarrage du portefeuille.</translation>
     </message>
     <message>
         <source>Account toolbar</source>
-        <translation type="vanished">Рахунак</translation>
+        <translation type="vanished">Barre d&apos;outils du compte</translation>
     </message>
     <message>
         <source>Tracking wallet. Spending unawailable</source>
-        <translation>Гаманец адсочвання. Выдаткі недаступныя</translation>
+        <translation>Portefeuille de suivi. Dépenses non disponibles</translation>
     </message>
     <message>
         <source>Connected through remote node</source>
-        <translation>Падключэнне праз аддалены вузел</translation>
-    </message>
-    <message numerus="yes">
-        <source>%n peer(s)</source>
-        <translation type="vanished">
-            <numerusform>%n пір</numerusform>
-            <numerusform>%n піра</numerusform>
-            <numerusform>%n піраў</numerusform>
-        </translation>
-    </message>
-    <message>
-        <source>Balkancoin Wallet %1</source>
-        <translation>Карбованець в. %1</translation>
+        <translation>Connecté via un noeud distant</translation>
     </message>
     <message numerus="yes">
         <source>%n active connection(s)</source>
         <translation>
-            <numerusform>%n актыўнае падлучэння</numerusform>
-            <numerusform>%n актыўныя падлучэння</numerusform>
-            <numerusform>%n актыўных падлучэнняў</numerusform>
+            <numerusform>%n connexion active</numerusform>
+            <numerusform>%n connexions actives</numerusform>
         </translation>
     </message>
     <message>
+        <source>Balkancoin Wallet %1</source>
+        <translation>Balkancoin Portefeuille %1</translation>
+    </message>
+    <message>
         <source>&amp;Show / Hide</source>
-        <translation>&amp;Паказаць / Схаваць</translation>
+        <translation>&amp;Show / Hide</translation>
     </message>
     <message>
         <source>Show or hide the main window</source>
-        <translation>Паказаць ці схаваць акно паперніка</translation>
+        <translation>Afficher ou cacher la fenêtre principale</translation>
     </message>
     <message>
         <source>Total amount: %1, hash: %2</source>
-        <translation type="vanished">Сума: %1, хэш: %2</translation>
+        <translation type="vanished">Montant total: %1, hash: %2</translation>
     </message>
     <message>
         <source>Balkancoin Wallet</source>
-        <translation type="vanished">Карбованець</translation>
+        <translation type="vanished">Portefeuille Balkancoin</translation>
     </message>
     <message>
         <source>New transaction received</source>
-        <translation type="vanished">Атрымана новая транзакцыя</translation>
+        <translation type="vanished">Nouvelle transaction reçue</translation>
     </message>
     <message>
         <source>Mnemonic seed is not correct</source>
-        <translation>Мнеманічна фраза не з&apos;яўляецца правільнай</translation>
+        <translation>La graine mnémonique n&apos;est pas correcte</translation>
     </message>
     <message>
         <source>There must be an error in mnemonic seed. Make sure you entered it correctly.</source>
-        <translation>Павінна быць памылка ў мнеманічнай фразе. Пераканайцеся што вы ўвялі яе правільна.</translation>
+        <translation>Il doit y avoir une erreur dans la graine mnémotechnique. Assurez-vous que vous l&apos;avez entré correctement.</translation>
     </message>
     <message>
         <source>Wallet keys are not valid</source>
-        <translation>Ключы гаманца нядзейныя</translation>
-    </message>
-    <message>
-        <source>Tracking key is not valid</source>
-        <translation>Ключ адсочвання нядзейны</translation>
-    </message>
-    <message>
-        <source>The tracking key you entered is not valid.</source>
-        <translation>Уведзены ключ сачэння няправільны.</translation>
-    </message>
-    <message>
-        <source>Key is not valid</source>
-        <translation>Ключ нядзейны</translation>
-    </message>
-    <message>
-        <source>The public spend key you entered is not valid.</source>
-        <translation>Уведзены публічны ключ расходавання няправільны.</translation>
-    </message>
-    <message>
-        <source>The public view key you entered is not valid.</source>
-        <translation>Уведзены публічны ключ прагляду няправільны.</translation>
-    </message>
-    <message>
-        <source>The private spend key you entered is not valid.</source>
-        <translation>Уведзены прыватны ключ расходавання няправільны.</translation>
-    </message>
-    <message>
-        <source>The private view key you entered is not valid.</source>
-        <translation>Уведзены прыватны ключ прагляду няправільны.</translation>
+        <translation>Les clés du portefeuille ne sont pas valides</translation>
     </message>
     <message>
         <source>The private keys you entered are not valid.</source>
-        <translation>Уведзеныя прыватныя ключы няправільныя.</translation>
+        <translation>Les clés privées que vous avez entrées ne sont pas valides.</translation>
+    </message>
+    <message>
+        <source>Tracking key is not valid</source>
+        <translation>La clé de suivi n&apos;est pas valide</translation>
+    </message>
+    <message>
+        <source>The tracking key you entered is not valid.</source>
+        <translation>La clé de suivi que vous avez entrée n&apos;est pas valide.</translation>
+    </message>
+    <message>
+        <source>Key is not valid</source>
+        <translation>La clé n&apos;est pas valide</translation>
+    </message>
+    <message>
+        <source>The public spend key you entered is not valid.</source>
+        <translation>La clé de dépenses publiques que vous avez entrée n&apos;est pas valide.</translation>
+    </message>
+    <message>
+        <source>The public view key you entered is not valid.</source>
+        <translation>La clé de vue publique que vous avez entrée n&apos;est pas valide.</translation>
+    </message>
+    <message>
+        <source>The private spend key you entered is not valid.</source>
+        <translation>La clé de dépenses privée que vous avez entrée n&apos;est pas valide.</translation>
+    </message>
+    <message>
+        <source>The private view key you entered is not valid.</source>
+        <translation>La clé de vue privée que vous avez entrée n&apos;est pas valide.</translation>
     </message>
     <message>
         <source>Wrong wallet file extension</source>
-        <translation>Неадпаведнае пашырэньне файла гаманца</translation>
+        <translation>L&apos;extension de fichier du portefeuille est incorrect</translation>
     </message>
     <message>
         <source>Wrong wallet file extension, wallet file should have &quot;.wallet&quot;, &quot;.keys&quot; or &quot;.trackingwallet&quot; extension.</source>
-        <translation>Неадпаведнае пашырэньне файла, файл гаманца павінен мець пашырэнне &quot;.wallet&quot;, &quot;.keys&quot; ці &quot;.trackingwallet&quot;.</translation>
+        <translation>L&apos;extension de fichier du portefeuille est incorrect, le fichier du portefeuille doit avoir l&apos;extension &quot;.wallet&quot;,  &quot;.keys&quot; ou &quot;.trackingwallet&quot;.</translation>
     </message>
 </context>
 <context>
     <name>WalletGui::MiningFrame</name>
     <message>
         <source>Mining. Hashrate: %1 H/s</source>
-        <translation type="vanished">Чаканка. Хешрейт: %1 H/s</translation>
+        <translation type="vanished">L&apos;extraction. Hashrate: %1 H/s</translation>
     </message>
     <message>
         <source>Error: %1</source>
-        <translation>Памылка: %1</translation>
+        <translation>Erreur: %1</translation>
     </message>
     <message>
         <source>Starting...</source>
-        <translation>Запуск...</translation>
+        <translation>Départ...</translation>
     </message>
     <message>
         <source>Stopped</source>
-        <translation>Спынена</translation>
+        <translation>Arrêté</translation>
     </message>
     <message>
         <source>Mining solo. Hashrate: %1 H/s</source>
-        <translation>Чаканка соло. Хешрейт: %1 H/s</translation>
+        <translation>L&apos;extraction solo. Hashrate: %1 H/s</translation>
     </message>
     <message>
         <source>Starting solo minining...</source>
-        <translation>Запуск чаканкі соло...</translation>
+        <translation>Démarrage de l&apos;extraction en solo ...</translation>
     </message>
     <message>
         <source>Mining in pool. Hashrate: %1 H/s</source>
-        <translation>Чаканка ў пуле. Хешрейт: %1 H/s</translation>
+        <translation>L&apos;extraction en groupment. Hashrate: %1 H/s</translation>
     </message>
 </context>
 <context>
     <name>WalletGui::NewPasswordDialog</name>
     <message>
         <source>Password not confirmed</source>
-        <translation>Пароль не пацверджаны</translation>
+        <translation>Mot de passe non confirmé</translation>
     </message>
 </context>
 <context>
     <name>WalletGui::NodeModel</name>
     <message>
         <source>Node URL</source>
-        <translation>Адрас узла</translation>
+        <translation>URL du noeud</translation>
     </message>
 </context>
 <context>
     <name>WalletGui::PoolModel</name>
     <message>
         <source>Pool URL</source>
-        <translation>Адрас пула</translation>
+        <translation>Engroupment du URL</translation>
     </message>
 </context>
 <context>
     <name>WalletGui::QRLabel</name>
     <message>
         <source>&amp;Save Image...</source>
-        <translation>&amp;Захаваць малюнак...</translation>
+        <translation>&amp;Save Image...</translation>
     </message>
     <message>
         <source>&amp;Copy Image</source>
-        <translation>&amp;Капіяваць малюнак...</translation>
+        <translation>&amp;Copy Image</translation>
     </message>
     <message>
         <source>Save QR Code</source>
-        <translation>Захаваць QR-код</translation>
+        <translation>Enregistrer le code QR</translation>
     </message>
 </context>
 <context>
     <name>WalletGui::ReceiveFrame</name>
     <message>
         <source>New PNG file</source>
-        <translation type="vanished">Новы файл PNG</translation>
+        <translation type="vanished">Nouveau fichier PNG</translation>
     </message>
     <message>
         <source>Save QR Code</source>
-        <translation>Захаваць QR-код</translation>
+        <translation>Enregistrer le code QR</translation>
     </message>
 </context>
 <context>
     <name>WalletGui::RestoreFromMnemonicSeedDialog</name>
     <message>
         <source>Wallet file</source>
-        <translation>Файл гаманца</translation>
+        <translation>Fichier de portefeuille</translation>
     </message>
     <message>
         <source>Wallets (*.wallet)</source>
-        <translation type="unfinished"></translation>
+        <translation>Portefeuilles (*.wallet)</translation>
     </message>
 </context>
 <context>
     <name>WalletGui::SendFrame</name>
     <message>
         <source>Invalid recipient address</source>
-        <translation>Няправільны адрас атрымальніка</translation>
+        <translation>Adresse de destinataire non valide</translation>
     </message>
     <message>
         <source>Incorrect fee value</source>
-        <translation>Няправільнае значэнне поплаткі</translation>
+        <translation>Valeur de frais incorrecte</translation>
     </message>
     <message>
         <source>Invalid payment ID</source>
-        <translation>Няправільны ідэнтыфікатар плацяжу</translation>
+        <translation>ID de paiement incorrect</translation>
     </message>
     <message>
         <source>Payment request should start with balkancoin:</source>
-        <translation>Запыт плацяжу мусіць пачынацца з balkancoin:</translation>
+        <translation>La demande de paiement doit commencer par balkancoin:</translation>
     </message>
     <message>
         <source>Insufficient balance</source>
-        <translation>Недастатковы балянс</translation>
+        <translation>Balance insuffisant</translation>
     </message>
     <message>
         <source>Available balance is insufficient to send this transaction. Have you excluded a fee?</source>
-        <translation>Даступнага балансу нядосыць для адпраўкі гэтай транзакцыі. Вы не забыліся адняць камісію?</translation>
+        <translation>La balance disponible est insuffisant pour envoyer cette transaction. Avez-vous exclu des frais?</translation>
     </message>
 </context>
 <context>
@@ -1792,28 +1800,27 @@ Are you sure?</source>
 &lt;span style=&quot; font-weight:600;&quot;&gt;Transaction hash: &lt;/span&gt;%8&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Cantarell&apos;; font-size:11pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;span style=&quot; font-weight:600;&quot;&gt;Стан: &lt;/span&gt;%1&lt;/p&gt;&lt;br&gt;
-&lt;span style=&quot; font-weight:600;&quot;&gt;Дата: &lt;/span&gt;%2&lt;/p&gt;&lt;br&gt;
-&lt;span style=&quot; font-weight:600;&quot;&gt;Каму: &lt;/span&gt;%4&lt;/p&gt;&lt;br&gt;
-&lt;span style=&quot; font-weight:600;&quot;&gt;Сума: &lt;/span&gt;%5&lt;/p&gt;&lt;br&gt;
-&lt;span style=&quot; font-weight:600;&quot;&gt;Паплатак: &lt;/span&gt;%6&lt;/p&gt;&lt;br&gt;
-&lt;span style=&quot; font-weight:600;&quot;&gt;Ідэнтыфікатар плацяжу: &lt;/span&gt;%7&lt;/p&gt;&lt;br&gt;
-&lt;span style=&quot; font-weight:600;&quot;&gt;Хэш транзакцыі: &lt;/span&gt;%8&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+&lt;span style=&quot; font-weight:600;&quot;&gt;Statut: &lt;/span&gt;%1&lt;/p&gt;&lt;br&gt;
+&lt;span style=&quot; font-weight:600;&quot;&gt;Date: &lt;/span&gt;%2&lt;/p&gt;&lt;br&gt;
+&lt;span style=&quot; font-weight:600;&quot;&gt;À: &lt;/span&gt;%4&lt;/p&gt;&lt;br&gt;
+&lt;span style=&quot; font-weight:600;&quot;&gt;Montant: &lt;/span&gt;%5&lt;/p&gt;&lt;br&gt;
+&lt;span style=&quot; font-weight:600;&quot;&gt;Frais: &lt;/span&gt;%6&lt;/p&gt;&lt;br&gt;
+&lt;span style=&quot; font-weight:600;&quot;&gt;ID de paiement: &lt;/span&gt;%7&lt;/p&gt;&lt;br&gt;
+&lt;span style=&quot; font-weight:600;&quot;&gt;Hachage de transaction: &lt;/span&gt;%8&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Failed</source>
-        <translation>Не ўдалося</translation>
+        <translation>Échoué</translation>
     </message>
     <message>
         <source>Cancelled</source>
-        <translation>Адменена</translation>
+        <translation>Annulé</translation>
     </message>
     <message numerus="yes">
         <source>%n confirmation(s)</source>
         <translation>
-            <numerusform>%n пацвярджэнне</numerusform>
-            <numerusform>%n пацвярджэння</numerusform>
-            <numerusform>%n пацвярджэнняў</numerusform>
+            <numerusform>%n confirmation</numerusform>
+            <numerusform>%n confirmations</numerusform>
         </translation>
     </message>
 </context>
@@ -1821,165 +1828,161 @@ Are you sure?</source>
     <name>WalletGui::TransactionsFrame</name>
     <message>
         <source>Select CSV file</source>
-        <translation>Выбраць файл CSV</translation>
+        <translation>Sélectionnez le fichier CSV</translation>
     </message>
     <message>
         <source>Copy transaction &amp;hash</source>
-        <translation>Капіяваць хэш-транзакцыі</translation>
+        <translation>Copier la transaction &amp;hash</translation>
     </message>
     <message>
         <source>Copy &amp;amount</source>
-        <translation>Капіяваць &amp;суму</translation>
+        <translation>Copier &amp;amount</translation>
     </message>
     <message>
         <source>Copy Payment &amp;ID</source>
-        <translation>Капіяваць &amp;Ідэнтыфікатар плацяжу</translation>
+        <translation>Copier le paiement &amp;ID</translation>
     </message>
     <message>
         <source>Show &amp;details</source>
-        <translation>Паказаць &amp;дэталі</translation>
+        <translation>Aficher &amp;details</translation>
     </message>
     <message>
         <source>Unconfirmed</source>
-        <translation>Непацверджаны</translation>
+        <translation>Non confirmé</translation>
     </message>
     <message>
         <source>All</source>
-        <translation>Усе</translation>
+        <translation>Tout</translation>
     </message>
     <message>
         <source>Today</source>
-        <translation>Сёння</translation>
+        <translation>Aujourd&apos;hui</translation>
     </message>
     <message>
         <source>This week</source>
-        <translation>На гэтым тыдні</translation>
+        <translation>Cette semaine</translation>
     </message>
     <message>
         <source>This month</source>
-        <translation>У гэтым месяцы</translation>
+        <translation>Ce mois</translation>
     </message>
     <message>
         <source>Last month</source>
-        <translation>У мінулым месяцы</translation>
+        <translation>Le mois dernier</translation>
     </message>
     <message>
         <source>This year</source>
-        <translation>У гэтым годзе</translation>
+        <translation>Cette année</translation>
     </message>
     <message>
         <source>Range...</source>
-        <translation>Прамежак...</translation>
+        <translation>Gamme...</translation>
     </message>
     <message>
         <source>to</source>
-        <translation>да</translation>
+        <translation>à</translation>
     </message>
     <message>
         <source>From</source>
-        <translation>Ад</translation>
+        <translation>De</translation>
     </message>
     <message>
         <source>All types</source>
-        <translation>Усе тыпы</translation>
+        <translation>Tous les types</translation>
     </message>
     <message>
         <source>Incoming</source>
-        <translation>Уваходныя</translation>
+        <translation>Entrant</translation>
     </message>
     <message>
         <source>Outgoing</source>
-        <translation>Выходныя</translation>
+        <translation>Sortant</translation>
     </message>
     <message>
         <source>Mined</source>
-        <translation>Здабытыя</translation>
+        <translation>Miné</translation>
     </message>
     <message>
         <source>Sent to myself</source>
-        <translation>Высланыя самому сабе</translation>
+        <translation>Envoyé à moi-même</translation>
     </message>
 </context>
 <context>
     <name>WalletGui::TransactionsModel</name>
     <message>
         <source>Date</source>
-        <translation>Дата</translation>
+        <translation>Date</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation>Тып</translation>
+        <translation>Type</translation>
     </message>
     <message>
         <source>Hash</source>
-        <translation>Хэш</translation>
+        <translation>Hash</translation>
     </message>
     <message>
         <source>Address</source>
-        <translation>Адрас</translation>
+        <translation>Adresse</translation>
     </message>
     <message>
         <source>Amount</source>
-        <translation>Сума</translation>
+        <translation>Montant</translation>
     </message>
     <message>
         <source>PaymentID</source>
-        <translation>Ідэнтыфікатар плацяжу</translation>
+        <translation>ID de paiement</translation>
     </message>
     <message>
         <source>me (%1)</source>
-        <translation>мне (%1)</translation>
+        <translation>moi (%1)</translation>
     </message>
     <message>
         <source>(n/a)</source>
-        <translation>няма дадзеных</translation>
+        <translation>(n/a)</translation>
     </message>
     <message>
         <source>Incoming transaction, unconfirmed</source>
-        <translation>Уваходная транзакцыя, непацьверджаная</translation>
+        <translation>Transaction entrante, non confirmée</translation>
     </message>
     <message>
         <source>Mined, confirmations</source>
-        <translation>Здабыта майнингом, непацьверджаная</translation>
+        <translation>Miné, confirmations</translation>
     </message>
     <message>
         <source>Sent to yourself, unconfirmed</source>
-        <translation>Выходная транзакцыя, непацьверджаная</translation>
+        <translation>Envoyé à vous-même, non confirmé</translation>
     </message>
     <message>
         <source>Outgoing transaction, unconfirmed</source>
-        <translation>Выходная транзакцыя, непацьверджаная</translation>
+        <translation>Transaction sortante, non confirmée</translation>
     </message>
     <message numerus="yes">
         <source>Incoming transaction, %n confirmation(s)</source>
         <translation>
-            <numerusform>Уваходная транзакцыя, %n пацвярджэнне</numerusform>
-            <numerusform>Уваходная транзакцыя, %n пацвярджэння</numerusform>
-            <numerusform>Уваходная транзакцыя, %n пацвярджэнняў</numerusform>
+            <numerusform>Transaction entrante, %n confirmation</numerusform>
+            <numerusform>Transaction entrante, %n confirmation(s)</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>Mined, %n confirmation(s)</source>
         <translation>
-            <numerusform>Здабыта майнингом, %n пацвярджэнне</numerusform>
-            <numerusform>Здабыта майнингом, %n пацвярджэння</numerusform>
-            <numerusform>Здабыта майнингом, пацвярджэнняў</numerusform>
+            <numerusform>Miné, %n confirmation</numerusform>
+            <numerusform>Miné, %n confirmations</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>Sent to yourself, %n confirmation(s)</source>
         <translation>
-            <numerusform>Адпраўлена самому сабе, %n пацвярджэнне</numerusform>
-            <numerusform>Адпраўлена самому сабе, %n пацвярджэння</numerusform>
-            <numerusform>Адпраўлена самому сабе, %n пацвярджэнняў</numerusform>
+            <numerusform>Envoyé à vous-même, %n confirmation</numerusform>
+            <numerusform>Envoyé à vous-même, %n confirmations</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>Outgoing transaction, %n confirmation(s)</source>
         <translation>
-            <numerusform>Выходная транзакцыя, %n пацвярджэнне</numerusform>
-            <numerusform>Выходная транзакцыя, %n пацвярджэння</numerusform>
-            <numerusform>Выходная транзакцыя, %n пацвярджэнняў</numerusform>
+            <numerusform>Transaction sortante, %n confirmation</numerusform>
+            <numerusform>Transaction sortante, %n confirmations</numerusform>
         </translation>
     </message>
 </context>
@@ -1987,167 +1990,167 @@ Are you sure?</source>
     <name>WalletGui::WalletAdapter</name>
     <message>
         <source>Opening wallet</source>
-        <translation>Адкрываецца гаманец</translation>
+        <translation>Ouverture du portefeuille</translation>
     </message>
     <message>
         <source>Importing keys</source>
-        <translation>Імпартуюцца ключы</translation>
+        <translation>Importer des clés</translation>
     </message>
     <message>
         <source>Saving data</source>
-        <translation>Запісваюцца дадзеныя</translation>
+        <translation>La sauvegarde des données</translation>
     </message>
     <message>
         <source>Sending transaction</source>
-        <translation>Высылаецца транзакцыя</translation>
+        <translation>Envoi de transaction</translation>
     </message>
     <message>
         <source>Ready</source>
-        <translation>Гатовы</translation>
+        <translation>Prêt</translation>
     </message>
     <message>
         <source>Synchronizing</source>
-        <translation>Працягваецца сінхранізацыя</translation>
+        <translation>Synchronisation</translation>
     </message>
     <message>
         <source>Wallet synchronized. Height: %1  |  Time (UTC): %2%3</source>
-        <translation>Сінхранізаваны. Вышыня: %1  |  Дата і час апошняга блока (UTC): %2%3</translation>
+        <translation>Portefeuille synchronisé. Hauteur: %1 | Heure (UTC): %2%3</translation>
     </message>
     <message>
         <source>  Warning: last block was received %1 hours %2 minutes ago</source>
-        <translation>  Увага: апошні блок атрымана %1 г. %2 хв. таму</translation>
+        <translation>  Attention: le dernier bloc a été reçu il y a %1 heures %2 minutes</translation>
     </message>
     <message>
         <source>Object was not initialized</source>
-        <translation>Аб&apos;ект не быў ініцыялізаваны</translation>
+        <translation>L&apos;objet n&apos;a pas été initialisé</translation>
     </message>
     <message>
         <source>The password is wrong</source>
-        <translation>Няправільны пароль</translation>
+        <translation>Le mot de passe est incorrect</translation>
     </message>
     <message>
         <source>The object is already initialized</source>
-        <translation>Аб&apos;ект ужо ініцыялізаваны</translation>
+        <translation>L&apos;objet est déjà initialisé</translation>
     </message>
     <message>
         <source>Internal error occurred</source>
-        <translation>Адбылася ўнутраная памылка</translation>
+        <translation>Une erreur interne s&apos;est produite</translation>
     </message>
     <message>
         <source>MixIn count is too big</source>
-        <translation>Колькасць мяшання занадта вяліка</translation>
+        <translation>Le nombre de MixIn est trop grand</translation>
     </message>
     <message>
         <source>Bad address</source>
-        <translation>Няправільны адрас</translation>
+        <translation>Mauvaise adresse</translation>
     </message>
     <message>
         <source>Transaction size is too big</source>
-        <translation>Памер транзакцыі занадта вялікі</translation>
+        <translation>La taille de la transaction est trop grande</translation>
     </message>
     <message>
         <source>Wrong amount</source>
-        <translation>Няправільная сума</translation>
+        <translation>Mauvais montant</translation>
     </message>
     <message>
         <source>Sum overflow</source>
-        <translation>Перапаўненне значэння сумы</translation>
+        <translation>Dépassement de somme</translation>
     </message>
     <message>
         <source>The destination is empty</source>
-        <translation>Прызначэнне пустое</translation>
+        <translation>The destination is empty</translation>
     </message>
     <message>
         <source>Impossible to cancel transaction</source>
-        <translation>Немагчыма адмяніць транзакцыю</translation>
+        <translation>Impossible d&apos;annuler la transaction</translation>
     </message>
     <message>
         <source>The wallet is in wrong state (maybe loading or saving), try again later</source>
-        <translation>Гаманец знаходзіцца ў няправільным стане (магчыма, загрузка або захаванне), паўторыце спробу пазней</translation>
+        <translation>Le portefeuille est dans un mauvais état (peut-être charger ou sauvegarder), réessayez plus tard</translation>
     </message>
     <message>
         <source>The operation you&apos;ve requested has been cancelled</source>
-        <translation>Запытаная аперацыя адменена</translation>
+        <translation>L&apos;opération que vous avez demandée a été annulée</translation>
     </message>
     <message>
         <source>Transaction transfer impossible</source>
-        <translation>Перадача транзакцыі немагчымая</translation>
+        <translation>Transfert de transaction est impossible</translation>
     </message>
     <message>
         <source>Wrong version</source>
-        <translation>Няправільная версія</translation>
+        <translation>Mauvaise version</translation>
     </message>
     <message>
         <source>Transaction fee is too small</source>
-        <translation>Камісія за транзакцыю занадта малая</translation>
+        <translation>Les frais de transaction sont trop petits</translation>
     </message>
     <message>
         <source>Cannot generate new key</source>
-        <translation>Не ўдаецца стварыць новы ключ</translation>
+        <translation>Impossible de générer une nouvelle clé</translation>
     </message>
     <message>
         <source>Index is out of range</source>
-        <translation>Індэкс за межамі дапушчальнага дыяпазону</translation>
+        <translation>L&apos;index est hors limites</translation>
     </message>
     <message>
         <source>Address already exists</source>
-        <translation>Адрас ужо існуе</translation>
+        <translation>L&apos;adresse existe déjà</translation>
     </message>
     <message>
         <source>The wallet is in tracking mode</source>
-        <translation>Кашалёк знаходзіцца ў рэжыме адсочвання</translation>
+        <translation>Le portefeuille est en mode suivi</translation>
     </message>
     <message>
         <source>Wrong parameters passed</source>
-        <translation>Перададзеныя няправільныя параметры</translation>
+        <translation>Mauvais paramètres passés</translation>
     </message>
     <message>
         <source>Object not found</source>
-        <translation>Аб&apos;ект не знойдзены</translation>
+        <translation>Objet non trouvé</translation>
     </message>
     <message>
         <source>Requested wallet not found</source>
-        <translation>Запытаны гаманец не знойдзена</translation>
+        <translation>Le portefeuille requis introuvable</translation>
     </message>
     <message>
         <source>Change address required</source>
-        <translation>Патрабуецца адрас для здачы</translation>
+        <translation>Changer l&apos;adresse requise</translation>
     </message>
     <message>
         <source>Change address not found</source>
-        <translation>Адрас для здачы не знойдзены</translation>
+        <translation>Changer d&apos;adresse introuvable</translation>
     </message>
     <message>
         <source>Destination address required</source>
-        <translation>Патрабуецца адрас прызначэння</translation>
+        <translation>Adresse de destination requise</translation>
     </message>
     <message>
         <source>Destination address not found</source>
-        <translation>Адрас прызначэння не знойдзены</translation>
+        <translation>Adresse de destination non trouvée</translation>
     </message>
     <message>
         <source>Wrong payment id format</source>
-        <translation>Няправільны фармат ідэнтыфікатара плацяжу</translation>
+        <translation>Format d&apos;identifiant de paiement incorrect</translation>
     </message>
     <message>
         <source>Wrong transaction extra format</source>
-        <translation>Няправільны фармат дополительной інфармацыі ў транзакцыі</translation>
+        <translation>Mauvaise transaction extra format</translation>
     </message>
     <message>
         <source>Unknown error</source>
-        <translation>Невядомая памылка</translation>
+        <translation>Erreur inconnue</translation>
     </message>
     <message>
         <source>Creating wallet</source>
-        <translation>Стварэнне гаманца</translation>
+        <translation>Créer un portefeuille</translation>
     </message>
     <message>
         <source>Mnemonic seed is not correct</source>
-        <translation>Мнеманічна фраза не з&apos;яўляецца правільнай</translation>
+        <translation>La graine mnémonique n&apos;est pas correcte</translation>
     </message>
     <message>
         <source>There must be an error in mnemonic seed. Make sure you entered it correctly.</source>
-        <translation>Павінна быць памылка ў мнеманічнай фразе. Пераканайцеся што вы ўвялі яе правільна.</translation>
+        <translation>Il doit y avoir une erreur dans la graine mnémotechnique. Assurez-vous que vous l&apos;avez entré correctement.</translation>
     </message>
 </context>
 </TS>

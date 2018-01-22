@@ -11,7 +11,6 @@
 
 #include <INode.h>
 #include <IWalletLegacy.h>
-
 #include "CryptoNoteWrapper.h"
 
 namespace CryptoNote {
