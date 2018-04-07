@@ -90,7 +90,7 @@ void Settings::load() {
   }
 
   QStringList defaultPoolList;
-  defaultPoolList << "miner.balkancoin.org:3363" << "us2.mininggood.com:3363";
+  defaultPoolList << "miner.balkancoin.org:3363";
   if (!m_settings.contains(OPTION_MINING_POOLS)) {
     setMiningPoolList(QStringList() << defaultPoolList);
   } else {
