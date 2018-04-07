@@ -9,8 +9,10 @@
 #include <QTranslator>
 #include <QLockFile>
 #include <QMessageBox>
+#include <QProcess>
 #include <QSplashScreen>
 #include <QStyleFactory>
+#include <QSettings>
 
 #include "CommandLineParser.h"
 #include "CurrencyAdapter.h"
@@ -103,6 +105,28 @@ int main(int argc, char* argv[]) {
     QMessageBox::information(nullptr, QObject::tr("Help"), cmdLineParser.getHelpText());
     return app.exec();
   }
+
+  //Create registry entries for URL execution
+  QSettings balkancoinKey("HKEY_CLASSES_ROOT\\balkancoin", QSettings::NativeFormat);
+  balkancoinKey.setValue(".", "Balkancoin Wallet");
+  balkancoinKey.setValue("URL Protocol", "");
+  QSettings balkancoinOpenKey("HKEY_CLASSES_ROOT\\balkancoin\\shell\\open\\command", QSettings::NativeFormat);
+  balkancoinOpenKey.setValue(".", "\"" + QCoreApplication::applicationFilePath().replace("/", "\\") + "\" \"%1\"");
+#endif
+
+#if defined(Q_OS_LINUX)
+  QStringList args;
+  QProcess exec;
+
+  //as root
+  args << "-c" << "printf '[Desktop Entry]\\nName = Balkancoin URL Handler\\nGenericName = Balkancoin\\nComment = Handle URL Sheme balkancoin://\\nExec = " + QCoreApplication::applicationFilePath() + " %%u\\nTerminal = false\\nType = Application\\nMimeType = x-scheme-handler/balkancoin;\\nIcon = Balkancoin-Wallet' | tee /usr/share/applications/balkancoin-handler.desktop";
+  exec.start("/bin/sh", args);
+  exec.waitForFinished();
+
+  args.clear();
+  args << "-c" << "update-desktop-database";
+  exec.start("/bin/sh", args);
+  exec.waitForFinished();
 #endif
 
   LoggerAdapter::instance().init();

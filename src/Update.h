@@ -22,7 +22,7 @@ public:
     void checkForUpdate();
 
 signals:
-    
+
 public slots:
     void replyFinished (QNetworkReply *reply);
 
