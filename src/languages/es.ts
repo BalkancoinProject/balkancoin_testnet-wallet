@@ -830,8 +830,8 @@ Por favor, espera...</translation>
         <translation type="unfinished">Marco</translation>
     </message>
     <message>
-        <source>Welcome to Karbo Wallet!</source>
-        <translation>Bienvenido a Karbo Monedero!</translation>
+        <source>Welcome to Balkancoin Wallet!</source>
+        <translation>Bienvenido a Balkancoin Monedero!</translation>
     </message>
     <message>
         <source>Create wallet</source>

@@ -827,8 +827,8 @@ Bitte warten...</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Welcome to Karbo Wallet!</source>
-        <translation>Willkommen bei Karbo Brieftasche!</translation>
+        <source>Welcome to Balkancoin Wallet!</source>
+        <translation>Willkommen bei Balkancoin Brieftasche!</translation>
     </message>
     <message>
         <source>Create wallet</source>

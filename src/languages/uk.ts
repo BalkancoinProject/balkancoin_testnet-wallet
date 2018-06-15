@@ -822,8 +822,8 @@ Please wait...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Welcome to Karbo Wallet!</source>
-        <translation>Вітаємо в гаманці Карбованця!</translation>
+        <source>Welcome to Balkancoin Wallet!</source>
+        <translation>Вітаємо в гаманці Balkancoin!</translation>
     </message>
     <message>
         <source>Create wallet</source>

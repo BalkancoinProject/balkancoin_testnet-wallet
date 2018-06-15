@@ -842,8 +842,8 @@ S&apos;il vous plaît, patientez...</translation>
         <translation type="unfinished">Cadre</translation>
     </message>
     <message>
-        <source>Welcome to Karbo Wallet!</source>
-        <translation>Bienvenue sur Karbo Wallet!</translation>
+        <source>Welcome to Balkancoin Wallet!</source>
+        <translation>Bienvenue sur Balkancoin Wallet!</translation>
     </message>
     <message>
         <source>Create wallet</source>
