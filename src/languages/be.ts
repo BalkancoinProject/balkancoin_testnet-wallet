@@ -68,7 +68,7 @@
     </message>
     <message>
         <source>0.00</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">0.00</translation>
     </message>
 </context>
 <context>
@@ -165,6 +165,10 @@
     </message>
     <message>
         <source>Français</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Português</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -276,6 +280,10 @@
         <source>Remove node</source>
         <translation>Выдаліць вузел</translation>
     </message>
+    <message>
+        <source>Wallet will connect to remote node running in local or global network. Please select node or specify IP address or domain name and port. In this mode wallet sends 0.25% fee from each transaction to the node, but no more than 10 BKC.</source>
+        <translation type="unfinished">Гаманец будзе падлучацца да вузла ў лакальнай або глабальнай сеткі. Выберыце вузел або пакажыце IP адрас або дамен і порт каб дадаць новы. У гэтым рэжыме гаманец плаціць камісію вузлу ў памеры 0,25% ад сумы транзакцыі, але не больш за 10 bkc.</translation>
+    </message>
 </context>
 <context>
     <name>ExitWidget</name>
@@ -325,11 +333,11 @@ Please wait...</source>
     </message>
     <message>
         <source>Wallet path:</source>
-        <translation>Шлях да гаманца:</translation>
+        <translation type="vanished">Шлях да гаманца:</translation>
     </message>
     <message>
         <source>...</source>
-        <translation>...</translation>
+        <translation type="vanished">...</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -338,6 +346,14 @@ Please wait...</source>
     <message>
         <source>OK</source>
         <translation>Добра</translation>
+    </message>
+    <message>
+        <source>Where to save new wallet file:</source>
+        <translation>Дзе захаваць файл новага гаманца:</translation>
+    </message>
+    <message>
+        <source>Select folder</source>
+        <translation>Выбраць каталог</translation>
     </message>
 </context>
 <context>
@@ -348,7 +364,7 @@ Please wait...</source>
     </message>
     <message>
         <source>...</source>
-        <translation type="unfinished">...</translation>
+        <translation type="obsolete">...</translation>
     </message>
     <message>
         <source>Key:</source>
@@ -356,7 +372,7 @@ Please wait...</source>
     </message>
     <message>
         <source>Wallet path:</source>
-        <translation>Шлях да гаманца:</translation>
+        <translation type="vanished">Шлях да гаманца:</translation>
     </message>
     <message>
         <source>Import a tracking key of a wallet to see all its incoming transactions. It doesn&apos;t allow spending funds.</source>
@@ -369,6 +385,14 @@ Please wait...</source>
     <message>
         <source>OK</source>
         <translation>Добра</translation>
+    </message>
+    <message>
+        <source>Where to save new wallet file:</source>
+        <translation>Дзе захаваць файл новага гаманца:</translation>
+    </message>
+    <message>
+        <source>Select folder</source>
+        <translation>Выбраць каталог</translation>
     </message>
 </context>
 <context>
@@ -608,6 +632,14 @@ Please wait...</source>
         <source>Start pool mining automatically</source>
         <translation>Запускаць чаканку пры старце</translation>
     </message>
+    <message>
+        <source>Wallet</source>
+        <translation>Гаманец</translation>
+    </message>
+    <message>
+        <source>Sweep unmixable</source>
+        <translation>Прыбраць нязмешвальных</translation>
+    </message>
 </context>
 <context>
     <name>MiningFrame</name>
@@ -788,6 +820,25 @@ Please wait...</source>
     </message>
 </context>
 <context>
+    <name>NoWalletFrame</name>
+    <message>
+        <source>Frame</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Welcome to Balkancoin Wallet!</source>
+        <translation>Сардэчна запрашаем у гаманец Balkancoin!</translation>
+    </message>
+    <message>
+        <source>Create wallet</source>
+        <translation>Стварыць гаманец</translation>
+    </message>
+    <message>
+        <source>Open wallet</source>
+        <translation>Адкрыць гаманец</translation>
+    </message>
+</context>
+<context>
     <name>OpenUriDialog</name>
     <message>
         <source>Open payment request</source>
@@ -795,7 +846,7 @@ Please wait...</source>
     </message>
     <message>
         <source>URI:</source>
-        <translation type="unfinished"></translation>
+        <translation>URI:</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -839,6 +890,14 @@ Please wait...</source>
     <message>
         <source>Available balance:</source>
         <translation>Даступны баланс:</translation>
+    </message>
+    <message>
+        <source>Unmixable dust:</source>
+        <translation>Нязмешвальнае:</translation>
+    </message>
+    <message>
+        <source>0.00</source>
+        <translation>0.00</translation>
     </message>
 </context>
 <context>
@@ -909,8 +968,8 @@ Please wait...</source>
         <translation>Загружаецца ланцужок блокаў...</translation>
     </message>
     <message>
-        <source>%1 wallet already running</source>
-        <translation>%1 ужо адкрыты</translation>
+        <source>%1 wallet already running or cannot create lock file %2. Check your permissions.</source>
+        <translation>%1 ужо адкрыты ці не можа стварыць файл блакіроўкі %2. Праверце правы доступу.</translation>
     </message>
     <message>
         <source>New version available</source>
@@ -990,11 +1049,11 @@ Do you want to go to download page?</source>
     </message>
     <message>
         <source>...</source>
-        <translation type="unfinished">...</translation>
+        <translation type="obsolete">...</translation>
     </message>
     <message>
         <source>Wallet path:</source>
-        <translation>Шлях да гаманца:</translation>
+        <translation type="vanished">Шлях да гаманца:</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -1003,6 +1062,14 @@ Do you want to go to download page?</source>
     <message>
         <source>OK</source>
         <translation>Добра</translation>
+    </message>
+    <message>
+        <source>Where to save new wallet file:</source>
+        <translation>Дзе захаваць файл новага гаманца:</translation>
+    </message>
+    <message>
+        <source>Select folder</source>
+        <translation>Выбраць каталог</translation>
     </message>
 </context>
 <context>
@@ -1443,7 +1510,11 @@ Do you want to go to download page?</source>
     </message>
     <message>
         <source>Tracking wallets (*.trackingwallet)</source>
-        <translation>Гаманцы адсочвання (*.trackingwallet)</translation>
+        <translation type="vanished">Гаманцы адсочвання (*.trackingwallet)</translation>
+    </message>
+    <message>
+        <source>Tracking wallets (*.wallet)</source>
+        <translation>Гаманцы адсочвання (*.wallet)</translation>
     </message>
 </context>
 <context>
@@ -1748,7 +1819,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Wallets (*.wallet)</source>
-        <translation type="unfinished"></translation>
+        <translation>Гаманец (*.wallet)</translation>
     </message>
 </context>
 <context>
@@ -2148,6 +2219,10 @@ Are you sure?</source>
     <message>
         <source>There must be an error in mnemonic seed. Make sure you entered it correctly.</source>
         <translation>Павінна быць памылка ў мнеманічнай фразе. Пераканайцеся што вы ўвялі яе правільна.</translation>
+    </message>
+    <message>
+        <source>Sweeping unmixable dust</source>
+        <translation>Аптымізацыя несмешываемых выхадаў</translation>
     </message>
 </context>
 </TS>
