@@ -29,7 +29,7 @@ namespace {
 const char SEND_GLASS_FRAME_STYLE_SHEET_TEMPLATE[] =
   "WalletGui--SendGlassFrame {"
     "border: none;"
-    "background-color: #eaCADEF7"
+    "background-color: #ea232b30"
   "}";
 
 const char SEND_FRAME_STYLE_SHEET[] =
@@ -118,11 +118,11 @@ void SendGlassFrame::drawProgressGraph(QPainter &_painter) {
   QPen pen;
   pen.setWidth(10);
 
-  pen.setColor(QColor("#e6e6e6"));
+  pen.setColor(QColor("#c69c6c"));
   _painter.setPen(pen);
   _painter.drawArc(rect, 0, 360 * degree);
 
-  pen.setColor(QColor("#30466c"));
+  pen.setColor(QColor("#fbb03b"));
   _painter.setPen(pen);
   _painter.drawArc(rect, startAngle, endAngle);
 }
@@ -131,13 +131,13 @@ void SendGlassFrame::drawProgressLabel(QPainter &_painter) {
   QFont font;
   font.setBold(true);
   font.setPixelSize(14);
-  QString msg = tr("You will be able to send KRB\nwhen the wallet is synchronized");
+  QString msg = tr("You will be able to send BKC\nwhen the wallet is synchronized");
   QFontMetrics fm(font);
   QRect messageRect = fm.boundingRect(QRect(), Qt::AlignCenter, msg);
   messageRect.moveCenter(QPoint(m_pixmapBuffer.width() / 2, 163));
 
   QPen pen;
-  pen.setColor(QColor("#364a6d"));
+  pen.setColor(QColor("#fbb03b"));
   _painter.setPen(pen);
   _painter.setFont(font);
   _painter.setRenderHint(QPainter::TextAntialiasing);
@@ -154,7 +154,7 @@ void SendGlassFrame::drawProgressValue(QPainter &_painter) {
   messageRect.moveCenter(QPoint(m_pixmapBuffer.width() / 2, 198));
 
   QPen pen;
-  pen.setColor(QColor("#364a6d"));
+  pen.setColor(QColor("#fbb03b"));
   _painter.setPen(pen);
   _painter.setFont(font);
   _painter.drawText(messageRect, Qt::AlignCenter, msg);
