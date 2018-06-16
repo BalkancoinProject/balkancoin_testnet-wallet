@@ -79,6 +79,18 @@ void SendFrame::walletSynchronizationInProgress(quint64 _current, quint64 _total
   m_glassFrame->updateSynchronizationState(_current, _total);
 }
 
+void SendFrame::setAddress(const QString& _address) {
+  Q_FOREACH (TransferFrame* transfer, m_transfers) {
+    if (transfer->getAddress().isEmpty()) {
+      transfer->setAddress(_address);
+      return;
+    }
+  }
+
+  addRecipientClicked();
+  m_transfers.last()->setAddress(_address);
+}
+
 void SendFrame::addRecipientClicked() {
   TransferFrame* newTransfer = new TransferFrame(m_ui->m_transfersScrollarea);
   m_ui->m_send_frame_layout->insertWidget(m_transfers.size(), newTransfer);
@@ -198,6 +210,7 @@ void SendFrame::openUriClicked() {
 }
 
 void SendFrame::parsePaymentRequest(QString _request) {
+    MainWindow::instance().showNormal();
     if(_request.startsWith("balkancoin://", Qt::CaseInsensitive))
     {
        _request.replace(0, 13, "balkancoin:");
@@ -240,7 +253,6 @@ void SendFrame::parsePaymentRequest(QString _request) {
     if(!payment_id.isEmpty()){
         SendFrame::insertPaymentID(payment_id);
     }
-
 }
 
 void SendFrame::sendClicked() {
