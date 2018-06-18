@@ -19,6 +19,10 @@ class Updater : public QObject
 public:
     explicit Updater(QObject *parent = 0);
 
+    ~Updater() {
+        delete manager;
+    }
+
     void checkForUpdate();
 
 signals:
