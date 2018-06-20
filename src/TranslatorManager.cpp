@@ -16,8 +16,16 @@ TranslatorManager::TranslatorManager()
         lang.truncate(lang.lastIndexOf('_'));
     }
 
-    m_langPath = QApplication::applicationDirPath();
-    m_langPath.append("/languages");
+#if defined(_MSC_VER)
+  m_langPath = QApplication::applicationDirPath();
+  m_langPath.append("/languages");
+#elif defined(Q_OS_MAC)
+  m_langPath = QApplication::applicationDirPath();
+  m_langPath = m_langPath + "/../Resources/languages/";
+#else
+  m_langPath = "/opt/balkancoin/languages";
+#endif
+
     QDir dir(m_langPath);
     QStringList resources = dir.entryList(QStringList("??.qm"));
     for (int j = 0; j < resources.size(); j++)

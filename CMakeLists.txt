@@ -290,7 +290,7 @@ elseif (UNIX)
     install(FILES src/images/balkanec.png DESTINATION share/pixmaps RENAME balkancoin.png)
     install(FILES copyright DESTINATION share/doc/balkancoinwallet)
     install(DIRECTORY src/languages DESTINATION /opt/balkancoin/ FILES_MATCHING PATTERN "*.qm")
-    execute_process(COMMAND ln -s /opt/balkancoin/languages languages)
+    #execute_process(COMMAND ln -s /opt/balkancoin/languages languages)
     install(FILES ${CMAKE_BINARY_DIR}/languages DESTINATION bin)
 
     if (NOT RPMBUILD)
