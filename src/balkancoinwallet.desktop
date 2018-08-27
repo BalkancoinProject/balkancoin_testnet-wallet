@@ -1,0 +1,24 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Balkancoin
+GenericName=Balkancoin wallet
+Name[uk]=Balkancoin
+Name[ru]=Balkancoin
+Name[pl]=Balkancoin
+Name[be]=Balkancoin
+Name[de]=Balkancoin
+Name[es]=Balkancoin
+Comment=Balkancoin wallet
+Comment[uk]=Balkancoin wallet
+Comment[ru]=Balkancoin wallet
+Comment[pl]=Balkancoin wallet
+Comment[be]=Balkancoin wallet
+Comment[de]=Balkancoin wallet
+Comment[es]=Balkancoin wallet
+Exec=balkancoin %U
+Terminal=false
+Type=Application
+Icon=balkancoin
+MimeType=x-scheme-handler/balkancoin;
+Categories=Office;Finance;
+Version=1.2.8
