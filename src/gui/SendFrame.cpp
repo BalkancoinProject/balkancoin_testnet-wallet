@@ -350,9 +350,16 @@ void SendFrame::sendClicked() {
       priorityValueChanged(m_ui->m_prioritySlider->value());
       quint64 fee = CurrencyAdapter::instance().parseAmount(m_ui->m_feeSpin->cleanText());
 
-	  if (fee < NodeAdapter::instance().getMinimalFee()) {
-        QCoreApplication::postEvent(&MainWindow::instance(), new ShowMessageEvent(tr("Incorrect fee value"), QtCriticalMsg));
-        return;
+      if (NodeAdapter::instance().getCurrentBlockMajorVersion() < CryptoNote::BLOCK_MAJOR_VERSION_4) {
+        if (fee < CurrencyAdapter::instance().formatAmount(CurrencyAdapter::instance().getMinimumFee()).toDouble()) {
+          QCoreApplication::postEvent(&MainWindow::instance(), new ShowMessageEvent(tr("Incorrect fee value"), QtCriticalMsg));
+          return;
+        }
+      } else {
+        if (fee < NodeAdapter::instance().getMinimalFee()) {
+          QCoreApplication::postEvent(&MainWindow::instance(), new ShowMessageEvent(tr("Incorrect fee value"), QtCriticalMsg));
+          return;
+        }
       }
 
       quint64 total_transaction_amount = 0;
