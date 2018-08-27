@@ -538,7 +538,7 @@ Please wait...</source>
     </message>
     <message>
         <source>Mining</source>
-        <translation>Карбування</translation>
+        <translation type="vanished">Карбування</translation>
     </message>
     <message>
         <source>Reset wallet</source>
@@ -626,7 +626,7 @@ Please wait...</source>
     </message>
     <message>
         <source>Start pool mining automatically</source>
-        <translation>Запускати карбування при старті</translation>
+        <translation type="vanished">Запускати карбування при старті</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -640,32 +640,28 @@ Please wait...</source>
 <context>
     <name>MiningFrame</name>
     <message>
-        <source>Frame</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>Mining status</source>
         <translation type="vanished">Стан карбування</translation>
     </message>
     <message>
         <source>CPU cores</source>
-        <translation>Ядра процесора</translation>
+        <translation type="vanished">Ядра процесора</translation>
     </message>
     <message>
         <source>Select pool</source>
-        <translation>Вибрати пул</translation>
+        <translation type="vanished">Вибрати пул</translation>
     </message>
     <message>
         <source>Stopped</source>
-        <translation>Зупинено</translation>
+        <translation type="vanished">Зупинено</translation>
     </message>
     <message>
         <source>Add pool</source>
-        <translation>Додати пул</translation>
+        <translation type="vanished">Додати пул</translation>
     </message>
     <message>
         <source>Start mining</source>
-        <translation>Розпочати карбування</translation>
+        <translation type="vanished">Розпочати карбування</translation>
     </message>
     <message>
         <source>Pause mining</source>
@@ -673,19 +669,19 @@ Please wait...</source>
     </message>
     <message>
         <source>Settings</source>
-        <translation>Налаштування</translation>
+        <translation type="vanished">Налаштування</translation>
     </message>
     <message>
         <source>Pool mining</source>
-        <translation>Карбування в пулі</translation>
+        <translation type="vanished">Карбування в пулі</translation>
     </message>
     <message>
         <source>Stop mining</source>
-        <translation>Зупинити карбування</translation>
+        <translation type="vanished">Зупинити карбування</translation>
     </message>
     <message>
         <source>Solo mining</source>
-        <translation>Карбування соло</translation>
+        <translation type="vanished">Карбування соло</translation>
     </message>
     <message>
         <source>Status</source>
@@ -693,11 +689,11 @@ Please wait...</source>
     </message>
     <message>
         <source>Remove pool</source>
-        <translation>Видалити пул</translation>
+        <translation type="vanished">Видалити пул</translation>
     </message>
     <message>
         <source>Mining status:</source>
-        <translation>Стан карбування:</translation>
+        <translation type="vanished">Стан карбування:</translation>
     </message>
 </context>
 <context>
@@ -796,23 +792,23 @@ Please wait...</source>
     <name>NewPoolDialog</name>
     <message>
         <source>New pool</source>
-        <translation>Новий пул</translation>
+        <translation type="vanished">Новий пул</translation>
     </message>
     <message>
         <source>Host:</source>
-        <translation>Адреса:</translation>
+        <translation type="vanished">Адреса:</translation>
     </message>
     <message>
         <source>Port:</source>
-        <translation>Порт:</translation>
+        <translation type="vanished">Порт:</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Скасувати</translation>
+        <translation type="vanished">Скасувати</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation>Гаразд</translation>
+        <translation type="vanished">Гаразд</translation>
     </message>
 </context>
 <context>
@@ -930,7 +926,7 @@ Please wait...</source>
     <name>PrivateKeysDialog</name>
     <message>
         <source>Private Key</source>
-        <translation>Приватний ключ</translation>
+        <translation type="vanished">Приватний ключ</translation>
     </message>
     <message>
         <source>Close</source>
@@ -943,6 +939,18 @@ Please wait...</source>
     <message>
         <source>Copy key</source>
         <translation>Скопіювати ключ</translation>
+    </message>
+    <message>
+        <source>Private Keys</source>
+        <translation>Приватні ключі</translation>
+    </message>
+    <message>
+        <source>Spend Secret Key</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>View Secret Key</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1080,11 +1088,11 @@ Do you want to go to download page?</source>
     </message>
     <message>
         <source>Anonymity level:</source>
-        <translation>Рівень приватності:</translation>
+        <translation type="vanished">Рівень приватності:</translation>
     </message>
     <message>
         <source>PaymentID:</source>
-        <translation>Ідентифікатор платежу:</translation>
+        <translation type="vanished">Ідентифікатор платежу:</translation>
     </message>
     <message>
         <source>Send</source>
@@ -1104,7 +1112,7 @@ Do you want to go to download page?</source>
     </message>
     <message>
         <source>Fee:</source>
-        <translation>Комісія:</translation>
+        <translation type="vanished">Комісія:</translation>
     </message>
     <message>
         <source>Payment identifier issued by payee (exchange, shop or other entity)</source>
@@ -1124,11 +1132,39 @@ Do you want to go to download page?</source>
     </message>
     <message>
         <source>Remote node mode</source>
-        <translation>Режим віддаленого вузла</translation>
+        <translation type="vanished">Режим віддаленого вузла</translation>
     </message>
     <message>
         <source>Available balance:</source>
         <translation>Доступний баланс:</translation>
+    </message>
+    <message>
+        <source>Payment ID:</source>
+        <translation>Ідентифікатор:</translation>
+    </message>
+    <message>
+        <source>Anonymity:</source>
+        <translation>Конфіденційність:</translation>
+    </message>
+    <message>
+        <source>Priority:</source>
+        <translation>Пріорітет:</translation>
+    </message>
+    <message>
+        <source>Manual fee override:</source>
+        <translation>Ручне коригування комісії:</translation>
+    </message>
+    <message>
+        <source>Advanced</source>
+        <translation>Розширені</translation>
+    </message>
+    <message>
+        <source>Remote mode</source>
+        <translation>Віддалений режим</translation>
+    </message>
+    <message>
+        <source>Send All</source>
+        <translation>Вислати все</translation>
     </message>
 </context>
 <context>
@@ -1738,27 +1774,27 @@ Are you sure?</source>
     </message>
     <message>
         <source>Error: %1</source>
-        <translation>Помилка: %1</translation>
+        <translation type="vanished">Помилка: %1</translation>
     </message>
     <message>
         <source>Starting...</source>
-        <translation>Запуск...</translation>
+        <translation type="vanished">Запуск...</translation>
     </message>
     <message>
         <source>Stopped</source>
-        <translation>Зупинено</translation>
+        <translation type="vanished">Зупинено</translation>
     </message>
     <message>
         <source>Mining solo. Hashrate: %1 H/s</source>
-        <translation>Карбую соло. Швидкість: %1 H/s</translation>
+        <translation type="vanished">Карбую соло. Швидкість: %1 H/s</translation>
     </message>
     <message>
         <source>Starting solo minining...</source>
-        <translation>Запуск карбування соло...</translation>
+        <translation type="vanished">Запуск карбування соло...</translation>
     </message>
     <message>
         <source>Mining in pool. Hashrate: %1 H/s</source>
-        <translation>Карбування в пулі. Швидкість: %1 H/s</translation>
+        <translation type="vanished">Карбування в пулі. Швидкість: %1 H/s</translation>
     </message>
 </context>
 <context>
@@ -1779,7 +1815,7 @@ Are you sure?</source>
     <name>WalletGui::PoolModel</name>
     <message>
         <source>Pool URL</source>
-        <translation>Адреса пула</translation>
+        <translation type="vanished">Адреса пула</translation>
     </message>
 </context>
 <context>
@@ -1845,6 +1881,30 @@ Are you sure?</source>
         <source>Available balance is insufficient to send this transaction. Have you excluded a fee?</source>
         <translation>Доступного балансу недостатньо щоб вислати цю транзакцію. Ви не забули відняти комісію?</translation>
     </message>
+    <message>
+        <source>Low</source>
+        <translation>Низький</translation>
+    </message>
+    <message>
+        <source>Normal</source>
+        <translation>Нормальний</translation>
+    </message>
+    <message>
+        <source>High</source>
+        <translation>Високий</translation>
+    </message>
+    <message>
+        <source>Highest</source>
+        <translation>Найвищий</translation>
+    </message>
+    <message>
+        <source>Node fee: %1 %2</source>
+        <translation>Комісія вузла: %1 %2</translation>
+    </message>
+    <message>
+        <source>You have unmixable dust on balance. Use menu &apos;Wallet -&gt; Sweep unmixable&apos; first.</source>
+        <translation>У вас є незмішуваний баланс. Спершу скористайтесь меню “Гаманець -&gt; Прибрати незмішуване&quot;.</translation>
+    </message>
 </context>
 <context>
     <name>WalletGui::SendGlassFrame</name>
@@ -1871,7 +1931,7 @@ when the wallet is synchronized</source>
 &lt;span style=&quot; font-weight:600;&quot;&gt;Fee: &lt;/span&gt;%6&lt;/p&gt;&lt;br&gt;
 &lt;span style=&quot; font-weight:600;&quot;&gt;Payment ID: &lt;/span&gt;%7&lt;/p&gt;&lt;br&gt;
 &lt;span style=&quot; font-weight:600;&quot;&gt;Transaction hash: &lt;/span&gt;%8&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+        <translation type="vanished">&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Cantarell&apos;; font-size:11pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;span style=&quot; font-weight:600;&quot;&gt;Стан: &lt;/span&gt;%1&lt;/p&gt;&lt;br&gt;
 &lt;span style=&quot; font-weight:600;&quot;&gt;Дата: &lt;/span&gt;%2&lt;/p&gt;&lt;br&gt;
@@ -1896,6 +1956,32 @@ when the wallet is synchronized</source>
             <numerusform>%n підтвердження</numerusform>
             <numerusform>%n підтверджень</numerusform>
         </translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Cantarell&apos;; font-size:11pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Status: &lt;/span&gt;%1&lt;br&gt;
+&lt;span style=&quot; font-weight:600;&quot;&gt;Date: &lt;/span&gt;%2&lt;br&gt;
+&lt;span style=&quot; font-weight:600;&quot;&gt;To: &lt;/span&gt;%4&lt;br&gt;
+&lt;span style=&quot; font-weight:600;&quot;&gt;Amount: &lt;/span&gt;%5&lt;br&gt;
+&lt;span style=&quot; font-weight:600;&quot;&gt;Fee: &lt;/span&gt;%6&lt;br&gt;
+&lt;span style=&quot; font-weight:600;&quot;&gt;Payment ID: &lt;/span&gt;%7&lt;br&gt;
+&lt;span style=&quot; font-weight:600;&quot;&gt;Transaction Hash: &lt;/span&gt;%8&lt;br&gt;
+&lt;span style=&quot; font-weight:600;&quot;&gt;Transaction Key: &lt;/span&gt;%9&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Cantarell&apos;; font-size:11pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Стан: &lt;/span&gt;%1&lt;br&gt;
+&lt;span style=&quot; font-weight:600;&quot;&gt;Дата: &lt;/span&gt;%2&lt;br&gt;
+&lt;span style=&quot; font-weight:600;&quot;&gt;Кому: &lt;/span&gt;%4&lt;br&gt;
+&lt;span style=&quot; font-weight:600;&quot;&gt;Сума: &lt;/span&gt;%5&lt;br&gt;
+&lt;span style=&quot; font-weight:600;&quot;&gt;Комісія: &lt;/span&gt;%6&lt;br&gt;
+&lt;span style=&quot; font-weight:600;&quot;&gt;Ідентифікатор платежу: &lt;/span&gt;%7&lt;br&gt;
+&lt;span style=&quot; font-weight:600;&quot;&gt;Хеш транзакції: &lt;/span&gt;%8&lt;br&gt;
+&lt;span style=&quot; font-weight:600;&quot;&gt;Ключ транзакції: &lt;/span&gt;%9&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+    </message>
+    <message>
+        <source>(n/a)</source>
+        <translation>немає даних</translation>
     </message>
 </context>
 <context>
@@ -2062,6 +2148,10 @@ when the wallet is synchronized</source>
             <numerusform>Вихідна транзакція, %n підтвердження</numerusform>
             <numerusform>Вихідна транзакція, %n підтверджень</numerusform>
         </translation>
+    </message>
+    <message>
+        <source>Key</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
