@@ -350,7 +350,7 @@ void SendFrame::sendClicked() {
       priorityValueChanged(m_ui->m_prioritySlider->value());
       quint64 fee = CurrencyAdapter::instance().parseAmount(m_ui->m_feeSpin->cleanText());
 
-	  if (fee < NodeAdapter::instance().getMinimalFee()) {
+	  if (fee < getMinimalFee()) {
         QCoreApplication::postEvent(&MainWindow::instance(), new ShowMessageEvent(tr("Incorrect fee value"), QtCriticalMsg));
         return;
       }
