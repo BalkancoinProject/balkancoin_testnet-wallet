@@ -90,7 +90,7 @@ void Settings::load() {
   }
 
   QStringList defaultNodesList;
-  defaultNodesList << "nodes.balkancoin.org:38777";
+  defaultNodesList << "nodes.testnet.balkancoin.org:38778";
   if (!m_settings.contains(OPTION_RPCNODES)) {
     setRpcNodesList(QStringList() << defaultNodesList);
   } else {
