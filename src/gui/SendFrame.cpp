@@ -190,8 +190,8 @@ void SendFrame::amountValueChange() {
         for(QVector<quint64>::iterator it = fees.begin(); it != fees.end(); ++it) {
             remote_node_fee += *it;
         }
-        if (remote_node_fee < NodeAdapter::instance().getMinimalFee()) {
-            remote_node_fee = NodeAdapter::instance().getMinimalFee();
+        if (remote_node_fee < getMinimalFee()) {
+            remote_node_fee = getMinimalFee();
         }
         if (remote_node_fee > 1000000000) {
             remote_node_fee = 1000000000;
@@ -350,7 +350,7 @@ void SendFrame::sendClicked() {
       priorityValueChanged(m_ui->m_prioritySlider->value());
       quint64 fee = CurrencyAdapter::instance().parseAmount(m_ui->m_feeSpin->cleanText());
 
-	  if (fee < NodeAdapter::instance().getMinimalFee()) {
+	  if (fee < getMinimalFee()) {
         QCoreApplication::postEvent(&MainWindow::instance(), new ShowMessageEvent(tr("Incorrect fee value"), QtCriticalMsg));
         return;
       }
@@ -440,8 +440,8 @@ void SendFrame::sendAllClicked() {
   remote_node_fee = 0;
   if(!remote_node_fee_address.isEmpty()) {
     remote_node_fee = static_cast<qint64>(actualBalance * 0.0025); // fee is 0.25%
-    if (remote_node_fee < NodeAdapter::instance().getMinimalFee()) {
-        remote_node_fee = NodeAdapter::instance().getMinimalFee();
+    if (remote_node_fee < getMinimalFee()) {
+        remote_node_fee = getMinimalFee();
     }
     if (remote_node_fee > 1000000000) {
         remote_node_fee = 1000000000;
