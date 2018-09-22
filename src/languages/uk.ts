@@ -636,6 +636,14 @@ Please wait...</source>
         <source>Sweep unmixable</source>
         <translation>Прибрати незмішуване</translation>
     </message>
+    <message>
+        <source>Sign message</source>
+        <translation>Підписати повідомлення</translation>
+    </message>
+    <message>
+        <source>Verify signed message</source>
+        <translation>Перевірити підписане повідомлення</translation>
+    </message>
 </context>
 <context>
     <name>MiningFrame</name>
@@ -1192,6 +1200,37 @@ Do you want to go to download page?</source>
     <message>
         <source>Close</source>
         <translation>Закрити</translation>
+    </message>
+</context>
+<context>
+    <name>SignMessageDialog</name>
+    <message>
+        <source>Sign or verify message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation>Закрити</translation>
+    </message>
+    <message>
+        <source>Sign message</source>
+        <translation>Підписати повідомлення</translation>
+    </message>
+    <message>
+        <source>Message</source>
+        <translation>Повідомлення</translation>
+    </message>
+    <message>
+        <source>Signature</source>
+        <translation>Підпис</translation>
+    </message>
+    <message>
+        <source>Verify message</source>
+        <translation>Перевірити повідомлення</translation>
+    </message>
+    <message>
+        <source>Address</source>
+        <translation>Адреса</translation>
     </message>
 </context>
 <context>
@@ -1920,6 +1959,25 @@ when the wallet is synchronized</source>
     </message>
 </context>
 <context>
+    <name>WalletGui::SignMessageDialog</name>
+    <message>
+        <source>Sign message</source>
+        <translation>Підписати повідомлення</translation>
+    </message>
+    <message>
+        <source>Verify signed message</source>
+        <translation>Перевірити підписане повідомлення</translation>
+    </message>
+    <message>
+        <source>Signature is valid</source>
+        <translation>Підпис дійсний</translation>
+    </message>
+    <message>
+        <source>Signature is invalid!</source>
+        <translation>Підпис недійсний!</translation>
+    </message>
+</context>
+<context>
     <name>WalletGui::TransactionDetailsDialog</name>
     <message>
         <source>&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
@@ -2151,7 +2209,7 @@ when the wallet is synchronized</source>
     </message>
     <message>
         <source>Key</source>
-        <translation type="unfinished"></translation>
+        <translation>Ключ</translation>
     </message>
 </context>
 <context>
