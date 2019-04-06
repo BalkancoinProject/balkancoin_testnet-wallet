@@ -201,6 +201,8 @@ bool NodeAdapter::init() {
       m_node = nullptr;
       return initInProcessNode();
   }
+
+  return true;
 }
 
 quint64 NodeAdapter::getLastKnownBlockHeight() const {

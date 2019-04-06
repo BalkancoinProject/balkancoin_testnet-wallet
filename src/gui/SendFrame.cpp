@@ -302,7 +302,14 @@ void SendFrame::parsePaymentRequest(QString _request) {
 }
 
 void SendFrame::sendClicked() {
- ConfirmSendDialog dlg(&MainWindow::instance());
+  quint64 actualBalance = WalletAdapter::instance().getActualBalance();
+  if (actualBalance < NodeAdapter::instance().getMinimalFee()) {
+    QCoreApplication::postEvent(
+      &MainWindow::instance(),
+      new ShowMessageEvent(tr("Insufficient balance."), QtCriticalMsg));
+    return;
+  }
+  ConfirmSendDialog dlg(&MainWindow::instance());
     dlg.showPasymentDetails(total_amount);
     if(!m_ui->m_paymentIdEdit->text().isEmpty()){
       dlg.showPaymentId(m_ui->m_paymentIdEdit->text());
@@ -311,7 +318,7 @@ void SendFrame::sendClicked() {
     }
     if (dlg.exec() == QDialog::Accepted) {
 
-      QVector<CryptoNote::WalletLegacyTransfer> walletTransfers;
+      std::vector<CryptoNote::WalletLegacyTransfer> walletTransfers;
       Q_FOREACH (TransferFrame * transfer, m_transfers) {
         QString address = transfer->getAddress();
         if (!CurrencyAdapter::instance().validateAddress(address)) {
@@ -440,8 +447,12 @@ void SendFrame::advancedClicked(bool _show) {
 
 void SendFrame::sendAllClicked() {
   quint64 actualBalance = WalletAdapter::instance().getActualBalance();
-  if (actualBalance == 0)
-      return;
+  if (actualBalance < NodeAdapter::instance().getMinimalFee()) {
+    QCoreApplication::postEvent(
+      &MainWindow::instance(),
+      new ShowMessageEvent(tr("Insufficient balance."), QtCriticalMsg));
+    return;
+  }
   dust_balance = WalletAdapter::instance().getUnmixableBalance();
   if (dust_balance != 0) {
     QCoreApplication::postEvent(

@@ -11,8 +11,6 @@
 #include "NodeModel.h"
 #include "Settings.h"
 
-#include <QDebug>
-
 namespace Ui {
 class ConnectionSettingsDialog;
 }
