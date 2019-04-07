@@ -318,6 +318,37 @@ Please wait...</source>
     </message>
 </context>
 <context>
+    <name>GetBalanceProofDialog</name>
+    <message>
+        <source>Signature</source>
+        <translation>Підпис</translation>
+    </message>
+    <message>
+        <source>Message</source>
+        <translation>Повідомлення</translation>
+    </message>
+    <message>
+        <source>Save to file</source>
+        <translation>Зберегти у файл</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation>Закрити</translation>
+    </message>
+    <message>
+        <source>Amount</source>
+        <translation>Сума</translation>
+    </message>
+    <message>
+        <source>Get proof of balance</source>
+        <translation>Доказ балансу</translation>
+    </message>
+    <message>
+        <source>Copy</source>
+        <translation>Скопіювати</translation>
+    </message>
+</context>
+<context>
     <name>ImportKeyDialog</name>
     <message>
         <source>Import private key</source>
@@ -636,6 +667,22 @@ Please wait...</source>
         <source>Sweep unmixable</source>
         <translation>Прибрати незмішуване</translation>
     </message>
+    <message>
+        <source>Sign message</source>
+        <translation>Підписати повідомлення</translation>
+    </message>
+    <message>
+        <source>Verify signed message</source>
+        <translation>Перевірити підписане повідомлення</translation>
+    </message>
+    <message>
+        <source>Optimization</source>
+        <translation>Оптимізація</translation>
+    </message>
+    <message>
+        <source>Get proof of balance</source>
+        <translation>Доказ балансу</translation>
+    </message>
 </context>
 <context>
     <name>MiningFrame</name>
@@ -847,6 +894,69 @@ Please wait...</source>
     <message>
         <source>OK</source>
         <translation>Гаразд</translation>
+    </message>
+</context>
+<context>
+    <name>OptimizationSettingsDialog</name>
+    <message>
+        <source>Wallet optimization settings</source>
+        <translation>Налаштування оптимізації гаманця</translation>
+    </message>
+    <message>
+        <source>Run background wallet optimization</source>
+        <translation>Виконувати оптимізацію гаманця у фоновому режимі</translation>
+    </message>
+    <message>
+        <source>(Recommended)</source>
+        <translation>(Рекомедується)</translation>
+    </message>
+    <message>
+        <source>Optimization target</source>
+        <translation>Ціль оптимізації</translation>
+    </message>
+    <message>
+        <source>Anonymity level</source>
+        <translation>Рівень приватності</translation>
+    </message>
+    <message>
+        <source>0</source>
+        <translation type="unfinished">0</translation>
+    </message>
+    <message>
+        <source>outputs below selected target</source>
+        <translation>виходів нижче вибраної цілі</translation>
+    </message>
+    <message>
+        <source>From</source>
+        <translation>Від</translation>
+    </message>
+    <message>
+        <source>HH:mm</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To</source>
+        <translation>до</translation>
+    </message>
+    <message>
+        <source>Specific time for optimization transactions</source>
+        <translation>Конкретний час для оптимізації</translation>
+    </message>
+    <message>
+        <source>Send optimization transactions each</source>
+        <translation>Надсилати транзакції оптимізації кожні</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Скасувати</translation>
+    </message>
+    <message>
+        <source>Save</source>
+        <translation>Зберегти</translation>
+    </message>
+    <message>
+        <source>Wallet optimization is a background task performed in order to aggregate transactions outputs that are below optimization target into bigger ones. It allows to send larger amounts of BKC within one transaction. Wallet optimization is free for all users but takes some time.</source>
+        <translation>Оптимізація гаманця - це фонове завдання, що виконується для об&apos;єднання виходів транзакцій, які нижче цільового показника оптимізації, в більш великі. Це дозволяє відправляти великі суми BKC в одній транзакції. Оптимізація гаманця безкоштовна для всіх користувачів, але займає деякий час.</translation>
     </message>
 </context>
 <context>
@@ -1195,6 +1305,37 @@ Do you want to go to download page?</source>
     </message>
 </context>
 <context>
+    <name>SignMessageDialog</name>
+    <message>
+        <source>Sign or verify message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation>Закрити</translation>
+    </message>
+    <message>
+        <source>Sign message</source>
+        <translation>Підписати повідомлення</translation>
+    </message>
+    <message>
+        <source>Message</source>
+        <translation>Повідомлення</translation>
+    </message>
+    <message>
+        <source>Signature</source>
+        <translation>Підпис</translation>
+    </message>
+    <message>
+        <source>Verify message</source>
+        <translation>Перевірити повідомлення</translation>
+    </message>
+    <message>
+        <source>Address</source>
+        <translation>Адреса</translation>
+    </message>
+</context>
+<context>
     <name>TransactionDetailsDialog</name>
     <message>
         <source>Transaction details</source>
@@ -1521,6 +1662,13 @@ Do you want to go to download page?</source>
     </message>
 </context>
 <context>
+    <name>WalletGui::GetBalanceProofDialog</name>
+    <message>
+        <source>Save as</source>
+        <translation>Зберегти у файл</translation>
+    </message>
+</context>
+<context>
     <name>WalletGui::ImportKeyDialog</name>
     <message>
         <source>Wallet file</source>
@@ -1812,6 +1960,69 @@ Are you sure?</source>
     </message>
 </context>
 <context>
+    <name>WalletGui::OptimizationSettingsDialog</name>
+    <message>
+        <source>30 minutes</source>
+        <translation>30 хв.</translation>
+    </message>
+    <message>
+        <source>1 hour</source>
+        <translation>1 год.</translation>
+    </message>
+    <message>
+        <source>1.5 hours</source>
+        <translation>1,5 год.</translation>
+    </message>
+    <message>
+        <source>2 hours</source>
+        <translation>2 год.</translation>
+    </message>
+    <message>
+        <source>2.5 hours</source>
+        <translation>2,5 год.</translation>
+    </message>
+    <message>
+        <source>3 hours</source>
+        <translation>3 год.</translation>
+    </message>
+    <message>
+        <source>3.5 hours</source>
+        <translation>3,5 год.</translation>
+    </message>
+    <message>
+        <source>4 hours</source>
+        <translation>4 год.</translation>
+    </message>
+    <message>
+        <source>4.5 hours</source>
+        <translation>4,5 год.</translation>
+    </message>
+    <message>
+        <source>5 hours</source>
+        <translation>5 год.</translation>
+    </message>
+    <message>
+        <source>5.5 hours</source>
+        <translation>5,5 год.</translation>
+    </message>
+    <message>
+        <source>6 hours</source>
+        <translation>6 год.</translation>
+    </message>
+    <message>
+        <source>Wallet is currently optimized for this target</source>
+        <translation>Гаманець наразі оптимізовано для цієї цілі</translation>
+    </message>
+    <message>
+        <source> outputs below selected target</source>
+        <translation> виходів нижче вибраної цілі</translation>
+    </message>
+    <message>
+        <source>Wallet is closed</source>
+        <translation>Гаманець закритий</translation>
+    </message>
+</context>
+<context>
     <name>WalletGui::PoolModel</name>
     <message>
         <source>Pool URL</source>
@@ -1905,6 +2116,10 @@ Are you sure?</source>
         <source>You have unmixable dust on balance. Use menu &apos;Wallet -&gt; Sweep unmixable&apos; first.</source>
         <translation>У вас є незмішуваний баланс. Спершу скористайтесь меню “Гаманець -&gt; Прибрати незмішуване&quot;.</translation>
     </message>
+    <message>
+        <source>Insufficient balance.</source>
+        <translation>Недостатній баланс.</translation>
+    </message>
 </context>
 <context>
     <name>WalletGui::SendGlassFrame</name>
@@ -1917,6 +2132,29 @@ Are you sure?</source>
 when the wallet is synchronized</source>
         <translation>Ви зможете надсилати %1
 коли гаманець завершить синхронізацію</translation>
+    </message>
+</context>
+<context>
+    <name>WalletGui::SignMessageDialog</name>
+    <message>
+        <source>Sign message</source>
+        <translation>Підписати повідомлення</translation>
+    </message>
+    <message>
+        <source>Verify signed message</source>
+        <translation>Перевірити підписане повідомлення</translation>
+    </message>
+    <message>
+        <source>Signature is valid</source>
+        <translation>Підпис дійсний</translation>
+    </message>
+    <message>
+        <source>Signature is invalid!</source>
+        <translation>Підпис недійсний!</translation>
+    </message>
+    <message>
+        <source>Address is invalid!</source>
+        <translation>Адреса недійсна!</translation>
     </message>
 </context>
 <context>
@@ -1968,7 +2206,7 @@ when the wallet is synchronized</source>
 &lt;span style=&quot; font-weight:600;&quot;&gt;Payment ID: &lt;/span&gt;%7&lt;br&gt;
 &lt;span style=&quot; font-weight:600;&quot;&gt;Transaction Hash: &lt;/span&gt;%8&lt;br&gt;
 &lt;span style=&quot; font-weight:600;&quot;&gt;Transaction Key: &lt;/span&gt;%9&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+        <translation type="vanished">&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Cantarell&apos;; font-size:11pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Стан: &lt;/span&gt;%1&lt;br&gt;
 &lt;span style=&quot; font-weight:600;&quot;&gt;Дата: &lt;/span&gt;%2&lt;br&gt;
@@ -1982,6 +2220,32 @@ when the wallet is synchronized</source>
     <message>
         <source>(n/a)</source>
         <translation>немає даних</translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Cantarell&apos;; font-size:11pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Status: &lt;/span&gt;%1&lt;br&gt;
+&lt;span style=&quot; font-weight:600;&quot;&gt;Date: &lt;/span&gt;%2&lt;br&gt;
+&lt;span style=&quot; font-weight:600;&quot;&gt;To: &lt;/span&gt;%4&lt;br&gt;
+&lt;span style=&quot; font-weight:600;&quot;&gt;Amount: &lt;/span&gt;%5&lt;br&gt;
+&lt;span style=&quot; font-weight:600;&quot;&gt;Fee: &lt;/span&gt;%6&lt;br&gt;
+&lt;span style=&quot; font-weight:600;&quot;&gt;Payment ID: &lt;/span&gt;%7&lt;br&gt;
+&lt;span style=&quot; font-weight:600;&quot;&gt;Transaction Hash: &lt;/span&gt;%8&lt;br&gt;
+&lt;span style=&quot; font-weight:600;&quot;&gt;Transaction Key: &lt;/span&gt;%9&lt;br&gt;
+&lt;span style=&quot; font-weight:600;&quot;&gt;Transaction Proof: &lt;/span&gt;%10
+&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Cantarell&apos;; font-size:11pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Стан: &lt;/span&gt;%1&lt;br&gt;
+&lt;span style=&quot; font-weight:600;&quot;&gt;Дата: &lt;/span&gt;%2&lt;br&gt;
+&lt;span style=&quot; font-weight:600;&quot;&gt;Кому: &lt;/span&gt;%4&lt;br&gt;
+&lt;span style=&quot; font-weight:600;&quot;&gt;Сума: &lt;/span&gt;%5&lt;br&gt;
+&lt;span style=&quot; font-weight:600;&quot;&gt;Комісія: &lt;/span&gt;%6&lt;br&gt;
+&lt;span style=&quot; font-weight:600;&quot;&gt;Ідентифікатор платежу: &lt;/span&gt;%7&lt;br&gt;
+&lt;span style=&quot; font-weight:600;&quot;&gt;Хеш транзакції: &lt;/span&gt;%8&lt;br&gt;
+&lt;span style=&quot; font-weight:600;&quot;&gt;Ключ транзакції: &lt;/span&gt;%9&lt;br&gt;
+&lt;span style=&quot; font-weight:600;&quot;&gt;Доказ транзакції: &lt;/span&gt;%10
+&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -2151,7 +2415,7 @@ when the wallet is synchronized</source>
     </message>
     <message>
         <source>Key</source>
-        <translation type="unfinished"></translation>
+        <translation>Ключ</translation>
     </message>
 </context>
 <context>
@@ -2322,7 +2586,31 @@ when the wallet is synchronized</source>
     </message>
     <message>
         <source>Sweeping unmixable dust</source>
-        <translation type="unfinished">Триває оптимізація незмішуваних виходів</translation>
+        <translation>Триває оптимізація незмішуваних виходів</translation>
+    </message>
+    <message>
+        <source>Optimizing wallet</source>
+        <translation>Триває оптимізація гаманця</translation>
+    </message>
+    <message>
+        <source>Failed to get the transaction proof</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to get the transaction proof.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to get the reserve proof</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This is tracking wallet. The reserve proof can be generated only by a full wallet.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to get the reserve proof.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

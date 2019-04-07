@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="be_BY" sourcelanguage="en">
+<TS version="2.1" language="fa_IR" sourcelanguage="en">
 <context>
     <name>AboutDialog</name>
     <message>
         <source>About %1</source>
-        <translation>Аб %1</translation>
+        <translation>درباره کربو</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>Зачыніць</translation>
+        <translation>بستن</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Balkancoin v. %1&lt;/p&gt;&lt;p&gt;This is the next generation anonymous cryptocurrency based on CryptoNote.&lt;/p&gt;&lt;p&gt;Copyright (c) 2012-2015. CryptoNote Developers&lt;/p&gt;&lt;p&gt;Copyright (c) 2015-2016. DigitalNote Developers&lt;/p&gt;&lt;p&gt;Copyright (c) 2016-2017. Karbowanec Developers&lt;/p&gt;&lt;p&gt;Copyright (c) 2017-2018. Balkancoin Developers&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://opensource.org/licenses/MIT&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#c69c6c;&quot;&gt;http://opensource.org/licenses/MIT&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://cryptonote.org/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#c69c6c;&quot;&gt;https://cryptonote.org/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://karbowanec.com/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#c69c6c;&quot;&gt;http://karbowanec.com/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.balkancoin.org/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#c69c6c;&quot;&gt;https://www.balkancoin.org/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Balkancoin v. %1&lt;/p&gt;&lt;p&gt;Гэта криптовалюта новага пакалення на аснове CryptoNote.&lt;/p&gt;&lt;p&gt;Copyright (c) 2012-2015. CryptoNote Developers&lt;/p&gt;&lt;p&gt;Copyright (c) 2015-2016. DigitalNote Developers&lt;/p&gt;&lt;p&gt;Copyright (c) 2016-2017. Karbowanec Developers&lt;/p&gt;&lt;p&gt;Copyright (c) 2017-2018. Balkancoin Developers&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://opensource.org/licenses/MIT&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#c69c6c;&quot;&gt;http://opensource.org/licenses/MIT&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://cryptonote.org/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#c69c6c;&quot;&gt;https://cryptonote.org/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://karbowanec.com/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#c69c6c;&quot;&gt;http://karbowanec.com/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.balkancoin.org/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#c69c6c;&quot;&gt;https://www.balkancoin.org/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Balkancoin v. %1&lt;/p&gt;&lt;p&gt;;رمزارز نسل آینده برپایه تکنولوژی کریپتونوت.&lt;/p&gt;&lt;p&gt;Copyright (c) 2012-2015. CryptoNote Developers&lt;/p&gt;&lt;p&gt;Copyright (c) 2015-2016. DigitalNote Developers&lt;/p&gt;&lt;p&gt;Copyright (c) 2016-2017. Karbowanec Developers&lt;/p&gt;&lt;p&gt;Copyright (c) 2017-2018. Balkancoin Developers&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://opensource.org/licenses/MIT&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#c69c6c;&quot;&gt;http://opensource.org/licenses/MIT&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://cryptonote.org/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#c69c6c;&quot;&gt;https://cryptonote.org/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://karbowanec.com/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#c69c6c;&quot;&gt;http://karbowanec.com/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.balkancoin.org/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#c69c6c;&quot;&gt;https://www.balkancoin.org/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Balkancoin v. %1&lt;/p&gt;&lt;p&gt;This is the next generation anonymous cryptocurrency based on CryptoNote.&lt;/p&gt;&lt;p&gt;Copyright (c) 2012-2015. CryptoNote Developers&lt;/p&gt;&lt;p&gt;Copyright (c) 2012-2016. Bytecoin Developers&lt;/p&gt;&lt;p&gt;Copyright (c) 2015-2016. DigitalNote Developers&lt;/p&gt;&lt;p&gt;Copyright (c) 2016-2018. Karbo (Karbowanec) Developers&lt;/p&gt;&lt;p&gt;Copyright (c) 2017-2018. Balkancoin Developers&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://opensource.org/licenses/MIT&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#c69c6c;&quot;&gt;http://opensource.org/licenses/MIT&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://cryptonote.org/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#c69c6c;&quot;&gt;https://cryptonote.org/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://karbo.io/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#c69c6c;&quot;&gt;http://karbo.io/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.balkancoin.org/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#c69c6c;&quot;&gt;https://www.balkancoin.org/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;THE SOFTWARE IS PROVIDED &amp;quot;AS IS&amp;quot;, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Balkancoin v. %1&lt;/p&gt;&lt;p&gt;Гэта криптовалюта новага пакалення на аснове CryptoNote.&lt;/p&gt;&lt;p&gt;Copyright (c) 2012-2015. CryptoNote Developers&lt;/p&gt;&lt;p&gt;Copyright (c) 2012-2016. Bytecoin Developers&lt;/p&gt;&lt;p&gt;Copyright (c) 2015-2016. DigitalNote Developers&lt;/p&gt;&lt;p&gt;Copyright (c) 2016-2018. Karbo (Karbowanec) Developers&lt;/p&gt;&lt;p&gt;Copyright (c) 2017-2018. Balkancoin Developers&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://opensource.org/licenses/MIT&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#c69c6c;&quot;&gt;http://opensource.org/licenses/MIT&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://cryptonote.org/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#c69c6c;&quot;&gt;https://cryptonote.org/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://karbo.io/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#c69c6c;&quot;&gt;http://karbo.io/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.balkancoin.org/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#c69c6c;&quot;&gt;https://www.balkancoin.org/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;THE SOFTWARE IS PROVIDED &amp;quot;AS IS&amp;quot;, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Balkancoin v. %1&lt;/p&gt;&lt;p&gt;Dies ist die nächste Generation der anonymen Kryptowährung basierend auf CryptoNote.&lt;/p&gt;&lt;p&gt;Copyright (c) 2012-2015. CryptoNote Developers&lt;/p&gt;&lt;p&gt;Copyright (c) 2012-2016. Bytecoin Developers&lt;/p&gt;&lt;p&gt;Copyright (c) 2015-2016. DigitalNote Developers&lt;/p&gt;&lt;p&gt;Copyright (c) 2016-2018. Karbo (Karbowanec) Developers&lt;/p&gt;&lt;p&gt;Copyright (c) 2017-2018. Balkancoin Developers&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://opensource.org/licenses/MIT&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#c69c6c;&quot;&gt;http://opensource.org/licenses/MIT&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://cryptonote.org/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#c69c6c;&quot;&gt;https://cryptonote.org/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://karbo.io/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#c69c6c;&quot;&gt;http://karbo.io/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.balkancoin.org/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#c69c6c;&quot;&gt;https://www.balkancoin.org/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;EL SOFTWARE SE PROPORCIONA &amp;quot;TAL CUAL&amp;quot;, SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O IMPLÍCITA, INCLUYENDO PERO NO LIMITADO A GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN PROPÓSITO PARTICULAR Y NO INFRACCIÓN. EN NINGÚN CASO LOS AUTORES O TITULARES DEL COPYRIGHT SERÁN RESPONSABLES DE NINGUNA RECLAMACIÓN, DAÑOS U OTRAS RESPONSABILIDADES, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O CUALQUIER OTRO MOTIVO, QUE SURJA DE O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRO TIPO DE ACCIONES EN EL SOFTWARE.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
     <name>AccountFrame</name>
     <message>
         <source>Address:</source>
-        <translation type="vanished">Адрас:</translation>
+        <translation type="vanished">آدرس :</translation>
     </message>
     <message>
         <source>...</source>
@@ -32,108 +32,108 @@
     </message>
     <message>
         <source>Show private key</source>
-        <translation type="vanished">Паказаць прыватны ключ</translation>
+        <translation type="vanished">نمایش کلید های شخصی</translation>
     </message>
     <message>
         <source>Your account:</source>
-        <translation>Ваш рахунак:</translation>
+        <translation>حساب شما :</translation>
     </message>
     <message>
         <source>Your receiving address</source>
-        <translation>Гэта ваш адрас для атрымання карбованцаў</translation>
+        <translation>آدرس برای دریافت</translation>
     </message>
     <message>
         <source>This is your account address</source>
-        <translation>Гэта адрас вашага рахунку</translation>
+        <translation>این آدرس کیف پول شماست</translation>
     </message>
     <message>
         <source>Copy address</source>
-        <translation>Скапіяваць адрас</translation>
+        <translation>تهیه رونوشت از آدرس</translation>
     </message>
     <message>
         <source>Total balance</source>
-        <translation>Баланс рахунку</translation>
+        <translation>موجودی کل</translation>
     </message>
     <message>
         <source> bkc</source>
-        <translation> крб.</translation>
+        <translation> bkc</translation>
     </message>
     <message>
         <source>Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>پنجره</translation>
     </message>
     <message>
         <source>Show QR code</source>
-        <translation>Паказаць QR-код</translation>
+        <translation>نمایش کد کیو آر</translation>
     </message>
     <message>
         <source>0.00</source>
-        <translation type="unfinished">0.00</translation>
+        <translation>0.00</translation>
     </message>
 </context>
 <context>
     <name>AddressBookDialog</name>
     <message>
         <source>Select address</source>
-        <translation>Выбраць адрас</translation>
+        <translation>انتخاب آدرس</translation>
     </message>
     <message>
         <source>Choose</source>
-        <translation>Выбраць</translation>
+        <translation>انتخاب</translation>
     </message>
 </context>
 <context>
     <name>AddressBookFrame</name>
     <message>
         <source>Frame</source>
-        <translation></translation>
+        <translation>پنجره</translation>
     </message>
     <message>
         <source>New address</source>
-        <translation type="vanished">Дадаць адрас</translation>
+        <translation type="vanished">آدرس جدید</translation>
     </message>
     <message>
         <source>Delete address</source>
-        <translation type="vanished">Выдаліць адрас</translation>
+        <translation type="vanished">حذف آدرس</translation>
     </message>
     <message>
         <source>Copy address</source>
-        <translation>Скапіяваць адрас</translation>
+        <translation>تهیه رونوشت از آدرس</translation>
     </message>
     <message>
         <source>New contact</source>
-        <translation>Дадаць кантакт</translation>
+        <translation>مخاطب جدید</translation>
     </message>
     <message>
         <source>Edit contact</source>
-        <translation>Рэдагаваць кантакт</translation>
+        <translation>ویرایش مخاطب</translation>
     </message>
     <message>
         <source>Delete contact</source>
-        <translation>Выдаліць кантакт</translation>
+        <translation>حذف مخاطب</translation>
     </message>
     <message>
         <source>Copy Payment ID</source>
-        <translation>Скапіяваць ідэнтыфікатар плацяжу</translation>
+        <translation>تهیه رونوشت از شناسه پرداخت</translation>
     </message>
 </context>
 <context>
     <name>ChangeLanguageDialog</name>
     <message>
         <source>Change language</source>
-        <translation>Змяніць мову</translation>
+        <translation>تغییر زبان</translation>
     </message>
     <message>
         <source>Select language:</source>
-        <translation>Абярыце мову:</translation>
+        <translation>انتخاب زبان مورد نظر :</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Адмяніць</translation>
+        <translation>لغو</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation>Добра</translation>
+        <translation>تایید</translation>
     </message>
     <message>
         <source>English</source>
@@ -176,195 +176,191 @@
     <name>ChangePasswordDialog</name>
     <message>
         <source>Change password</source>
-        <translation>Змена пароля</translation>
+        <translation>تغییر رمزعبور</translation>
     </message>
     <message>
         <source>Ok</source>
-        <translation>Добра</translation>
+        <translation>تایید</translation>
     </message>
     <message>
         <source>Old password:</source>
-        <translation>Стары пароль:</translation>
+        <translation>رمز قدیمی :</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Адмяніць</translation>
+        <translation>لغو</translation>
     </message>
     <message>
         <source>New password:</source>
-        <translation>Новы пароль:</translation>
+        <translation>رمز جدید :</translation>
     </message>
     <message>
         <source>Confirm:</source>
-        <translation>Пацвердзіць:</translation>
+        <translation>تایید :</translation>
     </message>
     <message>
         <source>Password not confirmed</source>
-        <translation>Пароль не пацверджаны</translation>
+        <translation>رمز عبور تایید نشد</translation>
     </message>
 </context>
 <context>
     <name>ConfirmSendDialog</name>
     <message>
         <source>Confirm sending %1 BKC</source>
-        <translation>Пацверджанне адпраўкі %1 крб.</translation>
+        <translation>تایید ارسال %1 BKC</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Are you sure you want to send &lt;strong&gt;%1 BKC&lt;/strong&gt;?&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Жадаеце выслаць &lt;strong&gt;%1 крб.&lt;/strong&gt;?&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;آیا برای ارسال این مقدار کربو مطمین هستید ؟ &lt;strong&gt;%1 BKC&lt;/strong&gt;?&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Yes</source>
-        <translation>Ды</translation>
+        <translation>بله</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Адмяніць</translation>
+        <translation>لغو</translation>
     </message>
 </context>
 <context>
     <name>ConnectionSettingsDialog</name>
     <message>
         <source>Connection settings</source>
-        <translation>Параметры падлучэння</translation>
+        <translation>تنظیمات اتصال</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Адмяніць</translation>
+        <translation>لغو</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation>Захаваць</translation>
+        <translation>ذخیره</translation>
     </message>
     <message>
         <source>Auto selection</source>
-        <translation>Аўтаматычны выбар</translation>
+        <translation>انتخاب خودکار</translation>
     </message>
     <message>
         <source>Wallet will connect to local daemon on default port. In case of no local daemon running it will launch built-in node.</source>
-        <translation>Гаманец будзе падлучацца да лакальнага дэману праз порт па-змаўчанні. Калі дэман ня запушчаны, ён запусціць убудаваны вузел.</translation>
+        <translation>کیف پول به صورت خودکار از دایمون کربو برای همگام سازی اسفاده میکند و اگر آن در حال اجرا نباشد دایمون خود را اجرا می کند.</translation>
     </message>
     <message>
         <source>Embedded</source>
-        <translation>Убудаваны вузел</translation>
+        <translation>دایمون داخلی</translation>
     </message>
     <message>
         <source>Built-in embedded node will be used.</source>
-        <translation>Будзе запускацца ўбудаваны вузел.</translation>
+        <translation>دایمون داخلی استفاده می شود.</translation>
     </message>
     <message>
         <source>Local daemon</source>
-        <translation>Лакальны дэман</translation>
+        <translation>دایمون محلی</translation>
     </message>
     <message>
         <source>Port: </source>
-        <translation>Порт: </translation>
+        <translation>پورت : </translation>
     </message>
     <message>
         <source>Wallet will connect to local daemon on specified port.</source>
-        <translation>Гаманец будзе падлучацца да лакальнага дэману праз паказаны порт.</translation>
+        <translation>کیف پول به دایمون در حال اجرا با پورت بالا متصل می شود.</translation>
     </message>
     <message>
         <source>Remote daemon</source>
-        <translation>Аддалены дэман</translation>
+        <translation>دایمون ریموت</translation>
     </message>
     <message>
         <source>Add node</source>
-        <translation>Дадаць вузел</translation>
-    </message>
-    <message>
-        <source>Wallet will connect to remote node running in local or global network. Please select node or specify IP address or domain name and port. In this mode wallet sends 0.25% fee from each transaction to the node, but no more than 10 BKC.</source>
-        <translation type="vanished">Гаманец будзе падлучацца да вузла ў лакальнай або глабальнай сеткі. Выберыце вузел або пакажыце IP адрас або дамен і порт каб дадаць новы. У гэтым рэжыме гаманец плаціць камісію вузлу ў памеры 0,25% ад сумы транзакцыі, але не больш за 10 bkc.</translation>
+        <translation>اضافه کردن سرور</translation>
     </message>
     <message>
         <source>Remove node</source>
-        <translation>Выдаліць вузел</translation>
+        <translation>حذف سرور</translation>
     </message>
     <message>
         <source>Wallet will connect to remote node running in local or global network. Please select node or specify IP address or domain name and port. In this mode wallet sends 0.25% fee from each transaction to the node, but no more than 10 BKC.</source>
-        <translation>Гаманец будзе падлучацца да вузла ў лакальнай або глабальнай сеткі. Выберыце вузел або пакажыце IP адрас або дамен і порт каб дадаць новы. У гэтым рэжыме гаманец плаціць камісію вузлу ў памеры 0,25% ад сумы транзакцыі, але не больш за 10 bkc.</translation>
+        <translation>Wallet will connect to remote node running in local or global network. Please select node or specify IP address or domain name and port. In this mode wallet sends 0.25% fee from each transaction to the node, but no more than 10 BKC.</translation>
     </message>
 </context>
 <context>
     <name>ExitWidget</name>
     <message>
         <source>Saving data</source>
-        <translation>Запісваюцца дадзеныя</translation>
+        <translation>در حال ذخیره اطلاعات</translation>
     </message>
     <message>
         <source>%1 wallet is saving data.
 Please wait...</source>
-        <translation>%1 запісвае дадзеныя.
-Пачакайце калі ласка...</translation>
+        <translation>کیف پول کربو در حال ذخیره اطلاعات می باشد.
+لطفا صبر کنید ...</translation>
     </message>
 </context>
 <context>
     <name>ExportTrackingKeyDialog</name>
     <message>
         <source>Export tracking key</source>
-        <translation>Экспартаваць ключ адсочвання</translation>
+        <translation>صدور کلیدهای پیگیری</translation>
     </message>
     <message>
         <source>Tracking key allows to see all incoming transactions of this wallet. It does not allow to spend funds.</source>
-        <translation>Ключ адсочвання дазваляе ўбачыць усе ўваходныя транзакцыі гэтага гаманца. Гэта не дазваляе выдаткоўваць сродкі.</translation>
+        <translation>کلیدهای پیگیری به شما اجازه مشاهده تراکنشات در حال ورود به این کیف پول میدهد و با استفاده از آنها قادر به ارسال نیستید.</translation>
     </message>
     <message>
         <source>Save to file</source>
-        <translation>Захаваць у файл</translation>
+        <translation>ذخیره به عنوان فایل</translation>
     </message>
     <message>
         <source>Copy key</source>
-        <translation>Скапіяваць ключ</translation>
+        <translation>تهیه رونوشت از کلید</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>Зачыніць</translation>
+        <translation>بستن</translation>
     </message>
 </context>
 <context>
     <name>GetBalanceProofDialog</name>
     <message>
         <source>Signature</source>
-        <translation>Подпіс</translation>
+        <translation>امضا</translation>
     </message>
     <message>
         <source>Message</source>
-        <translation>Паведамленне</translation>
+        <translation>پیام</translation>
     </message>
     <message>
         <source>Save to file</source>
-        <translation>Захаваць у файл</translation>
+        <translation>ذخیره به عنوان فایل</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>Зачыніць</translation>
+        <translation>بستن</translation>
     </message>
     <message>
         <source>Amount</source>
-        <translation>Сума</translation>
+        <translation>مقدار</translation>
     </message>
     <message>
         <source>Get proof of balance</source>
-        <translation>Атрымаць пацверджанне балансу</translation>
+        <translation>تایید تعادل</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation>Скапіяваць</translation>
+        <translation>رونویسی کردن</translation>
     </message>
 </context>
 <context>
     <name>ImportKeyDialog</name>
     <message>
         <source>Import private key</source>
-        <translation>Імпартаваць прыватны ключ</translation>
+        <translation>درون ریزی کد شخصی</translation>
     </message>
     <message>
         <source>Key:</source>
-        <translation>Ключ:</translation>
+        <translation>کد :</translation>
     </message>
     <message>
         <source>Wallet path:</source>
-        <translation type="vanished">Шлях да гаманца:</translation>
+        <translation type="vanished">مسیر کیف پول :</translation>
     </message>
     <message>
         <source>...</source>
@@ -372,152 +368,152 @@ Please wait...</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Адмяніць</translation>
+        <translation>لغو</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation>Добра</translation>
+        <translation>تایید</translation>
     </message>
     <message>
         <source>Where to save new wallet file:</source>
-        <translation>Дзе захаваць файл новага гаманца:</translation>
+        <translation>فایل جدید کیف پول را کجا ذخیره می کنید :</translation>
     </message>
     <message>
         <source>Select folder</source>
-        <translation>Выбраць каталог</translation>
+        <translation>انتخاب پوشه</translation>
     </message>
 </context>
 <context>
     <name>ImportTrackingKeyDialog</name>
     <message>
         <source>Import tracking key</source>
-        <translation>Імпартаваць ключ адсочвання</translation>
+        <translation>درون ریزی کلید پیگیری</translation>
     </message>
     <message>
         <source>...</source>
-        <translation type="obsolete">...</translation>
+        <translation type="vanished">...</translation>
     </message>
     <message>
         <source>Key:</source>
-        <translation>Ключ:</translation>
+        <translation>کد :</translation>
     </message>
     <message>
         <source>Wallet path:</source>
-        <translation type="vanished">Шлях да гаманца:</translation>
+        <translation type="vanished">مسیر کیف پول :</translation>
     </message>
     <message>
         <source>Import a tracking key of a wallet to see all its incoming transactions. It doesn&apos;t allow spending funds.</source>
-        <translation>Імпарт ключа адсочвання гаманца, каб убачыць усе ўваходныя транзакцыі. Гэта не дазваляе выдаткоўваць сродкі.</translation>
+        <translation>درون ریزی کد کلید پیگیری تنها برای مشاهده تراکنش های در حال ورود می باشد و بوسیله آن شما نمیتوانید پول ارسال نمایید.</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Адмяніць</translation>
+        <translation>لغو</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation>Добра</translation>
+        <translation>تایید</translation>
     </message>
     <message>
         <source>Where to save new wallet file:</source>
-        <translation>Дзе захаваць файл новага гаманца:</translation>
+        <translation>فایل جدید کیف پول خود را کجا ذخیره می کنید :</translation>
     </message>
     <message>
         <source>Select folder</source>
-        <translation>Выбраць каталог</translation>
+        <translation>انتخاب پوشه</translation>
     </message>
 </context>
 <context>
     <name>InfoDialog</name>
     <message>
         <source>Information</source>
-        <translation>Інфармацыя</translation>
+        <translation>اطلاعات</translation>
     </message>
     <message>
         <source>Network</source>
-        <translation>Сетка</translation>
+        <translation>شبکه</translation>
     </message>
     <message>
         <source>Connections</source>
-        <translation>Падлучэння</translation>
+        <translation>اتصالات</translation>
     </message>
     <message>
         <source>Peer list</source>
-        <translation>Спіс піров</translation>
+        <translation>لیست Peer</translation>
     </message>
     <message>
         <source>Blockchain</source>
-        <translation>Блокчэйн</translation>
+        <translation>زنجیره بلوکی</translation>
     </message>
     <message>
         <source>Height</source>
-        <translation>Вышыня</translation>
+        <translation>آخرین بلوک</translation>
     </message>
     <message>
         <source>Difficulty</source>
-        <translation>Цяжкасць</translation>
+        <translation>سختی</translation>
     </message>
     <message>
         <source>Transactions</source>
-        <translation>Транзакцыі</translation>
+        <translation>تراکنش ها</translation>
     </message>
     <message>
         <source>Unconfirmed transactions</source>
-        <translation>Непацверджаны транзакцыі</translation>
+        <translation>تراکنش های تایید نشده</translation>
     </message>
     <message>
         <source>Alternative blocks</source>
-        <translation>Альтэрнатыўныя блокі</translation>
+        <translation>بلوک های جایگزین شده</translation>
     </message>
     <message>
         <source>Last block date and time</source>
-        <translation>Дата і час апошняга блока</translation>
+        <translation>زمان و تاریخ آخرین بلاک پیدا شده</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>Зачыніць</translation>
+        <translation>بستن</translation>
     </message>
 </context>
 <context>
     <name>MainWindow</name>
     <message>
         <source>MainWindow</source>
-        <translation></translation>
+        <translation>پنجره اصلی</translation>
     </message>
     <message>
         <source>File</source>
-        <translation>Файл</translation>
+        <translation>فایل</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation>Налады</translation>
+        <translation>تنظیمات</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation>Дапамога</translation>
+        <translation>کمک</translation>
     </message>
     <message>
         <source>toolBar</source>
-        <translation>Панэль інструментаў</translation>
+        <translation>toolBar</translation>
     </message>
     <message>
         <source>Overview</source>
-        <translation>Агляд</translation>
+        <translation>وضعیت کلی</translation>
     </message>
     <message>
         <source>Send</source>
-        <translation>Выслаць</translation>
+        <translation>ارسال</translation>
     </message>
     <message>
         <source>Receive</source>
-        <translation>Атрымаць</translation>
+        <translation>دریافت</translation>
     </message>
     <message>
         <source>Transactions</source>
-        <translation>Транзакцыі</translation>
+        <translation>تراکنش ها</translation>
     </message>
     <message>
         <source>Exit</source>
-        <translation>Выхад</translation>
+        <translation>خروج</translation>
     </message>
     <message>
         <source>Ctrl+Q</source>
@@ -525,75 +521,75 @@ Please wait...</source>
     </message>
     <message>
         <source>Address Book</source>
-        <translation type="vanished">Адрасная кніга</translation>
+        <translation type="vanished">مخاطبین</translation>
     </message>
     <message>
         <source>Create wallet</source>
-        <translation>Стварыць гаманец</translation>
+        <translation>ساخت کیف پول</translation>
     </message>
     <message>
         <source>Open wallet</source>
-        <translation>Адкрыць гаманец</translation>
+        <translation>باز کردن کیف پول</translation>
     </message>
     <message>
         <source>Encrypt wallet</source>
-        <translation>Зашыфраваць гаманец</translation>
+        <translation>رمزگذاری برروی کیف پول</translation>
     </message>
     <message>
         <source>Change password</source>
-        <translation>Змяніць пароль</translation>
+        <translation>تغییر رمز عبور</translation>
     </message>
     <message>
         <source>About</source>
-        <translation>Аб праграме</translation>
+        <translation>درباره</translation>
     </message>
     <message>
         <source>About Qt</source>
-        <translation>Аб Qt</translation>
+        <translation>درباره Qt</translation>
     </message>
     <message>
         <source>Backup wallet</source>
-        <translation>Рэзервовае капіраванне кашалька</translation>
+        <translation>تهیه نسخه پشتیبان</translation>
     </message>
     <message>
         <source>Start on system login</source>
-        <translation>Запускаць пры ўваходзе ў сістэму</translation>
+        <translation>در بدو ورود شروع به کار کن</translation>
     </message>
     <message>
         <source>Minimize to tray</source>
-        <translation>Згортваць у трэй</translation>
+        <translation>کوچک کردن</translation>
     </message>
     <message>
         <source>Close to tray</source>
-        <translation>Не зачыняць, а згортваць у трэй</translation>
+        <translation>بستن</translation>
     </message>
     <message>
         <source>Import private key</source>
-        <translation>Імпартаваць прыватны ключ</translation>
+        <translation>درون ریزی کلید شخصی</translation>
     </message>
     <message>
         <source>Mining</source>
-        <translation type="vanished">Чаканка</translation>
+        <translation type="vanished">استخراح</translation>
     </message>
     <message>
         <source>Reset wallet</source>
-        <translation>Скідванне кашалька</translation>
+        <translation>همگام سازی مجدد کیف پول</translation>
     </message>
     <message>
         <source>Contacts</source>
-        <translation>Кантакты</translation>
+        <translation>مخاطبین</translation>
     </message>
     <message>
         <source>Language</source>
-        <translation>Мова</translation>
+        <translation>زبان</translation>
     </message>
     <message>
         <source>Change language</source>
-        <translation type="vanished">Змяніць мову</translation>
+        <translation type="vanished">تغییر زبان</translation>
     </message>
     <message>
         <source>Show private key</source>
-        <translation type="vanished">Паказаць прыватны ключ</translation>
+        <translation type="vanished">نمایش کد کلید شخصی</translation>
     </message>
     <message>
         <source>F1</source>
@@ -601,291 +597,295 @@ Please wait...</source>
     </message>
     <message>
         <source>Connection</source>
-        <translation>Падключэнне</translation>
+        <translation>اتصالات</translation>
     </message>
     <message>
         <source>Open payment request</source>
-        <translation>Адкрыць запыт плацяжу</translation>
+        <translation>بازکردن درخواست واریز</translation>
     </message>
     <message>
         <source>Export tracking key</source>
-        <translation>Экспартаваць ключ адсочвання</translation>
+        <translation>صدور کد کلید پیگیری</translation>
     </message>
     <message>
         <source>Import tracking key</source>
-        <translation>Імпартаваць ключ адсочвання</translation>
+        <translation>ورود کد کلید پیگیری</translation>
     </message>
     <message>
         <source>Export private key</source>
-        <translation>Экспартаваць прыватны ключ</translation>
+        <translation>صادر کردن کد کلید شخصی</translation>
     </message>
     <message>
         <source>Account toolbar</source>
-        <translation>Рахунак</translation>
+        <translation>Account toolbar</translation>
     </message>
     <message>
         <source>Close wallet</source>
-        <translation>Зачыніць гаманец</translation>
+        <translation>خروج از کیف پول</translation>
     </message>
     <message>
         <source>Recent wallets</source>
-        <translation>Апошнія гаманцы</translation>
+        <translation>آخرین کیف پول ها</translation>
     </message>
     <message>
         <source>Information</source>
-        <translation>Інфармацыя</translation>
+        <translation>اطلاعات</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation type="vanished">Стан</translation>
+        <translation type="vanished">وضعیت</translation>
     </message>
     <message>
         <source>Tools</source>
-        <translation type="vanished">Інструменты</translation>
+        <translation type="vanished">ابزارها</translation>
     </message>
     <message>
         <source>Open log file</source>
-        <translation>Адкрыць файл часопіса</translation>
+        <translation>باز کردن فایل لاگ</translation>
     </message>
     <message>
         <source>Show mnemonic seed</source>
-        <translation>Паказаць мнеманічную фразу</translation>
+        <translation>نمایش کد های پشتیبان</translation>
     </message>
     <message>
         <source>Restore from mnemonic seed</source>
-        <translation>Аднаўленне з мнеманічнай фразы</translation>
+        <translation>بازگردانی کیف پول از طریق کدهای پشتیبان</translation>
     </message>
     <message>
         <source>Create nondeterministic wallet</source>
-        <translation>Стварыць недетерминированный гаманец</translation>
+        <translation>ساخت کیف پول nondeterministic</translation>
     </message>
     <message>
         <source>Start pool mining automatically</source>
-        <translation type="vanished">Запускаць чаканку пры старце</translation>
+        <translation type="vanished">استخراج درون استخر را خودکار شروع کن</translation>
     </message>
     <message>
         <source>Wallet</source>
-        <translation>Гаманец</translation>
+        <translation>کیف پول</translation>
     </message>
     <message>
         <source>Sweep unmixable</source>
-        <translation>Прыбраць нязмешвальных</translation>
+        <translation>ارز غیر قابل ارسال را بازگردانی کن</translation>
     </message>
     <message>
         <source>Sign message</source>
-        <translation>Падпісаць паведамленне</translation>
+        <translation>امضا پیام</translation>
     </message>
     <message>
         <source>Verify signed message</source>
-        <translation>Праверка падпісанага паведамленні</translation>
+        <translation>تایید امضا پیام</translation>
     </message>
     <message>
         <source>Optimization</source>
-        <translation>Аптымізацыя</translation>
+        <translation>بهينه سازي</translation>
     </message>
     <message>
         <source>Get proof of balance</source>
-        <translation>Атрымаць пацверджанне балансу</translation>
+        <translation>تایید تعادل</translation>
     </message>
 </context>
 <context>
     <name>MiningFrame</name>
     <message>
+        <source>Frame</source>
+        <translation type="vanished">پنجره</translation>
+    </message>
+    <message>
         <source>Mining status</source>
-        <translation type="vanished">Стан чаканкі</translation>
+        <translation type="vanished">وضعیت استخراج</translation>
     </message>
     <message>
         <source>CPU cores</source>
-        <translation type="vanished">Ядра працэсара</translation>
+        <translation type="vanished">تعداد هسته پردازنده</translation>
     </message>
     <message>
         <source>Select pool</source>
-        <translation type="vanished">Выберыце пул</translation>
+        <translation type="vanished">انتخاب استخر</translation>
     </message>
     <message>
         <source>Stopped</source>
-        <translation type="vanished">Спынена</translation>
+        <translation type="vanished">متوقف شده</translation>
     </message>
     <message>
         <source>Add pool</source>
-        <translation type="vanished">Дадаць пул</translation>
+        <translation type="vanished">اضافه کردن استخر</translation>
     </message>
     <message>
         <source>Start mining</source>
-        <translation type="vanished">Пачаць чаканку</translation>
+        <translation type="vanished">شروع استخراج</translation>
     </message>
     <message>
         <source>Pause mining</source>
-        <translation type="vanished">Прыпыніць чаканку</translation>
+        <translation type="vanished">دست نگه دار</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation type="vanished">Налады</translation>
+        <translation type="vanished">تنظیمات</translation>
     </message>
     <message>
         <source>Pool mining</source>
-        <translation type="vanished">Чаканка ў пуле</translation>
+        <translation type="vanished">استخراج درون استخر</translation>
     </message>
     <message>
         <source>Stop mining</source>
-        <translation type="vanished">Прыпыніць чаканку</translation>
+        <translation type="vanished">توقف کامل استخراج</translation>
     </message>
     <message>
         <source>Solo mining</source>
-        <translation type="vanished">Чаканка соло</translation>
+        <translation type="vanished">استخراج تک نفره</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation type="vanished">Стан</translation>
+        <translation type="vanished">وضعیت</translation>
     </message>
     <message>
         <source>Remove pool</source>
-        <translation type="vanished">Выдаліць пул</translation>
+        <translation type="vanished">حذف استخر</translation>
     </message>
     <message>
         <source>Mining status:</source>
-        <translation type="vanished">Стан чаканкі:</translation>
+        <translation type="vanished">وضعیت استخراج :</translation>
     </message>
 </context>
 <context>
     <name>MnemonicSeedDialog</name>
     <message>
         <source>Mnemonic seed</source>
-        <translation>Мнеманічна фраза</translation>
+        <translation>کدهای پشتیبان مهم</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>Зачыніць</translation>
+        <translation>ببند</translation>
     </message>
     <message>
         <source>Select language</source>
-        <translation>Абярыце мову</translation>
+        <translation>انتخاب زبان</translation>
     </message>
 </context>
 <context>
     <name>NewAddressDialog</name>
     <message>
         <source>New address</source>
-        <translation>Дадаць адрас</translation>
+        <translation>آدرس جدید</translation>
     </message>
     <message>
         <source>Label:</source>
-        <translation>Пазнака:</translation>
+        <translation>برچسب :</translation>
     </message>
     <message>
         <source>Address:</source>
-        <translation>Адрас:</translation>
+        <translation>آدرس :</translation>
     </message>
     <message>
         <source>Ok</source>
-        <translation>Добра</translation>
+        <translation>تایید</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Адмяніць</translation>
+        <translation>لغو</translation>
     </message>
     <message>
         <source>PaymentID:</source>
-        <translation>Ідэнтыфікатар плацяжу:</translation>
+        <translation>شناسه واریز :</translation>
     </message>
 </context>
 <context>
     <name>NewNodeDialog</name>
     <message>
         <source>New remote node</source>
-        <translation>Новы аддалены вузел</translation>
+        <translation>دایمون ریموت جدید</translation>
     </message>
     <message>
         <source>Host:</source>
-        <translation>Адрас:</translation>
+        <translation>آدرس :</translation>
     </message>
     <message>
         <source>Port:</source>
-        <translation>Порт:</translation>
+        <translation>پورت :</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Адмяніць</translation>
+        <translation>لغو</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation>Добра</translation>
+        <translation>تایید</translation>
     </message>
 </context>
 <context>
     <name>NewPasswordDialog</name>
     <message>
         <source>Enter password</source>
-        <translation>Увядзіце пароль</translation>
+        <translation>ورود رمز عبور</translation>
     </message>
     <message>
         <source>Ok</source>
-        <translation>Добра</translation>
+        <translation>تایید</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Адмяніць</translation>
+        <translation>لغو</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation>Пароль:</translation>
+        <translation>رمز عبور :</translation>
     </message>
     <message>
         <source>Confirm:</source>
-        <translation>Пацвердзіць:</translation>
+        <translation>تایید :</translation>
     </message>
     <message>
         <source>Password not confirmed</source>
-        <translation>Пароль не пацверджаны</translation>
+        <translation>رمز عبور تایید نشد</translation>
     </message>
 </context>
 <context>
     <name>NewPoolDialog</name>
     <message>
         <source>New pool</source>
-        <translation type="vanished">Новы пул</translation>
+        <translation type="vanished">استخر جدید</translation>
     </message>
     <message>
         <source>Host:</source>
-        <translation type="vanished">Адрас:</translation>
+        <translation type="vanished">آدرس :</translation>
     </message>
     <message>
         <source>Port:</source>
-        <translation type="vanished">Порт:</translation>
+        <translation type="vanished">پورت</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="vanished">Адмяніць</translation>
+        <translation type="vanished">لغو</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="vanished">Добра</translation>
+        <translation type="vanished">تایید</translation>
     </message>
 </context>
 <context>
     <name>NoWalletFrame</name>
     <message>
         <source>Frame</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Marco</translation>
     </message>
     <message>
         <source>Welcome to Balkancoin Wallet!</source>
-        <translation>Сардэчна запрашаем у гаманец Balkancoin!</translation>
+        <translation>Welcome to Balkancoin Wallet!</translation>
     </message>
     <message>
         <source>Create wallet</source>
-        <translation>Стварыць гаманец</translation>
+        <translation>ساخت کیف پول جدید</translation>
     </message>
     <message>
         <source>Open wallet</source>
-        <translation>Адкрыць гаманец</translation>
+        <translation>بازکردن کیف پول قدیمی</translation>
     </message>
 </context>
 <context>
     <name>OpenUriDialog</name>
     <message>
         <source>Open payment request</source>
-        <translation>Адкрыць запыт плацяжу</translation>
+        <translation>ایجاد درخواست واریز</translation>
     </message>
     <message>
         <source>URI:</source>
@@ -893,34 +893,34 @@ Please wait...</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Адмяніць</translation>
+        <translation>لغو</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation>Добра</translation>
+        <translation>تایید</translation>
     </message>
 </context>
 <context>
     <name>OptimizationSettingsDialog</name>
     <message>
         <source>Wallet optimization settings</source>
-        <translation>Налады аптымізацыі гаманца</translation>
+        <translation>تنظیمات بهینه سازی کیف پول</translation>
     </message>
     <message>
         <source>Run background wallet optimization</source>
-        <translation>Выканаць аптымізацыю гаманца ў фонавым рэжыме</translation>
+        <translation>اجرای پسزمینه کیف پول را انجام دهید</translation>
     </message>
     <message>
         <source>(Recommended)</source>
-        <translation>(Рэкамендуецца)</translation>
+        <translation>(توصیه شده)</translation>
     </message>
     <message>
         <source>Optimization target</source>
-        <translation>Мэта аптымізацыі</translation>
+        <translation>هدف بهینه سازی</translation>
     </message>
     <message>
         <source>Anonymity level</source>
-        <translation>Узровень прыватнасці</translation>
+        <translation>میزان ناشناس بودن </translation>
     </message>
     <message>
         <source>0</source>
@@ -928,11 +928,11 @@ Please wait...</source>
     </message>
     <message>
         <source>outputs below selected target</source>
-        <translation>выхадаў ніжэй абранай мэты</translation>
+        <translation>خروجی زیر هدف انتخاب شده</translation>
     </message>
     <message>
         <source>From</source>
-        <translation>Ад</translation>
+        <translation>از طرف</translation>
     </message>
     <message>
         <source>HH:mm</source>
@@ -940,23 +940,23 @@ Please wait...</source>
     </message>
     <message>
         <source>To</source>
-        <translation>да</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Specific time for optimization transactions</source>
-        <translation>Канкрэтны час для аптымізацыі</translation>
+        <translation>زمان خاص برای معاملات بهینه سازی</translation>
     </message>
     <message>
         <source>Send optimization transactions each</source>
-        <translation>Адпраўляць аптымізацыйныя транзакцыйі са кожную</translation>
+        <translation>ارسال هر یک از معاملات بهینه سازی</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Адмяніць</translation>
+        <translation>لغو</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation>Захаваць</translation>
+        <translation>ذخیره</translation>
     </message>
     <message>
         <source>Wallet optimization is a background task performed in order to aggregate transactions outputs that are below optimization target into bigger ones. It allows to send larger amounts of BKC within one transaction. Wallet optimization is free for all users but takes some time.</source>
@@ -967,39 +967,39 @@ Please wait...</source>
     <name>OverviewFrame</name>
     <message>
         <source>Frame</source>
-        <translation></translation>
+        <translation>پنجره</translation>
     </message>
     <message>
         <source>Total:</source>
-        <translation>Усяго:</translation>
+        <translation>کل :</translation>
     </message>
     <message>
         <source>Wallet</source>
-        <translation type="vanished">гаманец</translation>
+        <translation type="vanished">کیف پول</translation>
     </message>
     <message>
         <source>Unconfirmed:</source>
-        <translation>Непацверджаны:</translation>
+        <translation>تایید نشده :</translation>
     </message>
     <message>
         <source>Balance:</source>
-        <translation type="vanished">Баланс:</translation>
+        <translation type="vanished">موجودی :</translation>
     </message>
     <message>
         <source>Recent transactions</source>
-        <translation>Апошнія здзелкі</translation>
+        <translation>تراکنش های اخیر</translation>
     </message>
     <message>
         <source>Balance</source>
-        <translation>Баланс</translation>
+        <translation>موجودی</translation>
     </message>
     <message>
         <source>Available balance:</source>
-        <translation>Даступны баланс:</translation>
+        <translation>موجودی در دسترس :</translation>
     </message>
     <message>
         <source>Unmixable dust:</source>
-        <translation>Нязмешвальнае:</translation>
+        <translation>موجودی غیرقابل دسترس :</translation>
     </message>
     <message>
         <source>0.00</source>
@@ -1010,53 +1010,53 @@ Please wait...</source>
     <name>PasswordDialog</name>
     <message>
         <source>Enter password</source>
-        <translation>Введіть пароль</translation>
+        <translation>رمز عبور خود را وارد کنید</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Адмяніць</translation>
+        <translation>لغو</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation>Пароль:</translation>
+        <translation>رمز عبور :</translation>
     </message>
     <message>
         <source>Ok</source>
-        <translation>Добра</translation>
+        <translation>تایید</translation>
     </message>
     <message>
         <source>Wrong password</source>
-        <translation>Няправільны пароль</translation>
+        <translation>رمز عیور اشتباه است</translation>
     </message>
 </context>
 <context>
     <name>PaymentServer</name>
     <message>
         <source>Cannot start balkancoin: click-to-pay handler</source>
-        <translation>Немагчыма запусціць click-to-pay апрацоўшчык balkancoin:</translation>
+        <translation>Cannot start balkancoin: click-to-pay handler</translation>
     </message>
 </context>
 <context>
     <name>PrivateKeysDialog</name>
     <message>
         <source>Private Key</source>
-        <translation type="vanished">Прыватны ключ</translation>
+        <translation type="vanished">کلید شخصی</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>Зачыніць</translation>
+        <translation>بستن</translation>
     </message>
     <message>
         <source>...</source>
-        <translation type="obsolete">...</translation>
+        <translation type="vanished">...</translation>
     </message>
     <message>
         <source>Copy key</source>
-        <translation>Скапіяваць ключ</translation>
+        <translation>تهیه رونوشت از کلید</translation>
     </message>
     <message>
         <source>Private Keys</source>
-        <translation>Прыватные ключи</translation>
+        <translation>کلیدهای شخصی</translation>
     </message>
     <message>
         <source>Spend Secret Key</source>
@@ -1071,237 +1071,241 @@ Please wait...</source>
     <name>QObject</name>
     <message>
         <source>Error</source>
-        <translation>Памылка</translation>
+        <translation>خطا</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation>Дапамога</translation>
+        <translation>کمک</translation>
     </message>
     <message>
         <source>Fail</source>
-        <translation>Няўдача</translation>
+        <translation>انجام نشد</translation>
     </message>
     <message>
         <source>Loading blockchain...</source>
-        <translation>Загружаецца ланцужок блокаў...</translation>
+        <translation>در حال اسکن زنجیره بلوکی</translation>
     </message>
     <message>
         <source>%1 wallet already running or cannot create lock file %2. Check your permissions.</source>
-        <translation>%1 ужо адкрыты ці не можа стварыць файл блакіроўкі %2. Праверце правы доступу.</translation>
+        <translation>کیف پول کربو در حال اجراست و یا شما دسترسی مجاز را ندارید.</translation>
     </message>
     <message>
         <source>New version available</source>
-        <translation>Даступна абнаўленне гаманца</translation>
+        <translation>نسخه جدید در دسترس است</translation>
     </message>
     <message>
         <source>There is update available.
 Do you want to go to download page?</source>
-        <translation>Ёсць новая версія гаманца.
-Хочаце адкрыць старонку загрузкі?</translation>
+        <translation>بروزرسانی جدید در دسترس است.
+آیا میخواهید آن را دریافت نمایید ؟</translation>
     </message>
 </context>
 <context>
     <name>ReceiveFrame</name>
     <message>
         <source>Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>پنجره</translation>
     </message>
     <message>
         <source>Copy address</source>
-        <translation>Скапіяваць адрас</translation>
+        <translation>تهیه رونوشت از آدرس</translation>
     </message>
     <message>
         <source>Save QR to file</source>
-        <translation>Захаваць QR код у файл</translation>
+        <translation>ذخیره کد کیو آر به عنوان فایل</translation>
     </message>
     <message>
         <source>Request payment</source>
-        <translation>Плацёжнае патрабаванне</translation>
+        <translation>درخواست واریز</translation>
     </message>
     <message>
         <source>Use this form to request payment.</source>
-        <translation>Выкарыстоўвайце гэтую форму, каб запытаць аплату.</translation>
+        <translation>از این فرم برای درخواست پرداخت استفاده نمایید</translation>
     </message>
     <message>
         <source>Label:</source>
-        <translation>Пазнака:</translation>
+        <translation>برچسب :</translation>
+    </message>
+    <message>
+        <source>Enter a label for this payer</source>
+        <translation type="vanished">یک برچسب برای این پرداخت کننده وارد نمایید</translation>
     </message>
     <message>
         <source>Amount:</source>
-        <translation>Сума:</translation>
+        <translation>مقدار :</translation>
     </message>
     <message>
         <source>PaymentID:</source>
-        <translation>Ідэнтыфікатар плацяжу:</translation>
+        <translation>شناسه پرداخ :</translation>
     </message>
     <message>
         <source>Generate Payment ID</source>
-        <translation>Згенераваць ідэнтыфікатар</translation>
+        <translation>ایجاد شناسه پرداخت</translation>
     </message>
     <message>
         <source>Create payment request</source>
-        <translation>Стварыць плацёжнае патрабаванне</translation>
+        <translation>ایجاد درخواست پرداخت</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>Зачыніць</translation>
+        <translation>بستن</translation>
     </message>
     <message>
         <source>Enter desired label for payer&apos;s address book</source>
-        <translation>Як вас запісаць у кантакты плацельшчыка</translation>
+        <translation>برچسب دلخواه را برای مخاطب پرداخت کننده وارد نمایید</translation>
     </message>
     <message>
         <source>Payment identifier which payer should attach to transaction</source>
-        <translation>Ідэнтыфікатар плацяжу які плацельшчык павінен уключыць у транзакцыю</translation>
+        <translation>شناسه پرداخت که پرداخ کننده باید هنگام ارسال پول تنظیم نماید</translation>
     </message>
 </context>
 <context>
     <name>RestoreFromMnemonicSeedDialog</name>
     <message>
         <source>Restore from mnemonic phrase</source>
-        <translation>Аднаўленне з мнеманічнай фразы</translation>
+        <translation>بازنشانی از طریق کد پشتیبان mnemonic</translation>
     </message>
     <message>
         <source>Mnemonic:</source>
-        <translation>Мнеманіка:</translation>
+        <translation>کد پشتیبان :</translation>
     </message>
     <message>
         <source>...</source>
-        <translation type="obsolete">...</translation>
+        <translation type="vanished">...</translation>
     </message>
     <message>
         <source>Wallet path:</source>
-        <translation type="vanished">Шлях да гаманца:</translation>
+        <translation type="vanished">مسیر کیف پول :</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Адмяніць</translation>
+        <translation>لغو</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation>Добра</translation>
+        <translation>تایید</translation>
     </message>
     <message>
         <source>Where to save new wallet file:</source>
-        <translation>Дзе захаваць файл новага гаманца:</translation>
+        <translation>مسیر پیشنهادی برای ذخیره سازی فایل کیف پول جدید :</translation>
     </message>
     <message>
         <source>Select folder</source>
-        <translation>Выбраць каталог</translation>
+        <translation>انتخاب پوشه</translation>
     </message>
 </context>
 <context>
     <name>SendFrame</name>
     <message>
         <source>Frame</source>
-        <translation></translation>
+        <translation>پنجره</translation>
     </message>
     <message>
         <source>Anonymity level:</source>
-        <translation type="vanished">Узровень прыватнасці:</translation>
+        <translation type="vanished">میزان ناشناس بودن :</translation>
     </message>
     <message>
         <source>PaymentID:</source>
-        <translation type="vanished">Ідэнтыфікатар плацяжу:</translation>
+        <translation type="vanished">شناسه پرداخت :</translation>
     </message>
     <message>
         <source>Send</source>
-        <translation>Выслаць</translation>
+        <translation>ارسال</translation>
     </message>
     <message>
         <source>Clear All</source>
-        <translation>Ачысціць усе</translation>
+        <translation>همه را پاک کن</translation>
     </message>
     <message>
         <source>Add Recipient</source>
-        <translation>Дадаць атрымальніка</translation>
+        <translation>اضافه کردن رسید</translation>
     </message>
     <message>
         <source>Balance:</source>
-        <translation type="vanished">Баланс:</translation>
+        <translation type="vanished">موجودی :</translation>
     </message>
     <message>
         <source>Fee:</source>
-        <translation type="vanished">Поплатак:</translation>
+        <translation type="vanished">کارمزد :</translation>
     </message>
     <message>
         <source>Payment identifier issued by payee (exchange, shop or other entity)</source>
-        <translation>Ідэнтыфікатар плацяжу выдадзены атрымальнікам (біржай, крамай ці іншы)</translation>
+        <translation>شناسه پرداخت که باید توسط گیرنده قبل از واریز برای شما ارسال شود. معمولا برای ارسال به صرافی ها مورد استفاده قرار میگیرد</translation>
     </message>
     <message>
         <source>Donate 0.1% to development fund:</source>
-        <translation>Ахвяруйце 0,1% у фонд развіцця:</translation>
+        <translation>ارسال 0.1% برای برنامه نویسان پروژه جهت ارتقا آن</translation>
     </message>
     <message>
         <source>Generate Payment ID</source>
-        <translation>Згенераваць ідэнтыфікатар</translation>
+        <translation>ایجاد شناسه پرداخت</translation>
     </message>
     <message>
         <source>Wallet is connected through remote node. Additional 0.25% fee will be applied.</source>
-        <translation>Гаманец падлучаны праз аддалены вузел. Будзе прымяняцца дадатковая плата 0,25%.</translation>
+        <translation>کیف پول از طریق ریموت دایمون به شبکه متصل است. به همین دلیل با هر تراکنش 0.25 درصد کربو برای سرور اختصاص می گیرد.</translation>
     </message>
     <message>
         <source>Remote node mode</source>
-        <translation type="vanished">Рэжым аддаленага вузла</translation>
+        <translation type="vanished">حالت دایمون از راه دور</translation>
     </message>
     <message>
         <source>Available balance:</source>
-        <translation>Даступны баланс:</translation>
+        <translation>موجودی در دسترس :</translation>
     </message>
     <message>
         <source>Payment ID:</source>
-        <translation>Ідэнтыфікатар:</translation>
+        <translation>شناسه واریز :</translation>
     </message>
     <message>
         <source>Anonymity:</source>
-        <translation>Прыватнасць:</translation>
+        <translation>مرحله ی ناشناس بودن:</translation>
     </message>
     <message>
         <source>Priority:</source>
-        <translation>Прыярытэт:</translation>
+        <translation>اولویت :</translation>
     </message>
     <message>
         <source>Manual fee override:</source>
-        <translation>Ручная карэкціроўка поплаткі:</translation>
+        <translation>کارمزد دستی :</translation>
     </message>
     <message>
         <source>Advanced</source>
-        <translation>Прасунуты</translation>
+        <translation>حالت پیشرفته</translation>
     </message>
     <message>
         <source>Remote mode</source>
-        <translation>Аддалены рэжым</translation>
+        <translation>حالت از راه دور</translation>
     </message>
     <message>
         <source>Send All</source>
-        <translation>Выслаць усе</translation>
+        <translation>ارسال همه</translation>
     </message>
 </context>
 <context>
     <name>ShowPaymentRequestDialog</name>
     <message>
         <source>Payment request</source>
-        <translation>Запыт на атрыманне плацяжу</translation>
+        <translation>درخواست واریز</translation>
     </message>
     <message>
         <source>Payment information</source>
-        <translation>Інфармацыя пра плацёж</translation>
+        <translation>اطلاعات پرداخت</translation>
     </message>
     <message>
         <source>Copy URI</source>
-        <translation>Скапіяваць URI</translation>
+        <translation>تهیه رونوشت از URI</translation>
     </message>
     <message>
         <source>Save URI</source>
-        <translation>Захаваць URI</translation>
+        <translation>ذخیره URI</translation>
     </message>
     <message>
         <source>Save image</source>
-        <translation>Захаваць малюнак</translation>
+        <translation>ذخیره تصویر</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>Зачыніць</translation>
+        <translation>بستن</translation>
     </message>
 </context>
 <context>
@@ -1312,83 +1316,83 @@ Do you want to go to download page?</source>
     </message>
     <message>
         <source>Close</source>
-        <translation>Зачыніць</translation>
+        <translation>بستن</translation>
     </message>
     <message>
         <source>Sign message</source>
-        <translation>Падпісаць паведамленне</translation>
+        <translation>امضا پیام</translation>
     </message>
     <message>
         <source>Message</source>
-        <translation>Паведамленне</translation>
+        <translation>پیام</translation>
     </message>
     <message>
         <source>Signature</source>
-        <translation>Подпіс</translation>
+        <translation>امضا</translation>
     </message>
     <message>
         <source>Verify message</source>
-        <translation>Праверыць паведамленне</translation>
+        <translation>تایید پیام</translation>
     </message>
     <message>
         <source>Address</source>
-        <translation>Адрас</translation>
+        <translation>آدرس</translation>
     </message>
 </context>
 <context>
     <name>TransactionDetailsDialog</name>
     <message>
         <source>Transaction details</source>
-        <translation>Падрабязнасці ўгоды</translation>
+        <translation>جزییات تراکنش</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>Зачыніць</translation>
+        <translation>بستن</translation>
     </message>
 </context>
 <context>
     <name>TransactionFrame</name>
     <message>
         <source>Frame</source>
-        <translation></translation>
+        <translation>پنجره</translation>
     </message>
     <message>
         <source>TextLabel</source>
-        <translation></translation>
+        <translation>برچسبنوشته</translation>
     </message>
 </context>
 <context>
     <name>TransactionsFrame</name>
     <message>
         <source>Frame</source>
-        <translation></translation>
+        <translation>پنجره</translation>
     </message>
     <message>
         <source>Export</source>
-        <translation>Экспартаваць</translation>
+        <translation>تهیه خروجی</translation>
     </message>
     <message>
         <source>Selected amount: </source>
-        <translation>Усяго ў абраным:</translation>
+        <translation>میزان انتخاب شده: </translation>
     </message>
     <message>
         <source>Search for address, amount, transaction hash or Payment ID</source>
-        <translation>Пошук адрасы, сумы, транзакцыі або ідэнтыфікатара плацяжу</translation>
+        <translation>جستجو برای آدرس مقدار هش تراکنش و یا شناسه واریز</translation>
     </message>
     <message>
         <source>Reset filter</source>
-        <translation>Скінуць фільтр</translation>
+        <translation>ریست فیلتر</translation>
     </message>
 </context>
 <context>
     <name>TransferFrame</name>
     <message>
         <source>Frame</source>
-        <translation></translation>
+        <translation>پنجره</translation>
     </message>
     <message>
         <source>Pay To:</source>
-        <translation>Атрымальнік:</translation>
+        <translation>پرداخت به:</translation>
     </message>
     <message>
         <source>...</source>
@@ -1396,190 +1400,179 @@ Do you want to go to download page?</source>
     </message>
     <message>
         <source>Enter a label for this address to add it to your address book</source>
-        <translation>Калі ласка, увядзіце пазнаку для гэтага адрасу каб здаць яе ў адрасную кнігу</translation>
+        <translation>برچسبی برای این آدرس وارد نمایید ا آن را به لیست مخاطبینتان اضافه کنیم</translation>
     </message>
     <message>
         <source>Amount:</source>
-        <translation>Сума:</translation>
+        <translation>مقدار :</translation>
     </message>
     <message>
         <source>Label:</source>
-        <translation type="vanished">Пазнака:</translation>
+        <translation type="vanished">برچسب :</translation>
     </message>
     <message>
         <source>Add to Contacts:</source>
-        <translation type="vanished">Дадаць у спіс кантактаў:</translation>
+        <translation type="vanished">اضافه کردن به مخاطبین :</translation>
     </message>
     <message>
         <source>Select recipient from Address Book</source>
-        <translation>Выберыце атрымальніка з адраснай кнігі</translation>
+        <translation>انتخاب رسید از مخاطبین</translation>
     </message>
     <message>
         <source>Paste from clipboard</source>
-        <translation>Уставіць з буфера абмену</translation>
+        <translation>جایگذاری از کلیپ بورد</translation>
     </message>
     <message>
         <source>Save to Contacts:</source>
-        <translation type="vanished">Захаваць у спіс кантактаў:</translation>
+        <translation type="vanished">اضافه کردن به مخاطبین :</translation>
     </message>
     <message>
         <source>Save to Contacts as:</source>
-        <translation>Захаваць у спіс кантактаў як:</translation>
+        <translation>اضافه کردن به مخاطبین به عنوان :</translation>
     </message>
     <message>
         <source>Remove recepient</source>
-        <translation>Выдаліць атрымальніка</translation>
+        <translation>حذف رسید</translation>
     </message>
 </context>
 <context>
     <name>Updater</name>
     <message>
         <source>Unable to check for update</source>
-        <translation>Не ў стане праверыць наяўнасць абнаўленняў</translation>
+        <translation>خطا در تلاش برای اطلاع از بروزرسانی</translation>
     </message>
     <message>
         <source>Error: %1</source>
-        <translation>Памылка: %1</translation>
+        <translation>Error: %1</translation>
     </message>
 </context>
 <context>
     <name>VerifyMnemonicSeedDialog</name>
     <message>
         <source>New deterministic wallet created</source>
-        <translation>Створаны новы дэтэрмінаваны гаманец</translation>
+        <translation>ولت جدید deterministic ایجاد شد</translation>
     </message>
     <message>
         <source>This is mnemonic seed of your wallet. Write it down carefully. It allows to restore your wallet.</source>
-        <translation>Гэта мнеманічная фраза гаманца. Старанна запішыце яе. З яе можна аднавіць гаманец.</translation>
+        <translation>این کد پشتیبان کیف پول شماست. لطفا آن را جایی یادداشت نمایید. در آینده برای بازگردانی کیف پول خود به آن نیاز خواهید داشت.</translation>
     </message>
     <message>
         <source>Mnemonic:</source>
-        <translation>Мнеманіка:</translation>
+        <translation>کد پشتیبان Mnemonic:</translation>
     </message>
     <message>
         <source>Repeat:</source>
-        <translation>Паўтор:</translation>
+        <translation>تکرار :</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation>Добра</translation>
+        <translation>تایید</translation>
     </message>
     <message>
         <source>Select language</source>
-        <translation>Абярыце мову</translation>
-    </message>
-</context>
-<context>
-    <name>WalletGui</name>
-    <message>
-        <source>Synchronization in progress</source>
-        <translation type="obsolete">Выконваецца сінхранізацыя</translation>
-    </message>
-    <message>
-        <source>Not synchronized</source>
-        <translation type="obsolete">Ня сінхранізаваны</translation>
-    </message>
-    <message>
-        <source>Synchronized</source>
-        <translation type="obsolete">Сінхранізаваны</translation>
+        <translation>انتخاب زبان</translation>
     </message>
 </context>
 <context>
     <name>WalletGui::AboutDialog</name>
     <message>
         <source>About %1 Wallet</source>
-        <translation>Пра %1</translation>
+        <translation>درباره کیف پول کربو</translation>
     </message>
 </context>
 <context>
     <name>WalletGui::AccountFrame</name>
     <message>
         <source>Hide private keys</source>
-        <translation type="vanished">Схаваць прыватныя ключы</translation>
+        <translation type="vanished">مخفی سازی کلید شخصی</translation>
     </message>
     <message>
         <source>Show private keys</source>
-        <translation type="vanished">Паказаць прыватныя ключы</translation>
+        <translation type="vanished">نمایش کلید شخصی</translation>
     </message>
     <message>
         <source>Copied to clipboard</source>
-        <translation>Скапіявана</translation>
+        <translation>در کلیپبورد ذخیره شد</translation>
     </message>
 </context>
 <context>
     <name>WalletGui::AddressBookFrame</name>
     <message>
         <source>Invalid address</source>
-        <translation>Няправільны адрас</translation>
+        <translation>آدرس اشتباه است</translation>
     </message>
     <message>
         <source>Invalid payment ID</source>
-        <translation>Няправільны ідэнтыфікатар плацяжу</translation>
+        <translation>شناسه واریز اشتباه است</translation>
     </message>
     <message>
         <source>Edit contact</source>
-        <translation>Рэдагаваць кантакт</translation>
+        <translation>ویرایش مخاطب</translation>
+    </message>
+    <message>
+        <source>Contact with such label and address already exists.</source>
+        <translation type="vanished">مخاطبی با همین برچسب و آدرس در حال حاضر موجود است.</translation>
     </message>
     <message>
         <source>Copy &amp;label</source>
-        <translation>Капіяваць &amp;назву</translation>
+        <translation>کپی &amp;برچسب</translation>
     </message>
     <message>
         <source>Copy Payment &amp;ID</source>
-        <translation>Капіяваць &amp;Ідэнтыфікатар плацяжу</translation>
+        <translation>کپی شناسه &amp;واریز</translation>
     </message>
     <message>
         <source>Copy &amp;address</source>
-        <translation>Капіяваць &amp;адрас</translation>
+        <translation>کپی &amp;آدرس</translation>
     </message>
     <message>
         <source>&amp;Edit</source>
-        <translation>&amp;Змяніць</translation>
+        <translation>&amp;ویرایش</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation>&amp;Выдаліць</translation>
+        <translation>&amp;حذف</translation>
     </message>
     <message>
         <source>Contact with such label already exists.</source>
-        <translation>Кантакт з такой назвай ужо ёсць.</translation>
+        <translation>مخاطبی با همین برجسب درحال حاضر موجود است.</translation>
     </message>
     <message>
         <source>&amp;Pay to</source>
-        <translation>&amp;Заплаціць гэтым атрымальніку</translation>
+        <translation>&amp;پرداخت به</translation>
     </message>
 </context>
 <context>
     <name>WalletGui::AddressBookModel</name>
     <message>
         <source>Label</source>
-        <translation>Пазнака</translation>
+        <translation>برچسب</translation>
     </message>
     <message>
         <source>Address</source>
-        <translation>Адрас</translation>
+        <translation>آدرس</translation>
     </message>
     <message>
         <source>PaymentID</source>
-        <translation>Ідэнтыфікатар плацяжу</translation>
+        <translation>شناسه واریز</translation>
     </message>
 </context>
 <context>
     <name>WalletGui::ChangePasswordDialog</name>
     <message>
         <source>Password not confirmed</source>
-        <translation>Пароль не пацверджаны</translation>
+        <translation>رمزعبور تایید نشد</translation>
     </message>
 </context>
 <context>
     <name>WalletGui::CommandLineParser</name>
     <message>
         <source>Used to deploy test nets. Checkpoints and hardcoded seeds are ignored, network id is changed. Use it with –data-dir flag. The wallet must be launched with –testnet flag</source>
-        <translation>Для разгортвання тэставай сеткі. Чекпойнты і жорстка закадаваныя насенне ігнаруюцца, ідэнтыфікатар сеткі зменены.  Выкарыстоўвайце яго з сцягам –data-dir. гаманца павінен быць запушчаны з –testnet</translation>
+        <translation>برای ایجاد تست نت استفاده میشود. چکپوینت ها و سیدهای موجود نادیده گرفته میشوند و شناسه شبکه تغییر میکند. باید آن را با فلگ -data-dirا استفاده کنید. کیف پول باید با فلگ -testnet باز شود.</translation>
     </message>
     <message>
         <source>Interface for p2p network protocol</source>
-        <translation>Інтерфейс для мережевого p2p протоколу</translation>
+        <translation>Interface for p2p network protocol</translation>
     </message>
     <message>
         <source>ip</source>
@@ -1587,137 +1580,141 @@ Do you want to go to download page?</source>
     </message>
     <message>
         <source>Port for p2p network protocol</source>
-        <translation>Порт для пратаколу p2p сеткі</translation>
+        <translation>Port for p2p network protocol</translation>
     </message>
     <message>
         <source>port</source>
-        <translation>порт</translation>
+        <translation>پورت</translation>
     </message>
     <message>
         <source>Allow local ip add to peer list, mostly in debug purposes</source>
-        <translation>Дазволіць лакальнаму IP дадаць у спіс аднарангавыя вузлоў, галоўным чынам у мэтах адладкі</translation>
+        <translation>Allow local ip add to peer list, mostly in debug purposes</translation>
     </message>
     <message>
         <source>Manually add peer to local peerlist</source>
-        <translation>Уручную дадайце піра да лакальнага спісу піраў</translation>
+        <translation>Manually add peer to local peerlist</translation>
     </message>
     <message>
         <source>peer</source>
-        <translation>пір</translation>
+        <translation>peer</translation>
     </message>
     <message>
         <source>Specify list of peers to connect to and attempt to keep the connection open</source>
-        <translation>Пакажыце спіс піраў, каб падключыцца да любой спробе захаваць злучэнне адкрытым</translation>
+        <translation>Specify list of peers to connect to and attempt to keep the connection open</translation>
     </message>
     <message>
         <source>node</source>
-        <translation>вузел</translation>
+        <translation>nodo</translation>
     </message>
     <message>
         <source>Specify list of peers to connect to only. If this option is given the options add-priority-node and seed-node are ignored</source>
-        <translation>Пакажыце спіс піраў для падлучэння толькі. Калі гэтая опцыя зададзена опцыі дадання прыярытэту вузла і насенняводства вузла ігнаруюцца</translation>
+        <translation>Specify list of peers to connect to only. If this option is given the options add-priority-node and seed-node are ignored</translation>
     </message>
     <message>
         <source>Connect to a node to retrieve peer addresses, and disconnect</source>
-        <translation>Падключэнне да вузла для атрымання IP-адрасы, і адлучыць</translation>
+        <translation>Connect to a node to retrieve peer addresses, and disconnect</translation>
     </message>
     <message>
         <source>Do not announce yourself as peerlist candidate</source>
-        <translation>Ня апавяшчаць сябе як peerlist кандыдата</translation>
+        <translation>Do not announce yourself as peerlist candidate</translation>
     </message>
     <message>
         <source>Specify data directory</source>
-        <translation>Пакажыце каталог дадзеных</translation>
+        <translation>Specify data directory</translation>
     </message>
     <message>
         <source>directory</source>
-        <translation>каталог</translation>
+        <translation>مسیر</translation>
     </message>
     <message>
         <source>Run application in minimized mode</source>
-        <translation>Запуск прыкладанняў у фонавым рэжыме</translation>
+        <translation>اجرا کیف پول در حالت کوچک</translation>
     </message>
     <message>
         <source>Balkancoin wallet</source>
-        <translation>Гаманец карбованцаў</translation>
+        <translation>Balkancoin wallet</translation>
     </message>
     <message>
         <source>External port for p2p network protocol (if port forwarding used with NAT)</source>
-        <translation>Знешні порт для пратаколу p2p сеткі (калі выкарыстоўваецца перанакіраванне партоў з NAT)</translation>
+        <translation>External port for p2p network protocol (if port forwarding used with NAT)</translation>
     </message>
 </context>
 <context>
     <name>WalletGui::ConfirmSendDialog</name>
     <message>
-        <source>Confirm sending %1 BKC</source>
-        <translation>Пацвердзіце адпраўку %1 крб.</translation>
+        <source>تایید ارسال %1 BKC</source>
+        <translation type="vanished">تایید ارسال %1 BKC</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Payment ID: %1&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Ідэнтыфікатар плацяжу: %1&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;شناسه پرداخت: %1&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Are you sure you want to send &lt;strong&gt;without Payment ID&lt;/strong&gt;?&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Вы ўпэўненыя, што хочаце адправіць &lt;strong&gt;без ідэнтыфікатара плацяжу&lt;/strong&gt;?&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;آیا مطمینید که میخواهید  &lt;strong&gt;sin کربو را بدون شناسه واریز ارسال کنید&lt;/strong&gt;?&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+    </message>
+    <message>
+        <source>Confirm sending %1 BKC</source>
+        <translation type="unfinished">تایید ارسال %1 BKC</translation>
     </message>
 </context>
 <context>
     <name>WalletGui::ExportTrackingKeyDialog</name>
     <message>
         <source>Save tracking key to...</source>
-        <translation>Захаваць ключ адсочвання...</translation>
+        <translation>ذخیره کلید پیگیری در ...</translation>
     </message>
     <message>
         <source>Tracking key (*.trackingkey)</source>
-        <translation>Ключ сачэння (*.trackingkey)</translation>
+        <translation>کلید پیگیری (*.trackingkey)</translation>
     </message>
 </context>
 <context>
     <name>WalletGui::GetBalanceProofDialog</name>
     <message>
         <source>Save as</source>
-        <translation>Захаваць у файл</translation>
+        <translation>ذخیره به عنوان فایل</translation>
     </message>
 </context>
 <context>
     <name>WalletGui::ImportKeyDialog</name>
     <message>
         <source>Wallet file</source>
-        <translation>Файл гаманца</translation>
+        <translation>فایل کیف پول</translation>
     </message>
     <message>
         <source>Wallets (*.wallet)</source>
-        <translation>Гаманцы (*.wallet)</translation>
+        <translation>کیف پول ها (*.wallet)</translation>
     </message>
 </context>
 <context>
     <name>WalletGui::ImportTrackingKeyDialog</name>
     <message>
         <source>Tracking wallet file</source>
-        <translation>Файл гаманца адсочвання</translation>
+        <translation>فایل کیف پول پیگیری</translation>
     </message>
     <message>
         <source>Tracking wallets (*.trackingwallet)</source>
-        <translation type="vanished">Гаманцы адсочвання (*.trackingwallet)</translation>
+        <translation type="vanished">کیف پول های پیگیری (*.trackingwallet)</translation>
     </message>
     <message>
         <source>Tracking wallets (*.wallet)</source>
-        <translation>Гаманцы адсочвання (*.wallet)</translation>
+        <translation>کیف پول های قابل پیگیری (*.wallet)</translation>
     </message>
 </context>
 <context>
     <name>WalletGui::InfoDialog</name>
     <message>
         <source>%1 (Outgoing: %2, Incoming: %3)</source>
-        <translation>%1 (Выходныя: %2, Уваходныя: %3)</translation>
+        <translation>%1 (Saliente: %2, Entrante :%3)</translation>
     </message>
     <message>
         <source>White: %1, Grey: %2</source>
-        <translation>Белы: %1, Шэры: %2</translation>
+        <translation>Blanco: %1, Gris: %2</translation>
     </message>
     <message>
         <source>Known: %1, Local: %2</source>
-        <translation>Вядома: %1, Загружаны: %2</translation>
+        <translation>Conocido: %1, Local: %2</translation>
     </message>
     <message>
         <source>%1</source>
@@ -1728,137 +1725,127 @@ Do you want to go to download page?</source>
     <name>WalletGui::MainWindow</name>
     <message>
         <source>About %1 Wallet</source>
-        <translation>Пра гаманец</translation>
+        <translation>درباره کیف پول کربو</translation>
     </message>
     <message>
         <source>New wallet file</source>
-        <translation>Новы файл гаманца</translation>
+        <translation>قایل کیف پول جدید</translation>
     </message>
     <message>
         <source>Wallets (*.wallet)</source>
-        <translation>Кашалькі (*.wallet)</translation>
+        <translation>کیف پول (*.wallet)</translation>
     </message>
     <message>
         <source>Open .wallet/.keys file</source>
-        <translation>Адкрыць файл .wallet/.keys</translation>
+        <translation>باز کردن .wallet / .keys</translation>
     </message>
     <message>
         <source>Wallet (*.wallet *.keys)</source>
-        <translation>Гаманец (*.wallet *.keys)</translation>
+        <translation>کیف پول (*.wallet *.keys)</translation>
     </message>
     <message>
         <source>Backup wallet to...</source>
-        <translation>Рэзервовае капіраванне гаманца ў...</translation>
+        <translation>تهیه نسخه پشتیبان از کیف پول...</translation>
     </message>
     <message>
         <source>Warning</source>
-        <translation>Папярэджанне</translation>
+        <translation>اخطار</translation>
     </message>
     <message>
         <source>Your wallet will be reset and restored from blockchain.
 Are you sure?</source>
-        <translation>Ваш гаманец будзе скінута і адноўлена з блокчейн.
-Вы ўпэўненыя?</translation>
+        <translation>کیف پول شما ریست میشود و دوباره موجودی کامل شما با بلاکچین چک میشود
+آیا مطمینید ؟</translation>
     </message>
     <message>
         <source>Wallet error</source>
-        <translation>Памылка гаманца</translation>
+        <translation>خطای کیف پول</translation>
     </message>
     <message>
         <source>Wallet</source>
-        <translation>Гаманец</translation>
+        <translation>کیف پول</translation>
     </message>
     <message>
         <source>Encrypted</source>
-        <translation>Зашыфраваны</translation>
+        <translation>رمزگذاری شده</translation>
     </message>
     <message>
         <source>Not encrypted</source>
-        <translation>Ня зашыфраваны</translation>
+        <translation>رمزگذاری نشده</translation>
     </message>
     <message>
         <source>%1 peers</source>
-        <translation type="vanished">%1 піраў</translation>
+        <translation type="vanished">%1 peers</translation>
     </message>
     <message>
         <source>Synchronization in progress</source>
-        <translation>Выконваецца сінхранізацыя</translation>
+        <translation>درحال همگام سازی با شبکه</translation>
     </message>
     <message>
         <source>Not synchronized</source>
-        <translation>Ня сінхранізаваны</translation>
+        <translation>همگام نیستید</translation>
     </message>
     <message>
         <source>Synchronized</source>
-        <translation>Сінхранізаваны</translation>
+        <translation>همگام شده</translation>
     </message>
     <message>
         <source>The language will be changed after restarting the wallet.</source>
-        <translation type="vanished">Мова будзе зменена пасля перазапуску гаманца.</translation>
+        <translation type="vanished">زبان بعد از راه اندازی مجدد کیف پول تغییر می کند</translation>
     </message>
     <message>
         <source>Language was changed</source>
-        <translation>Мова зменена</translation>
+        <translation>زبان تغییر کرد</translation>
     </message>
     <message>
         <source>%1 Wallet %2</source>
-        <translation type="vanished">Карбованець в. %2 (%1)</translation>
+        <translation type="vanished">%1 کیف پول %2</translation>
     </message>
     <message>
         <source>More info can be found at www.balkancoin.org in Documentation section</source>
-        <translation>Больш інфармацыі на сайце www.balkancoin.org у раздзеле Дакументацыя.</translation>
+        <translation>برای کسب اطلاعات بیشتر به وبسایت www.balkancoin.org قسمت مستندات مراجعه نمایید</translation>
     </message>
     <message>
         <source>Connection settings changed</source>
-        <translation>Налады падлучэння захаваны</translation>
+        <translation>تنظیمات اتصال تغییر کرد</translation>
     </message>
     <message>
         <source>Connection mode will be changed after restarting the wallet.</source>
-        <translation>Рэжым падлучэння будзе зменены пасля перазапуску гаманца</translation>
+        <translation>تغییراتی که در اتصالات ایجاد کردید بعد از راه اندازی مجدد کیف پول قطعی میشوند.</translation>
     </message>
     <message>
         <source>Account toolbar</source>
-        <translation type="vanished">Рахунак</translation>
+        <translation type="vanished">toolbar حساب</translation>
     </message>
     <message>
         <source>Tracking wallet. Spending unawailable</source>
-        <translation>Гаманец адсочвання. Выдаткі недаступныя</translation>
+        <translation>ولت پیگیری. ایجاد تراکنش پشتیبانی نمیشود</translation>
     </message>
     <message>
         <source>Connected through remote node</source>
-        <translation>Падключэнне праз аддалены вузел</translation>
-    </message>
-    <message numerus="yes">
-        <source>%n peer(s)</source>
-        <translation type="vanished">
-            <numerusform>%n пір</numerusform>
-            <numerusform>%n піра</numerusform>
-            <numerusform>%n піраў</numerusform>
-        </translation>
-    </message>
-    <message>
-        <source>Balkancoin Wallet %1</source>
-        <translation>Карбованець в. %1</translation>
+        <translation>به واسطه ریموت دایمون متصل هستید</translation>
     </message>
     <message numerus="yes">
         <source>%n active connection(s)</source>
         <translation>
-            <numerusform>%n актыўнае падлучэння</numerusform>
-            <numerusform>%n актыўныя падлучэння</numerusform>
-            <numerusform>%n актыўных падлучэнняў</numerusform>
+            <numerusform>%n active connection(s)</numerusform>
         </translation>
     </message>
     <message>
+        <source>Balkancoin Wallet %1</source>
+        <translation>Balkancoin Wallet %1</translation>
+    </message>
+    <message>
         <source>&amp;Show / Hide</source>
-        <translation>&amp;Паказаць / Схаваць</translation>
+        <translation>&amp;نمایش / مخفی سازی</translation>
     </message>
     <message>
         <source>Show or hide the main window</source>
-        <translation>Паказаць ці схаваць акно паперніка</translation>
+        <translation>نمایش یا مخفی سازی پنجره اصلی</translation>
     </message>
     <message>
         <source>Total amount: %1, hash: %2</source>
-        <translation type="vanished">Сума: %1, хэш: %2</translation>
+        <translation type="vanished">مقدا کل: %1, هش: %2</translation>
     </message>
     <message>
         <source>Balkancoin Wallet</source>
@@ -1866,310 +1853,310 @@ Are you sure?</source>
     </message>
     <message>
         <source>New transaction received</source>
-        <translation type="vanished">Атрымана новая транзакцыя</translation>
+        <translation type="vanished">تراکنش جدید دریافت شد</translation>
     </message>
     <message>
         <source>Mnemonic seed is not correct</source>
-        <translation>Мнеманічна фраза не з&apos;яўляецца правільнай</translation>
+        <translation>Mnemonic seed اشتباه است</translation>
     </message>
     <message>
         <source>There must be an error in mnemonic seed. Make sure you entered it correctly.</source>
-        <translation>Павінна быць памылка ў мнеманічнай фразе. Пераканайцеся што вы ўвялі яе правільна.</translation>
+        <translation>خطایی در Mnemonic seed صورت گرفته. لطفا مطمین شوید که آن را به درستی وارد نموده اید.</translation>
     </message>
     <message>
         <source>Wallet keys are not valid</source>
-        <translation>Ключы гаманца нядзейныя</translation>
-    </message>
-    <message>
-        <source>Tracking key is not valid</source>
-        <translation>Ключ адсочвання нядзейны</translation>
-    </message>
-    <message>
-        <source>The tracking key you entered is not valid.</source>
-        <translation>Уведзены ключ сачэння няправільны.</translation>
-    </message>
-    <message>
-        <source>Key is not valid</source>
-        <translation>Ключ нядзейны</translation>
-    </message>
-    <message>
-        <source>The public spend key you entered is not valid.</source>
-        <translation>Уведзены публічны ключ расходавання няправільны.</translation>
-    </message>
-    <message>
-        <source>The public view key you entered is not valid.</source>
-        <translation>Уведзены публічны ключ прагляду няправільны.</translation>
-    </message>
-    <message>
-        <source>The private spend key you entered is not valid.</source>
-        <translation>Уведзены прыватны ключ расходавання няправільны.</translation>
-    </message>
-    <message>
-        <source>The private view key you entered is not valid.</source>
-        <translation>Уведзены прыватны ключ прагляду няправільны.</translation>
+        <translation>کلید های کیف پول درست نیستند</translation>
     </message>
     <message>
         <source>The private keys you entered are not valid.</source>
-        <translation>Уведзеныя прыватныя ключы няправільныя.</translation>
+        <translation>کلیدهای شخصی که وارد نموده اید نادرست اند.</translation>
+    </message>
+    <message>
+        <source>Tracking key is not valid</source>
+        <translation>کد کلید پیگیری نادرست است</translation>
+    </message>
+    <message>
+        <source>The tracking key you entered is not valid.</source>
+        <translation>کلید پیگیری که وارد نمودید نادرست است.</translation>
+    </message>
+    <message>
+        <source>Key is not valid</source>
+        <translation>کلید نادرست است</translation>
+    </message>
+    <message>
+        <source>The public spend key you entered is not valid.</source>
+        <translation>کلید عمومی پرداخت که وارد نموده اید نادرست است.</translation>
+    </message>
+    <message>
+        <source>The public view key you entered is not valid.</source>
+        <translation>کلید نمایش عمومی که وارد نموده اید نادرست است.</translation>
+    </message>
+    <message>
+        <source>The private spend key you entered is not valid.</source>
+        <translation>کلید شخصی پرداختی که وارد نموده اید نادرست است.</translation>
+    </message>
+    <message>
+        <source>The private view key you entered is not valid.</source>
+        <translation>کلید نمایش شخصی که وارد نموده اید نادرست است.</translation>
     </message>
     <message>
         <source>Wrong wallet file extension</source>
-        <translation>Неадпаведнае пашырэньне файла гаманца</translation>
+        <translation>پسوند فایل کیف پول نادرست است</translation>
     </message>
     <message>
         <source>Wrong wallet file extension, wallet file should have &quot;.wallet&quot;, &quot;.keys&quot; or &quot;.trackingwallet&quot; extension.</source>
-        <translation>Неадпаведнае пашырэньне файла, файл гаманца павінен мець пашырэнне &quot;.wallet&quot;, &quot;.keys&quot; ці &quot;.trackingwallet&quot;.</translation>
+        <translation>پسوند کیف پول نادرست است, فایل کیف پول باید &quot;.wallet&quot;, &quot;.keys&quot; یا &quot;.trackingwallet&quot;باشد.</translation>
     </message>
     <message>
         <source>Language changed to %1. The change will take effect after restarting the wallet.</source>
-        <translation>Мова зменены на %1. Змена набудзе моц пасля перазапуску гаманца.</translation>
+        <translation>زبان به %1. تغییر یافت. بعد از راه اندازی دوباره کیف پول تغییرات قطعی خواهند شد.</translation>
     </message>
     <message>
         <source>Language changed to %1</source>
-        <translation>Мова зменены на %1</translation>
+        <translation>زبان تغییر کرد به %1</translation>
     </message>
 </context>
 <context>
     <name>WalletGui::MiningFrame</name>
     <message>
         <source>Mining. Hashrate: %1 H/s</source>
-        <translation type="vanished">Чаканка. Хешрейт: %1 H/s</translation>
+        <translation type="vanished">در حال استخراج. هش ریت: %1 H/s</translation>
     </message>
     <message>
         <source>Error: %1</source>
-        <translation type="vanished">Памылка: %1</translation>
+        <translation type="vanished">خطا: %1</translation>
     </message>
     <message>
         <source>Starting...</source>
-        <translation type="vanished">Запуск...</translation>
+        <translation type="vanished">در حال شروع...</translation>
     </message>
     <message>
         <source>Stopped</source>
-        <translation type="vanished">Спынена</translation>
+        <translation type="vanished">متوقف شده</translation>
     </message>
     <message>
         <source>Mining solo. Hashrate: %1 H/s</source>
-        <translation type="vanished">Чаканка соло. Хешрейт: %1 H/s</translation>
+        <translation type="vanished">استخراج تکی. هش ریت: %1 H/s</translation>
     </message>
     <message>
         <source>Starting solo minining...</source>
-        <translation type="vanished">Запуск чаканкі соло...</translation>
+        <translation type="vanished">شروع استخراج تکی...</translation>
     </message>
     <message>
         <source>Mining in pool. Hashrate: %1 H/s</source>
-        <translation type="vanished">Чаканка ў пуле. Хешрейт: %1 H/s</translation>
+        <translation type="vanished">استخراج در استخر. هش ریت: %1 H/s</translation>
     </message>
 </context>
 <context>
     <name>WalletGui::NewPasswordDialog</name>
     <message>
         <source>Password not confirmed</source>
-        <translation>Пароль не пацверджаны</translation>
+        <translation>رمز عبور تایید نشد</translation>
     </message>
 </context>
 <context>
     <name>WalletGui::NodeModel</name>
     <message>
         <source>Node URL</source>
-        <translation>Адрас узла</translation>
+        <translation>Node URL</translation>
     </message>
 </context>
 <context>
     <name>WalletGui::OptimizationSettingsDialog</name>
     <message>
         <source>30 minutes</source>
-        <translation>30 хвілін</translation>
+        <translation>30 دقیقه</translation>
     </message>
     <message>
         <source>1 hour</source>
-        <translation>1 гадз.</translation>
+        <translation>1 ساعت</translation>
     </message>
     <message>
         <source>1.5 hours</source>
-        <translation>1,5 гадз.</translation>
+        <translation>1.5 ساعت</translation>
     </message>
     <message>
         <source>2 hours</source>
-        <translation>2 гадз.</translation>
+        <translation>2 ساعت</translation>
     </message>
     <message>
         <source>2.5 hours</source>
-        <translation>2,5 гадз.</translation>
+        <translation>2.5 ساعت</translation>
     </message>
     <message>
         <source>3 hours</source>
-        <translation>3 гадз.</translation>
+        <translation>3 ساعت</translation>
     </message>
     <message>
         <source>3.5 hours</source>
-        <translation>3,5 гадз.</translation>
+        <translation>3.5 ساعت</translation>
     </message>
     <message>
         <source>4 hours</source>
-        <translation>4 гадз.</translation>
+        <translation>4 ساعت</translation>
     </message>
     <message>
         <source>4.5 hours</source>
-        <translation>4,5 гадз.</translation>
+        <translation>4.5 ساعت</translation>
     </message>
     <message>
         <source>5 hours</source>
-        <translation>5 гадз.</translation>
+        <translation>5 ساعت</translation>
     </message>
     <message>
         <source>5.5 hours</source>
-        <translation>5,5 гадз.</translation>
+        <translation>5.5 ساعت</translation>
     </message>
     <message>
         <source>6 hours</source>
-        <translation>6 гадз.</translation>
+        <translation>6 ساعت</translation>
     </message>
     <message>
         <source>Wallet is currently optimized for this target</source>
-        <translation>Гаманец у цяперашні час аптымізаваны для гэтай мэты</translation>
+        <translation>کیف پول در حال حاضر برای این هدف بهینه شده است</translation>
     </message>
     <message>
         <source> outputs below selected target</source>
-        <translation> выхадаў ніжэй абранай мэты</translation>
+        <translation>خروجی زیر هدف انتخاب شده</translation>
     </message>
     <message>
         <source>Wallet is closed</source>
-        <translation>Гаманец зачынены</translation>
+        <translation>کیف پول بسته است</translation>
     </message>
 </context>
 <context>
     <name>WalletGui::PoolModel</name>
     <message>
         <source>Pool URL</source>
-        <translation type="vanished">Адрас пула</translation>
+        <translation type="vanished">Pool URL</translation>
     </message>
 </context>
 <context>
     <name>WalletGui::QRLabel</name>
     <message>
         <source>&amp;Save Image...</source>
-        <translation>&amp;Захаваць малюнак...</translation>
+        <translation>&amp;ذخیره تصویر...</translation>
     </message>
     <message>
         <source>&amp;Copy Image</source>
-        <translation>&amp;Капіяваць малюнак...</translation>
+        <translation>&amp;کپی تصویر</translation>
     </message>
     <message>
         <source>Save QR Code</source>
-        <translation>Захаваць QR-код</translation>
+        <translation>ذخیره کیو آر کد</translation>
     </message>
 </context>
 <context>
     <name>WalletGui::ReceiveFrame</name>
     <message>
         <source>New PNG file</source>
-        <translation type="vanished">Новы файл PNG</translation>
+        <translation type="vanished">فایل PNG جدید</translation>
     </message>
     <message>
         <source>Save QR Code</source>
-        <translation>Захаваць QR-код</translation>
+        <translation>ذخیره کیو آر کد</translation>
     </message>
 </context>
 <context>
     <name>WalletGui::RestoreFromMnemonicSeedDialog</name>
     <message>
         <source>Wallet file</source>
-        <translation>Файл гаманца</translation>
+        <translation>فایل کیف پول</translation>
     </message>
     <message>
         <source>Wallets (*.wallet)</source>
-        <translation>Гаманец (*.wallet)</translation>
+        <translation>کیف پول ها (*.wallet)</translation>
     </message>
 </context>
 <context>
     <name>WalletGui::SendFrame</name>
     <message>
         <source>Invalid recipient address</source>
-        <translation>Няправільны адрас атрымальніка</translation>
+        <translation>آدرس غیر معتبر</translation>
     </message>
     <message>
         <source>Incorrect fee value</source>
-        <translation>Няправільнае значэнне поплаткі</translation>
+        <translation>مقدار کارمزد اشتباه</translation>
     </message>
     <message>
         <source>Invalid payment ID</source>
-        <translation>Няправільны ідэнтыфікатар плацяжу</translation>
+        <translation>شناسه پرداخت اشتباه</translation>
     </message>
     <message>
         <source>Payment request should start with balkancoin:</source>
-        <translation>Запыт плацяжу мусіць пачынацца з balkancoin:</translation>
+        <translation>درخواست پرداخت باید با balkancoin: شروع شود</translation>
     </message>
     <message>
         <source>Insufficient balance</source>
-        <translation>Недастатковы балянс</translation>
+        <translation>موجودی شما نا کافی است</translation>
     </message>
     <message>
         <source>Available balance is insufficient to send this transaction. Have you excluded a fee?</source>
-        <translation>Даступнага балансу нядосыць для адпраўкі гэтай транзакцыі. Вы не забыліся адняць камісію?</translation>
+        <translation>موجودی شما برای ارسال این تراکنش نا کافی است. آیا کارمزد را در نظر گرفته اید ؟</translation>
     </message>
     <message>
         <source>Low</source>
-        <translation>Нізкі</translation>
+        <translation>پایین</translation>
     </message>
     <message>
         <source>Normal</source>
-        <translation>Нармальны</translation>
+        <translation>عادی</translation>
     </message>
     <message>
         <source>High</source>
-        <translation>Высокі</translation>
+        <translation>بالا</translation>
     </message>
     <message>
         <source>Highest</source>
-        <translation>Найвышэйшы</translation>
+        <translation>بالاترین</translation>
     </message>
     <message>
         <source>Node fee: %1 %2</source>
-        <translation>Паплатак вузла: %1 %2</translation>
+        <translation>کارمزد نود: %1 %2</translation>
     </message>
     <message>
         <source>You have unmixable dust on balance. Use menu &apos;Wallet -&gt; Sweep unmixable&apos; first.</source>
-        <translation>У вас ёсць несмешываемый баланс. Спачатку скарыстайцеся меню «Гаманец -&gt; Прыбраць нязмешвальных».</translation>
+        <translation>شما کربو غیر قابل ارسال دارید. از قسمت منو &apos;کیف پول -&gt; این مقدار را قابل ارسال کنید&apos;.</translation>
     </message>
     <message>
         <source>Insufficient balance.</source>
-        <translation>Недастатковы баланс.</translation>
+        <translation>تعادل ناکافی</translation>
     </message>
 </context>
 <context>
     <name>WalletGui::SendGlassFrame</name>
     <message>
         <source>Synchronizing</source>
-        <translation>Працягваецца сінхранізацыя</translation>
+        <translation>در حال همگام سازی</translation>
     </message>
     <message>
         <source>You will be able to send %1
 when the wallet is synchronized</source>
-        <translation>Вы зможаце адправіць %1
-калі гаманец завершыць сінхранізацыю</translation>
+        <translation>شما قادر به ارسال خواهید بود %1
+هنگامی که کیف پول شما با شبکه همگام شود</translation>
     </message>
 </context>
 <context>
     <name>WalletGui::SignMessageDialog</name>
     <message>
         <source>Sign message</source>
-        <translation>Падпісаць паведамленне</translation>
+        <translation>امضا پیام</translation>
     </message>
     <message>
         <source>Verify signed message</source>
-        <translation>Праверка падпісанага паведамленні</translation>
+        <translation>تایید امضا پیام</translation>
     </message>
     <message>
         <source>Signature is valid</source>
-        <translation>Подпіс сапраўдная</translation>
+        <translation>امضا معتبر است</translation>
     </message>
     <message>
         <source>Signature is invalid!</source>
-        <translation>Подпіс з&apos;яўляецца несапраўдным!</translation>
+        <translation>امضا نامعتبر است!</translation>
     </message>
     <message>
         <source>Address is invalid!</source>
-        <translation type="unfinished">Адрас з&apos;яўляецца несапраўдным!</translation>
+        <translation>آدرس نامعتبر است!</translation>
     </message>
 </context>
 <context>
@@ -2186,28 +2173,26 @@ when the wallet is synchronized</source>
 &lt;span style=&quot; font-weight:600;&quot;&gt;Transaction hash: &lt;/span&gt;%8&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="vanished">&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Cantarell&apos;; font-size:11pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;span style=&quot; font-weight:600;&quot;&gt;Стан: &lt;/span&gt;%1&lt;/p&gt;&lt;br&gt;
-&lt;span style=&quot; font-weight:600;&quot;&gt;Дата: &lt;/span&gt;%2&lt;/p&gt;&lt;br&gt;
-&lt;span style=&quot; font-weight:600;&quot;&gt;Каму: &lt;/span&gt;%4&lt;/p&gt;&lt;br&gt;
-&lt;span style=&quot; font-weight:600;&quot;&gt;Сума: &lt;/span&gt;%5&lt;/p&gt;&lt;br&gt;
-&lt;span style=&quot; font-weight:600;&quot;&gt;Паплатак: &lt;/span&gt;%6&lt;/p&gt;&lt;br&gt;
-&lt;span style=&quot; font-weight:600;&quot;&gt;Ідэнтыфікатар плацяжу: &lt;/span&gt;%7&lt;/p&gt;&lt;br&gt;
-&lt;span style=&quot; font-weight:600;&quot;&gt;Хэш транзакцыі: &lt;/span&gt;%8&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+&lt;span style=&quot; font-weight:600;&quot;&gt;وضعیت: &lt;/span&gt;%1&lt;/p&gt;&lt;br&gt;
+&lt;span style=&quot; font-weight:600;&quot;&gt;تاریخ: &lt;/span&gt;%2&lt;/p&gt;&lt;br&gt;
+&lt;span style=&quot; font-weight:600;&quot;&gt;به: &lt;/span&gt;%4&lt;/p&gt;&lt;br&gt;
+&lt;span style=&quot; font-weight:600;&quot;&gt;مقدار: &lt;/span&gt;%5&lt;/p&gt;&lt;br&gt;
+&lt;span style=&quot; font-weight:600;&quot;&gt;کارمزد: &lt;/span&gt;%6&lt;/p&gt;&lt;br&gt;
+&lt;span style=&quot; font-weight:600;&quot;&gt;شناسه پرداخت: &lt;/span&gt;%7&lt;/p&gt;&lt;br&gt;
+&lt;span style=&quot; font-weight:600;&quot;&gt;هش تراکنش: &lt;/span&gt;%8&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Failed</source>
-        <translation>Не ўдалося</translation>
+        <translation>انجام نشد</translation>
     </message>
     <message>
         <source>Cancelled</source>
-        <translation>Адменена</translation>
+        <translation>لغو شد</translation>
     </message>
     <message numerus="yes">
         <source>%n confirmation(s)</source>
         <translation>
-            <numerusform>%n пацвярджэнне</numerusform>
-            <numerusform>%n пацвярджэння</numerusform>
-            <numerusform>%n пацвярджэнняў</numerusform>
+            <numerusform>%n confirmacion</numerusform>
         </translation>
     </message>
     <message>
@@ -2223,18 +2208,18 @@ when the wallet is synchronized</source>
 &lt;span style=&quot; font-weight:600;&quot;&gt;Transaction Key: &lt;/span&gt;%9&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="vanished">&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Cantarell&apos;; font-size:11pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Стан: &lt;/span&gt;%1&lt;br&gt;
-&lt;span style=&quot; font-weight:600;&quot;&gt;Дата: &lt;/span&gt;%2&lt;br&gt;
-&lt;span style=&quot; font-weight:600;&quot;&gt;Каму: &lt;/span&gt;%4&lt;br&gt;
-&lt;span style=&quot; font-weight:600;&quot;&gt;Сума: &lt;/span&gt;%5&lt;br&gt;
-&lt;span style=&quot; font-weight:600;&quot;&gt;Паплатак: &lt;/span&gt;%6&lt;br&gt;
-&lt;span style=&quot; font-weight:600;&quot;&gt;Ідэнтыфікатар плацяжу: &lt;/span&gt;%7&lt;br&gt;
-&lt;span style=&quot; font-weight:600;&quot;&gt;Хэш транзакцыі: &lt;/span&gt;%8&lt;br&gt;
-&lt;span style=&quot; font-weight:600;&quot;&gt;Ключ транзакцыі: &lt;/span&gt;%9&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Estatus: &lt;/span&gt;%1&lt;br&gt;
+&lt;span style=&quot; font-weight:600;&quot;&gt;تاریخ: &lt;/span&gt;%2&lt;br&gt;
+&lt;span style=&quot; font-weight:600;&quot;&gt;به: &lt;/span&gt;%4&lt;br&gt;
+&lt;span style=&quot; font-weight:600;&quot;&gt;مقدار: &lt;/span&gt;%5&lt;br&gt;
+&lt;span style=&quot; font-weight:600;&quot;&gt;کارمزد: &lt;/span&gt;%6&lt;br&gt;
+&lt;span style=&quot; font-weight:600;&quot;&gt;شناسه پرداخت: &lt;/span&gt;%7&lt;br&gt;
+&lt;span style=&quot; font-weight:600;&quot;&gt;هش تراکنش: &lt;/span&gt;%8&lt;br&gt;
+&lt;span style=&quot; font-weight:600;&quot;&gt;کلید تراکنش: &lt;/span&gt;%9&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>(n/a)</source>
-        <translation>няма дадзеных</translation>
+        <translation>(n/a)</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
@@ -2251,15 +2236,15 @@ when the wallet is synchronized</source>
 &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Cantarell&apos;; font-size:11pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Стан: &lt;/span&gt;%1&lt;br&gt;
-&lt;span style=&quot; font-weight:600;&quot;&gt;Дата: &lt;/span&gt;%2&lt;br&gt;
-&lt;span style=&quot; font-weight:600;&quot;&gt;Каму: &lt;/span&gt;%4&lt;br&gt;
-&lt;span style=&quot; font-weight:600;&quot;&gt;Сума: &lt;/span&gt;%5&lt;br&gt;
-&lt;span style=&quot; font-weight:600;&quot;&gt;Паплатак: &lt;/span&gt;%6&lt;br&gt;
-&lt;span style=&quot; font-weight:600;&quot;&gt;Ідэнтыфікатар плацяжу: &lt;/span&gt;%7&lt;br&gt;
-&lt;span style=&quot; font-weight:600;&quot;&gt;Хэш транзакцыі: &lt;/span&gt;%8&lt;br&gt;
-&lt;span style=&quot; font-weight:600;&quot;&gt;Ключ транзакцыі: &lt;/span&gt;%9
-&lt;span style=&quot; font-weight:600;&quot;&gt;Доказ здзелкі: &lt;/span&gt;%10
+&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Estatus: &lt;/span&gt;%1&lt;br&gt;
+&lt;span style=&quot; font-weight:600;&quot;&gt;تاریخ: &lt;/span&gt;%2&lt;br&gt;
+&lt;span style=&quot; font-weight:600;&quot;&gt;به: &lt;/span&gt;%4&lt;br&gt;
+&lt;span style=&quot; font-weight:600;&quot;&gt;مقدار: &lt;/span&gt;%5&lt;br&gt;
+&lt;span style=&quot; font-weight:600;&quot;&gt;کارمزد: &lt;/span&gt;%6&lt;br&gt;
+&lt;span style=&quot; font-weight:600;&quot;&gt;شناسه پرداخت: &lt;/span&gt;%7&lt;br&gt;
+&lt;span style=&quot; font-weight:600;&quot;&gt;هش تراکنش: &lt;/span&gt;%8&lt;br&gt;
+&lt;span style=&quot; font-weight:600;&quot;&gt;کلید تراکنش: &lt;/span&gt;%9&lt;br&gt;
+&lt;span style=&quot; font-weight:600;&quot;&gt;اثبات معامله: &lt;/span&gt;%10
 &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
@@ -2267,345 +2252,337 @@ when the wallet is synchronized</source>
     <name>WalletGui::TransactionsFrame</name>
     <message>
         <source>Select CSV file</source>
-        <translation>Выбраць файл CSV</translation>
+        <translation>انتخاب فایل CSV</translation>
     </message>
     <message>
         <source>Copy transaction &amp;hash</source>
-        <translation>Капіяваць хэш-транзакцыі</translation>
+        <translation>کپی هش &amp;تراکنش</translation>
     </message>
     <message>
         <source>Copy &amp;amount</source>
-        <translation>Капіяваць &amp;суму</translation>
+        <translation>کپی &amp;مقدار</translation>
     </message>
     <message>
         <source>Copy Payment &amp;ID</source>
-        <translation>Капіяваць &amp;Ідэнтыфікатар плацяжу</translation>
+        <translation>کپی شناسه پرداخت &amp;تراکنش</translation>
     </message>
     <message>
         <source>Show &amp;details</source>
-        <translation>Паказаць &amp;дэталі</translation>
+        <translation>نمایش &amp;جزییات</translation>
     </message>
     <message>
         <source>Unconfirmed</source>
-        <translation>Непацверджаны</translation>
+        <translation>تایید نشده</translation>
     </message>
     <message>
         <source>All</source>
-        <translation>Усе</translation>
+        <translation>همه</translation>
     </message>
     <message>
         <source>Today</source>
-        <translation>Сёння</translation>
+        <translation>امروز</translation>
     </message>
     <message>
         <source>This week</source>
-        <translation>На гэтым тыдні</translation>
+        <translation>این هفته</translation>
     </message>
     <message>
         <source>This month</source>
-        <translation>У гэтым месяцы</translation>
+        <translation>این ماه</translation>
     </message>
     <message>
         <source>Last month</source>
-        <translation>У мінулым месяцы</translation>
+        <translation>ماه اخیر</translation>
     </message>
     <message>
         <source>This year</source>
-        <translation>У гэтым годзе</translation>
+        <translation>امسال</translation>
     </message>
     <message>
         <source>Range...</source>
-        <translation>Прамежак...</translation>
+        <translation>مقیاس...</translation>
     </message>
     <message>
         <source>to</source>
-        <translation>да</translation>
+        <translation>به</translation>
     </message>
     <message>
         <source>From</source>
-        <translation>Ад</translation>
+        <translation>از طرف</translation>
     </message>
     <message>
         <source>All types</source>
-        <translation>Усе тыпы</translation>
+        <translation>همه ی موارد</translation>
     </message>
     <message>
         <source>Incoming</source>
-        <translation>Уваходныя</translation>
+        <translation>در حال واریز</translation>
     </message>
     <message>
         <source>Outgoing</source>
-        <translation>Выходныя</translation>
+        <translation>در حال ارسال</translation>
     </message>
     <message>
         <source>Mined</source>
-        <translation>Здабытыя</translation>
+        <translation>استخراج شده</translation>
     </message>
     <message>
         <source>Sent to myself</source>
-        <translation>Высланыя самому сабе</translation>
+        <translation>ارسال به خودم</translation>
     </message>
 </context>
 <context>
     <name>WalletGui::TransactionsModel</name>
     <message>
         <source>Date</source>
-        <translation>Дата</translation>
+        <translation>تاریخ</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation>Тып</translation>
+        <translation>نوع</translation>
     </message>
     <message>
         <source>Hash</source>
-        <translation>Хэш</translation>
+        <translation>هش</translation>
     </message>
     <message>
         <source>Address</source>
-        <translation>Адрас</translation>
+        <translation>آدرس</translation>
     </message>
     <message>
         <source>Amount</source>
-        <translation>Сума</translation>
+        <translation>مقدار</translation>
     </message>
     <message>
         <source>PaymentID</source>
-        <translation>Ідэнтыфікатар плацяжу</translation>
+        <translation>شناسه پرداخت</translation>
     </message>
     <message>
         <source>me (%1)</source>
-        <translation>мне (%1)</translation>
+        <translation>من (%1)</translation>
     </message>
     <message>
         <source>(n/a)</source>
-        <translation>няма дадзеных</translation>
+        <translation>(n/A)</translation>
     </message>
     <message>
         <source>Incoming transaction, unconfirmed</source>
-        <translation>Уваходная транзакцыя, непацьверджаная</translation>
+        <translation>تراکنش در حال ورود, تایید نشده</translation>
     </message>
     <message>
         <source>Mined, confirmations</source>
-        <translation>Здабыта майнингом, непацьверджаная</translation>
+        <translation>استخراج شده, تاییدیه ها</translation>
     </message>
     <message>
         <source>Sent to yourself, unconfirmed</source>
-        <translation>Выходная транзакцыя, непацьверджаная</translation>
+        <translation>ارسال شده به خودم, تایید نشده</translation>
     </message>
     <message>
         <source>Outgoing transaction, unconfirmed</source>
-        <translation>Выходная транзакцыя, непацьверджаная</translation>
+        <translation>تراکنش های خروجی, تایید نشده</translation>
     </message>
     <message numerus="yes">
         <source>Incoming transaction, %n confirmation(s)</source>
         <translation>
-            <numerusform>Уваходная транзакцыя, %n пацвярджэнне</numerusform>
-            <numerusform>Уваходная транзакцыя, %n пацвярджэння</numerusform>
-            <numerusform>Уваходная транзакцыя, %n пацвярджэнняў</numerusform>
+            <numerusform>تراکنش در حال ورود, %n تاییدیه</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>Mined, %n confirmation(s)</source>
         <translation>
-            <numerusform>Здабыта майнингом, %n пацвярджэнне</numerusform>
-            <numerusform>Здабыта майнингом, %n пацвярджэння</numerusform>
-            <numerusform>Здабыта майнингом, пацвярджэнняў</numerusform>
+            <numerusform>استخراج شده, %n تاییدیه</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>Sent to yourself, %n confirmation(s)</source>
         <translation>
-            <numerusform>Адпраўлена самому сабе, %n пацвярджэнне</numerusform>
-            <numerusform>Адпраўлена самому сабе, %n пацвярджэння</numerusform>
-            <numerusform>Адпраўлена самому сабе, %n пацвярджэнняў</numerusform>
+            <numerusform>ارسال شده به خودتان, %n تاییدیه</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>Outgoing transaction, %n confirmation(s)</source>
         <translation>
-            <numerusform>Выходная транзакцыя, %n пацвярджэнне</numerusform>
-            <numerusform>Выходная транзакцыя, %n пацвярджэння</numerusform>
-            <numerusform>Выходная транзакцыя, %n пацвярджэнняў</numerusform>
+            <numerusform>تراکنش درحال ارسال, %n تاییدیه</numerusform>
         </translation>
     </message>
     <message>
         <source>Key</source>
-        <translation>Ключ</translation>
+        <translation>کلید</translation>
     </message>
 </context>
 <context>
     <name>WalletGui::WalletAdapter</name>
     <message>
         <source>Opening wallet</source>
-        <translation>Адкрываецца гаманец</translation>
+        <translation>در حال باز کردن کیف پول</translation>
     </message>
     <message>
         <source>Importing keys</source>
-        <translation>Імпартуюцца ключы</translation>
+        <translation>وارد نمودن کلید ها</translation>
     </message>
     <message>
         <source>Saving data</source>
-        <translation>Запісваюцца дадзеныя</translation>
+        <translation>ذخیره اطلاعات</translation>
     </message>
     <message>
         <source>Sending transaction</source>
-        <translation>Высылаецца транзакцыя</translation>
+        <translation>در حال ارسال تراکنش</translation>
     </message>
     <message>
         <source>Ready</source>
-        <translation>Гатовы</translation>
+        <translation>آماده</translation>
     </message>
     <message>
         <source>Synchronizing</source>
-        <translation>Працягваецца сінхранізацыя</translation>
+        <translation>درحال همگام سازی</translation>
     </message>
     <message>
         <source>Wallet synchronized. Height: %1  |  Time (UTC): %2%3</source>
-        <translation>Сінхранізаваны. Вышыня: %1  |  Дата і час апошняга блока (UTC): %2%3</translation>
+        <translation>کیف پول همگام شده. آخرین بلاک: %1  |  زمان (UTC): %2%3</translation>
     </message>
     <message>
         <source>  Warning: last block was received %1 hours %2 minutes ago</source>
-        <translation>  Увага: апошні блок атрымана %1 г. %2 хв. таму</translation>
+        <translation>  اخطار: آخرین بلاک %1 ساعت و %2 دقیقه پیش دریافت شد</translation>
     </message>
     <message>
         <source>Object was not initialized</source>
-        <translation>Аб&apos;ект не быў ініцыялізаваны</translation>
+        <translation>مورد آنالیز نشد</translation>
     </message>
     <message>
         <source>The password is wrong</source>
-        <translation>Няправільны пароль</translation>
+        <translation>رمز عبور اشتباه است</translation>
     </message>
     <message>
         <source>The object is already initialized</source>
-        <translation>Аб&apos;ект ужо ініцыялізаваны</translation>
+        <translation>مورد آنالیز شد</translation>
     </message>
     <message>
         <source>Internal error occurred</source>
-        <translation>Адбылася ўнутраная памылка</translation>
+        <translation>خطای داخلی رخ داد</translation>
     </message>
     <message>
         <source>MixIn count is too big</source>
-        <translation>Колькасць мяшання занадта вяліка</translation>
+        <translation>مقدار ناشناس بودن بالاست MixIn</translation>
     </message>
     <message>
         <source>Bad address</source>
-        <translation>Няправільны адрас</translation>
+        <translation>آدرس نادرست</translation>
     </message>
     <message>
         <source>Transaction size is too big</source>
-        <translation>Памер транзакцыі занадта вялікі</translation>
+        <translation>سایز تراکنش بالاست</translation>
     </message>
     <message>
         <source>Wrong amount</source>
-        <translation>Няправільная сума</translation>
+        <translation>مقدار اشتباه</translation>
     </message>
     <message>
         <source>Sum overflow</source>
-        <translation>Перапаўненне значэння сумы</translation>
+        <translation>Sum overflow</translation>
     </message>
     <message>
         <source>The destination is empty</source>
-        <translation>Прызначэнне пустое</translation>
+        <translation>مقصد خالی است</translation>
     </message>
     <message>
         <source>Impossible to cancel transaction</source>
-        <translation>Немагчыма адмяніць транзакцыю</translation>
+        <translation>لغو تراکنش غیر قابل انجام است</translation>
     </message>
     <message>
         <source>The wallet is in wrong state (maybe loading or saving), try again later</source>
-        <translation>Гаманец знаходзіцца ў няправільным стане (магчыма, загрузка або захаванне), паўторыце спробу пазней</translation>
+        <translation>خطایی رخ داده است (کیف پول بارگذاری نمیشود), لطفا دقایقی دیگر امتحان نمایید</translation>
     </message>
     <message>
         <source>The operation you&apos;ve requested has been cancelled</source>
-        <translation>Запытаная аперацыя адменена</translation>
+        <translation>کاری که درخواست نمودید لغو شد</translation>
     </message>
     <message>
         <source>Transaction transfer impossible</source>
-        <translation>Перадача транзакцыі немагчымая</translation>
+        <translation>ایجاد تراکنش غیرممکن است</translation>
     </message>
     <message>
         <source>Wrong version</source>
-        <translation>Няправільная версія</translation>
+        <translation>نسخه اشتباه</translation>
     </message>
     <message>
         <source>Transaction fee is too small</source>
-        <translation>Камісія за транзакцыю занадта малая</translation>
+        <translation>کارمزد تراکنش بسیار پایین است</translation>
     </message>
     <message>
         <source>Cannot generate new key</source>
-        <translation>Не ўдаецца стварыць новы ключ</translation>
+        <translation>نمیتوان کلید جدید ایجاد نمود</translation>
     </message>
     <message>
         <source>Index is out of range</source>
-        <translation>Індэкс за межамі дапушчальнага дыяпазону</translation>
+        <translation>Index is out of range</translation>
     </message>
     <message>
         <source>Address already exists</source>
-        <translation>Адрас ужо існуе</translation>
+        <translation>آدرس از قبل موجود است</translation>
     </message>
     <message>
         <source>The wallet is in tracking mode</source>
-        <translation>Кашалёк знаходзіцца ў рэжыме адсочвання</translation>
+        <translation>کیف پول در حالت پیگیری است</translation>
     </message>
     <message>
         <source>Wrong parameters passed</source>
-        <translation>Перададзеныя няправільныя параметры</translation>
+        <translation>پارامترهای اشتباه پشت سر گذاشته شدند</translation>
     </message>
     <message>
         <source>Object not found</source>
-        <translation>Аб&apos;ект не знойдзены</translation>
+        <translation>پیدا نشد</translation>
     </message>
     <message>
         <source>Requested wallet not found</source>
-        <translation>Запытаны гаманец не знойдзена</translation>
+        <translation>کیف پول درخواستی پیدا نشد</translation>
     </message>
     <message>
         <source>Change address required</source>
-        <translation>Патрабуецца адрас для здачы</translation>
+        <translation>تغییر آدرس خواسته شده</translation>
     </message>
     <message>
         <source>Change address not found</source>
-        <translation>Адрас для здачы не знойдзены</translation>
+        <translation>آدرس تغییر یافته پیدا نشد</translation>
     </message>
     <message>
         <source>Destination address required</source>
-        <translation>Патрабуецца адрас прызначэння</translation>
+        <translation>آدرس کیف پول مقصد اجباری است</translation>
     </message>
     <message>
         <source>Destination address not found</source>
-        <translation>Адрас прызначэння не знойдзены</translation>
+        <translation>آدرس مقصد یافت نشد</translation>
     </message>
     <message>
         <source>Wrong payment id format</source>
-        <translation>Няправільны фармат ідэнтыфікатара плацяжу</translation>
+        <translation>فرمت شناسه پرداخت اشتباه میباشد</translation>
     </message>
     <message>
         <source>Wrong transaction extra format</source>
-        <translation>Няправільны фармат дополительной інфармацыі ў транзакцыі</translation>
+        <translation>فورمت تراکنش اشتباه است</translation>
     </message>
     <message>
         <source>Unknown error</source>
-        <translation>Невядомая памылка</translation>
+        <translation>خطای ناشناخته</translation>
     </message>
     <message>
         <source>Creating wallet</source>
-        <translation>Стварэнне гаманца</translation>
+        <translation>درحال ایجاد کیف پول</translation>
     </message>
     <message>
         <source>Mnemonic seed is not correct</source>
-        <translation>Мнеманічна фраза не з&apos;яўляецца правільнай</translation>
+        <translation>Mnemonic seed اشتباه است کد پشتیبان اشتباه است</translation>
     </message>
     <message>
         <source>There must be an error in mnemonic seed. Make sure you entered it correctly.</source>
-        <translation>Павінна быць памылка ў мнеманічнай фразе. Пераканайцеся што вы ўвялі яе правільна.</translation>
+        <translation>احتمالا خطایی در کد پشتیبان وجود دارد. لطفا مطمین شوید Mnemonic seed را به درستی وارد نموده اید.</translation>
     </message>
     <message>
         <source>Sweeping unmixable dust</source>
-        <translation>Аптымізацыя несмешываемых выхадаў</translation>
+        <translation>پاکسازی میزان غیرقابل ارسال</translation>
     </message>
     <message>
         <source>Optimizing wallet</source>
-        <translation>Аптымізацыя гаманца</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Failed to get the transaction proof</source>

@@ -6,10 +6,6 @@
 	color: #adb2ac;
 }
 
-QTabBar {
-	background-color: #a42024;
-}
-
 QMainWindow {
 	background: rgba(35, 43, 48, 0.8) url(":/images/bg.png") no-repeat bottom left;
 }
@@ -182,7 +178,7 @@ QSlider {
 
 QSlider::groove:horizontal {
 	border: 1px solid #fbb03b;
-	background: qlineargradient(x1: 0, y1: 0, x2: 1, y2: 0, 
+	background: qlineargradient(x1: 0, y1: 0, x2: 1, y2: 0,
 		stop: 0 #a42024,
 		stop: 1 #fbb03b);
 	height: 5px;
@@ -231,7 +227,7 @@ QWidget#scrollAreaWidgetContents {
 	background-color: transparent;
 }
 
-QToolBar#accountToolBar { 
+QToolBar#accountToolBar {
 	background-color: rgba(164, 32, 36, 0.7);
 	border: 0; min-height: 71px;
 }
@@ -244,15 +240,15 @@ QToolBar {
 
 QToolBar#toolBar {
 	background-color: rgba(35, 43, 48 , 0.9);
-	width: 150px; 
-	min-width: 150px; 
-	spacing: 0; 
-	padding: 0; 
+	width: 150px;
+	min-width: 150px;
+	spacing: 0;
+	padding: 0;
 	margin: 0;
 	border: 0;
 }
 
-QToolBar#toolBar QToolButton{ 
+QToolBar#toolBar QToolButton{
 	background-color: transparent;
 	text-align: left;
 	text-transform: uppercase;
@@ -329,12 +325,6 @@ QWidget#ExitWidget {
 	background: rgba(35, 43, 48, 0.8);
 }
 
-
-QTreeView#m_transactionsView, QTreeView#m_addressBookView {
-	background-color: #232b30;
-	alternate-background-color: #2a3033;
-}
-
-QHeaderView {
-	background-color: #232b30;
+QTabWidget {
+    background-color: transparent;
 }
