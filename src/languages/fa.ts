@@ -959,7 +959,7 @@ Please wait...</source>
         <translation>ذخیره</translation>
     </message>
     <message>
-        <source>Wallet optimization is a background task performed in order to aggregate transactions outputs that are below optimization target into bigger ones. It allows to send larger amounts of KRB within one transaction. Wallet optimization is free for all users but takes some time.</source>
+        <source>Wallet optimization is a background task performed in order to aggregate transactions outputs that are below optimization target into bigger ones. It allows to send larger amounts of BKC within one transaction. Wallet optimization is free for all users but takes some time.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1654,8 +1654,8 @@ Do you want to go to download page?</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;آیا مطمینید که میخواهید  &lt;strong&gt;sin کربو را بدون شناسه واریز ارسال کنید&lt;/strong&gt;?&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <source>Confirm sending %1 KRB</source>
-        <translation type="unfinished">تایید ارسال %1 KRB</translation>
+        <source>Confirm sending %1 BKC</source>
+        <translation type="unfinished">تایید ارسال %1 BKC</translation>
     </message>
 </context>
 <context>

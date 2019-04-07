@@ -955,8 +955,8 @@ Please wait...</source>
         <translation>Сохранить</translation>
     </message>
     <message>
-        <source>Wallet optimization is a background task performed in order to aggregate transactions outputs that are below optimization target into bigger ones. It allows to send larger amounts of KRB within one transaction. Wallet optimization is free for all users but takes some time.</source>
-        <translation>Оптимизация кошелька - это фоновая задача, выполняемая для суммирования выходов транзакций, которые ниже целевого показателя оптимизации, в более крупные. Это позволяет отправлять большие суммы KRB в одной транзакции. Оптимизация кошелька бесплатна для всех пользователей, но занимает некоторое время.</translation>
+        <source>Wallet optimization is a background task performed in order to aggregate transactions outputs that are below optimization target into bigger ones. It allows to send larger amounts of BKC within one transaction. Wallet optimization is free for all users but takes some time.</source>
+        <translation>Оптимизация кошелька - это фоновая задача, выполняемая для суммирования выходов транзакций, которые ниже целевого показателя оптимизации, в более крупные. Это позволяет отправлять большие суммы BKC в одной транзакции. Оптимизация кошелька бесплатна для всех пользователей, но занимает некоторое время.</translation>
     </message>
 </context>
 <context>
